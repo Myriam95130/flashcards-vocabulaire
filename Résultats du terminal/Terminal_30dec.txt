@@ -1,0 +1,4142 @@
+Last login: Tue Dec 26 16:01:10 on ttys000
+myriambenhadj@MacBook-Air-de-Myriam ~ % cd /Users/myriambenhadj/Desktop/TAL Informatique
+cd: string not in pwd: /Users/myriambenhadj/Desktop/TAL
+myriambenhadj@MacBook-Air-de-Myriam ~ % cd "/Users/myriambenhadj/Desktop/TAL Informatique"
+myriambenhadj@MacBook-Air-de-Myriam TAL Informatique % ls
+Atelier de description linguistique	Python
+Corpus_TXM				Résultat de Terminal
+Examens TAL L2-L3			TRAITEMENT DE CORPUS TAL
+Projet					Traitement de corpus Python
+Projet.zip
+myriambenhadj@MacBook-Air-de-Myriam TAL Informatique % cd Projet
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls
+boites		data		programmes
+cartes		doc		session
+myriambenhadj@MacBook-Air-de-Myriam Projet % cd data
+myriambenhadj@MacBook-Air-de-Myriam data % cat projet_myriam_fiinal_CSV_.csv 
+Mot;Contexte;Définition;Exemples ;
+Délétère;Au figuré;Nuisible, pernicieux.;Gaz délétère, doctrine délétère.;
+Virginal;;D'une vierge, propre à une vierge, pudeur.;Fraicheur virginale.;
+Discréditer;;Faire perdre leur autorité, leur prestige, leur influence, leur valeur à quelqu'un, quelque chose, déconsidérer .; Ces volte-face ont fini par le discréditer.;
+Prosélitysme;Au figuré;Personne récemment gagnée à une doctrine, un parti, une nouveauté. ;Adepte néophyte, faire de nombreux prosélytes (ex : prosélytisme religieux).;
+Catalyseur;Au figuré;Ce qui déclenche une réaction par la seule présence ou par son intervention. Substance qui augmente la vitesse d'une réaction chimique sans paraître participer à cette réaction.;Le seul catalyseur du choix de l’avenir, c’est Dieu.;
+Empirisme;Philosophie;L’empirisme est une doctrine philosophique qui souligne le rôle de l'expérience dans la connaissance humaine, en minimisant la part de la raison.;L'empirisme d'une méthode de travail.;
+Essaimer;Abeilles ;Quitter la ruche en essaim pour aller s'établir ailleurs. Établie des succursales.; Cette société a essaimé sur tout le territoire, autre ex : sa famille a essaimé dans toute l'Europe.;
+Trépidant;;Qui est agité avec trépidations. Se dit d'un mouvement vif, saccadé.;Une voiture trépidante, une danse trépidante.;
+Manichéen;;Exprime ou dénote une manière de voir ou de juger simplificatrice, sans nuance, qui apprécie les choses selon les principes absolus du bien et du mal, sans nuances et sans état intermédiaire.;Une analyse manichéenne de la situation.;
+Entonner;;Verser dans une tonne, un tonneau. Commencer à chanter un air.;Le Choeur a entonné l’Introït, l’Hymne, le Magnificat. La Musique a entonné un motet. Entonner les prières.;
+Emboucaner;;S'obscurcir ou se couvrir, en parlant du ciel (par analogie), caractérise le temps qu'il fait lorsque le ciel se couvre, que l'atmosphère s’obscurcit, noircir, obscurcir, encombrer.;Arrête de m’emboucaner ou je te prive de pastis.;
+Axiome;Sciences;Proposition considérée comme évidente, admise sans démonstration.;Toute proposition n’est pas un axiome.;
+Décaper;;Débarrasser (une surface) des dépôts, des matières qui y adhèrent fortement.;Décaper un mur avant de le repeindre.;
+Kyrielle;;Longue suite (de paroles), suite inintérrompue, série interminable.;Cette plaideuse nous a fait une longue Kyrielle de ses maux, de ses persécutions, des injustices qu’on lui a fait.;
+Suave;Littéraire;Qui a une douceur exquise, délicieuse.;Un parfum, une musique suave.;
+Happer;;Saisir, attraper brusquement et avec violence, saisir brusquement dans la gueule, le bec.;Il s’est laissé happer par un importun.;
+Fortuit;;Qui arrive par hasard, d'une manière imprévue.;Une rencontre fortuite.;
+Maculer;Littéraire;Couvrir, souiller de tâches.;;
+Professer;Littéraire;Déclarer hautement avoir (un sentiment de croyance), déclarer, exprimer publiquement et hautement une opinion, théorie.;Professer envers un maître la plus vive admiration.;
+Labile;Didactique;Précaire, changeant, se dit de ce qui est fragile, peu stable, notamment en chimie des composés, susceptible de subir des modifications.;Il a la mémoire labile.;
+Cinétique;;Théorie expliquant un ensemble de phénomènes par le mouvement de la matière, qui a le mouvement pour principe (d'un point matériel en mouvement), étude des lois qui régissent la vitesse des réactions chimiques.        ; Énergie cinétique.;
+Ambivalence;;Caractère de ce qui comporte deux composantes de sens contraire, ou de ce qui se présente sous deux aspects.;Une personnalité ambivalente.;
+Patent;Littéraire;Évident, manifeste.;Une injustice patente.;
+Polysémie;Linguistique;Caractère d'un signe qui possède plusieurs contenus, plusieurs sens.;Un mot polysémique.;
+Assertif;;Qui exprime une vérité de fait. Qui n'est ni une interrogative ni une excalamative ni une impérative.;Jugement assertif, phrase assertive.;
+Induction;;Opération mentale qui consiste à remonter des faits à la loi, de cas particuliers à une proposition plus. générale (opposé à déduction). Formule d'hypothèses, considérées comme vraies, basées sur ces observations et on tire des conclusions.;;
+Déduction;;Raisonnement par lequel on déduit, on conclut.;Déduction faite des arrhes.;
+Prescriptif;;Qui constitue une prescription, un commandement, un ordre.;La grammaire est une science prescriptive : elle impose des règles à respecter.;
+Descriptif;;Qui décrit, s'attache à décrire : style descriptif. Géométrie descriptive : technique de représentation plane des figures de l'espace.;La linguistique est descriptive : elle décrit la langue et tous ses aspects.;
+Connexe;;Qui a des rapports étroits avec autre chose.;Affaires, matières, idées, sciences connexes.;
+Dyadique;Didactique;Qui concerne une dyade, un ensemble de deux éléments.;Des éléments dyadiques.;
+Triadique;;Ensemble de trois personnes ou de trois choses étroitement unies.;;
+Onomasiologie;Linguistique ;Étude des significations à partir de l'idée, de la notion, du concept pour en déterminer l'expression (opposé à sémasiologie).;;
+Sémasiologie;Linguistique ;Science des significations, partant du mot pour en étudier le sens (opposé à onomasiologie).;;
+Autonymie;Linguistique ;"Caractère d'un mot, d'un énoncé autonyme, qui se désigne lui-même comme signe dans le discours : dans ""être est un verbe"", ""être"" est autonyme.";;
+Éxecrer;Littéraire;Haïr quelqu'un au plus haut point, avoir de l'aversion, une vive répugnance pour quelque chose.;J’exècre ce genre de comportement.;
+Dissident;;Un dissident est une personne qui se sépare d'une communauté ou parti politique dont elle était membre.;Un bon maître ne doit avoir que des disciples dissidents.;
+Risible;;Propre à exciter une gaieté moqueuse, qui prête à rire, qui mérite qu'on en rie, qu'on s'en moque.;Prétentions risibles. Propos risibles.;
+Ubuesque;;Qui rappelle le personnage d'Ubu, par un caractère grotesque, cruel et couard, absurde, caricaturale et grotesque, la situation vire à l'invraisemblable et échappe à tout sens commun.;Une situation ubuesque est une situation totalement dépourvue de sens.;
+Inopiné;;Qui arrive, se produit alors qu'on s'y attendait pas.;Une visite inopinée.;
+Éducolrer;;Adoucir par addition de sucre, de sirop (un médicament), rendre plus faible dans son expression, adoucir.;Édulcorer un compte rendu sévère.;
+Alambiquer;;Exagérément compliqué et contourné : un esprit alambiqué.;Des expressions alambiquées.;
+Con à bêcher de la flotte;Expression;Sot, imbécile.;;
+Lapalissade ;;Affirmation évidente qui prête à rire : dire des lapalissades. Vérité de La Palisse et vérité de La Palice désignent une vérité de niaise évidence qui possède généralement un caractère naif et humoristique.;Répondre des lapalissades.;
+Se targuer;;Se prévaloir de quelque chose avec ostentation.;Il se targue d'être le meilleur dans ce domaine.;
+Dichotomie ;Didactique;Division, opposition (entre deux éléments, deux idées).;Dichotomie entre la raison et la passion.;
+Apocryphe;Religion;Que l'Église ne tient pas pour canonique, dont l'authenticité est douteuse ou niée.;Les Évangiles apocryphes. Une lettre apocryphe de Napoléon. ;
+Néologisme;;Mot nouveau, sens nouveau.;La glotophobie est un néologisme.;
+Exciper ;;Se prévaloir d'une exception, alléguer une excuse, invoquer un fait pour en tirer une exception.;Exciper de sa bonne foi. Exciper d'une longue prescription.;
+Démagogie ;Politique;Politique par laquelle on flatte les masses por gagner et exploiter leur adhésion.;il fait de la démagogie pour se faire élire.;
+Expurcher ;;Abréger (un texte) en éliminant ce qui est contraire à une morale, à un dogme, en exclure les membres compromettants.;Expurger un parti politique,;
+Imputer;;Attribuer à qqun une chose digne de blâme (faute, crime…).;On lui impute à crime un simple oubli (on considère comme un crime).;
+Conchier;Familier;Souiller d'excréments.;Sachez que je vous conchie et que vos paroles ne sont pour moi que du vent !;
+Oblitérer ;Médecine;Obstruer, boucher (un canal...).;L’ouverture du vaisseau est oblitérée par de la fibrine.;
+Impérialisme ;Politique;Politique d'un État visant à réduire d'autres États sous sa dépendance politique ou économique.;L’impérialisme britannique au XIX ème siècle.;
+Se cantonner ;;Limiter ses activités.; Se cantonner dans ses études.;
+Lisière ;;Bordure limitant de chaque côté une pièce d’étoffe, partie extrême (d'un terrain, d'une région).; La lisière d'un champ, d'une forêt.;
+Pérégrination ;Vieux;"Voyage en pays lointain ; moderne. Au pluriel : déplacements incessants en de nombreux endroits.";J’ignore si tu prendras grand intérêt aux pérégrinations d’un touriste parti de Paris en plein novembre.;
+Acquiescer ;;Donner son entier consentement (à). Sans complément : marquer son approbation (par la parole, un geste).;Acquiescer à une demande. Acquiescer d'un signe de tête;
+Livide;Littéraire;Qui est de couleur plombée, bleuâtre.;D'une paleur terne.;
+Blafard ;;D'une teinte pâle et sans éclat.;Un teint blafard.;
+Sophisme;;Argument qui, partant de prémisses vraies, ou jugées telles, raisonnement vicié à la base, reposant sur un jeu de mots, un argument séduisant mais faux, destiné à induire en erreur.;;
+Symposium;;Réunion ou congrès de spécialistes, sur un thème scientifique particulier.;;
+Prêcher pour sa paroisse ;Expression;Se dit d'une personne qui, bien qu'affichant une certaine objectivité, favorise, dans son argumentaire, son camp ou son groupe.;;
+Prostré;;Qui est dans un état de prostration (état d'abattement physique et psychologique extrême, de faiblesse et d'inactivité totale.;Être, tomber dans une prostration profonde : un malade prostré.;
+Pantoise ;;Dont le souffle est coupé par l'émotion, la surprise.;;
+Déroger;Droit et littéraire;Ne pas observer, ne pas appliquer (une loi, une règle, une convention). Manquer à (sa situation sociale, ses principes).;Déroger à la loi. Déroger à son rang, à ses convictions.;
+Parangon;Littéraire;Modèle, archétype, représentant de. Vieux mot qui signifiait autrefois une chose excellente et hors de comparaison.;Cela est sans parangon. C'est un parangon de sagesse.;
+Ésotérique;;Se dit d'un mode d'expression, d'une oeuvre qui n'est compréhensible que des initiés, hermétique, abstrus, abscons.;Langage ésotérique.;
+Exotérique ;Didactique;Qui peut être enseigné en public, qui peut être divulgué (en parlant d'une doctrine philosophique). Se dit d'une doctrine philosophique ou religieuse enseignée publiquement (par opposition avec ésotérique).;;
+Oblitérer ;Vieilli ;Effacer par une usure progressive.;;
+Inférence ;Logique;Opération logique qui consiste à admettre une proposition en raison de son lien avec une proposition préalable tenue pour vraie.;;
+Ébréchure ;;Partie ébréchée (entaillée, cassure sur le bord d'un objet), petit morceau cassé du bord d'un objet.;;
+Erratique ;Didactique;Qui n'est pas fixe. Pour des personnes : errant, instable.;Les mouvements erratiques du dollar.;
+Subreptice;;Qui est obtenu, qui se fait par surprise, à l'insu de qqun et contre sa volonté.;Une manœuvre subreptice;
+Amodier ;Droit;Louer (une terre, une mine) par amodiation.;;
+Concéder ;;Accorder qqch à qqun comme une faveur. Céder sur (un point en discussion).;Concéder un privilège. Je vous concède ce point.;
+Peu ou prou;Littéraire;Plus ou moins.;;
+Intriquer;;Rendre complexe, entremêler.;;
+Macro;;"Préfxe du grec ""makros"" qui signifie ""long"", ""grand"". Employé dans des composés du vocabulaire technique et scientifique, où il donne une valeur de grandeur à l'élément auquel il est associé.";;
+Micro;;"Préfixe, du grec ""mikros"" qui signifie ""petit"", indiquant que quelque chose est très petit.";;
+Macroscopique;Science;"Qui se voit à l'oeil nu (opposé à microscopique) ; qui est à l'échelle du macroscome (le cosmos, l'univers).";;
+Microscopique ;Didactique ;Qui se fait à l'aide du microscope, visible seulement au microscope, très petit, minuscule.;;
+Poreux;Courant et figuré;Qui présente une multitude de pores, de petits trous (matière minérale, poterie, etc.). Perméable, qui permet l'échange, l'influence.;Des frontières poreuses.;
+Porosité ;Didactique ;État de ce qui est poreux, absence de délimitation claire entre deux domaines, deux milieux, etc., pouvant donner lieu à un jeu d'influences réciproques, voire à une connivence répréhensible.;Certains dénoncent la porosité entre le pouvoir et a finance.;
+Supplanter ;;Passer devant, prendre la place de (qqun) en lui faisant perdre son crédit. Éliminer (une chose) en la remplaçant. ;Supplanter un rival. Le disque compact a supplanté le microsillon.;
+Semilinguisme ;Linguistique ;Désigne une situation dans laquelle un enfant peut acquérir un niveau de langage correspondant à ses capacités linguistiques originelles, et ce dans aucune langue..;;
+Épilinguistique ;Linguistique ;Discours et expression de jugements sur les pratiques langagières.;Activité épilinguistique.;
+Éminement ;;"À très haut degré ; extrêmement.";Cette hypothèse est éminemment présente au sein de la sphère académique.;
+Rémanence;Sciences;Persistance partielle d'un phénomène après disparition de sa cause.; Rémanence des images visuelles.;
+Marquer du seau de ;;Mettre la signature de, laisser la marque de.;;
+Incomplétude ;;Insatisfaction, manque éprouvé par quelqu'un qui a le sentiment de ne pas s'être complètement réalisé.;;
+À la lisière de ;Expression;Bord d'une zone.;À la lisière de la forêt.;
+Impartial;;Qui est sans parti pris, ne manifeste aucun parti pris.;Un juge impartial.;
+Méandre;Au figuré;Détour compliqué. Cheminement capricieux, sinueux de quelque chose.;Les méandres de la pensée, les méandres d'un exposé.;
+Quitus ;;Acte par lequel le dirigeant d'une société, et plus généralement le responsable de la gestion d'un patrimoine ou d'une opération déterminée, est reconnu s'être acquitté de sa charge.;"L'assemblée, soit donne ""quitus"" soit ""refuse de donner quitus"".";
+Coruscant ;Littéraire;Brillant, éclatant.;J’ai le cerveau plein de ces vents et de ces coruscantes vagues qui hennissent.;
+Verbiager ;Péjoratif;Abondance de paroles, de mots vides de sens ou qui disent peu de chose.;Il n’y a que du verbiage dans ce discours, ce livre.;
+Paie pas de mine;Expression;"Signifie qu'une personne a un aspect un peu négligé, qui n’est pas engageant. Au XVII siècle, le terme ""payer de mine"" signifiait qu'une personne avait un physique agréable et possédait une belle prestance.";;
+Casse pas des briques ;Expression;Être très commun, ne rien avoir d'extraordinaire, être à la limite de la médiocrité.;C’est bon mais ça casse pas des briques.;
+Uchronie ;Didactique ;Récits d'évènements fictifs à partir d'un point de départ historique.;;
+Éructer ;Littéraire et figuré;Renvoyer par la bouche les gaz contenus dans l'estomac. Proférer grossièrement.;Éructer des injures;
+Rétif;;Qui s'arrête d'avancer, qui refuse d'avancer.;;
+Imprécation;Littéraire;Souhait de malheur envers qqun.;C’était une tempête d’imprécations contre le faisan qui rôtissait, contre les sauces dont l’odeur grasse ravageait leurs estomacs vides (Zola, Germinal, 1885, p. 1440).;
+Suranné ;Littéraire;Qui a cessé d'être en usage, qui évoque une époque révolue.;Passeport suranné.;
+Hébété;;Rendu stupide.;"Entre-temps, le patient peut rentrer, mais l’ambulancier revient à la charge; visiblement hébété par la situation.";
+Hébétude ;Littéraire;État d'une personne hébétée, stupéfaite. Médecine : engourdissement des facultés cérébrales dans certaines maladies, l'anémie cérébrale par exemple.;;
+Échevelé;;Dont les cheveux sont en désordre.;;
+Apathique ;;Qui manque d'énergie ou de réactivité émotionnelle.;;
+Loquacité ;Littéraire;Disposition à parler beaucoup.;Se livrer à des loquacités.;
+Velleitaire ;;Qui n'a que des intentions faibles, ne se décide pas à agir.;Il lui est facile de prouver que je ne suis qu’un velléitaire, incapable de produire aucune œuvre. (Gide, Journal, 1947, p. 307).;
+Infatué ;;Trop pénétrer de ses mérites, être content de soi.;Être infatué de soi-même, de ses mérites.;
+Dicible ;;Qui peut être dit, exprimé.;Nous n’avions rien à nous dire qui fût dicible.;
+Inanité ;Vieux;Vide, néant. Littéraire: caractère de ce qui est vain.;L'inanité de nos efforts.;
+Syncrétisme ;Didactique;Combinaison de doctrines, de systèmes initialement incompatibles. Synthèse de deux ou plusieurs traits culturels d'origine différente, donnant lieu à des formes culturelles nouvelles.;Le syncrétisme religieux du vaudou.;
+Cime;;Extrémité pointue (d'un arbre, d'un rocher, d'une montagne).;La mer la plus profonde a un fond, la montagne la plus haute a une cime.;
+Tarir;;Cesser de couler, s’épuiser, faire cesser de couler, mettre à sec.;La conversation tarit : s'arrête parce qu'on a plus rien à se dire.;
+Bon an mal an;Expression;En moyenne par an, en compensation faite des bonnes et des mauvaises années, quelque chose se produit régulièrement, en tenant compte des bonnes et des mauvaises années.;;
+Ubuesque ;;Qui rappelle le personnage d'Ubu, par un caractère grottesque, cruel et couard.;;
+Clouer au pilori;Expression;Désigner à la réprobation publique, condamner violemment (surtout en parlant de l'opinion publique).;Mettre ou clouer au pilori quelqu’un.;
+Heuristique ;;Qui sert à la découverte. Partie de la science qui a pour objet les procédures de recherche et de découverte.;Carte heuristique des homophones.;
+Trivial;Courant, vieilli ou littéraire;Vulgaire, contraire aux bons usages. Ordinaire, commun, banal.;Détails triviaux.;
+Prophylactique ;;Qui prévient la maladie.;Mesures d'hygiène prophylactiques.;
+Vacuité ;Didactique;État de ce qui est vide, vide moral, intellectuel.;La vacuité de ses propos.;
+Ciconspection ;;Attitude de retenue prudente.;Agir avec de circonspection.;
+Lapidaire ;;Artisan qui taille, grave les pierres précieuses ou commerçant en pierres précieuses autres que le diamant.;;
+Subsumer;Philosophie scolastique;Rapporter, référer un individu à une espèce. Rapporter, référer une espèce à un genre.;Subsumer les règles du secret médical sous celles du secret professionnel.;
+Ad oc;Expression latine;D'une manière qui convient : argument ad hoc. Se dit d'une personne compétente, parfaitement qualifiée pour la tâche qu'on lui confie.;;
+Ad hominem;Expression latine;Par lequel on attaque l'adversaire directement dans sa personne en lui opposant ses propres paroles ou ses propres actes.;;
+Ad vitam aeternam;Expression latine;Pour toujours, indéfiniment.;;
+In fine;Didactique;À la fin (de la page, du chapitre).;"""En fin de compte"" (bourse).";
+De facto ;Expression latine;"Signifie ""de fait"", ""en fait"".";;
+De jure ;Expression latine;"Signifie ""de droit"", ""en droit"", ""de plein droit"".";;
+Doléance ;;Plainte ou réclamation, en général adressées par des subordonnées à un supérieur.;;
+Démagogie ;Politique;Politique par laquelle on flatte les masses pour gagner et exploiter leur adhésion.;;
+Déontologie ;Didactique;Ensemble de règles et de devoirs régissant une profession.;Code de déontologie des médecins.;
+Apodictique ;Logique;Qui a une évidence de droit et non pas seulement de fait.;;
+Assertorique ;;Se dit d'un jugement qui énonce une vérité de fait, sans la poser comme nécessaire (par opposition à jugement apodictique).;;
+Chaperonnner ;;Accompagner (une jeune fillle) en qualité de chaperon. Accompagner qlqun (surtout une jeune fille) pour le surveiller.;;
+Stricto sensu ;Didactique;Au sens strict, restreint.;;
+Ésotérique ;Doctrine;Qui se transmet seulement à des adeptes qualifiés. Obscur, incompréhensible pour qui n'appartient pas au petit groupe des initiés.;;
+Prolixe ;;Qui est trop long, qui a tendance à délayer dans ses écrits ou ses discours. Un orateur ou ses discours.;Cet homme est trop prolixe en ses discours, en ses raisonnements. ;
+Doxa ;Didactique;Ensemble des opinions reçues sans discussion, comme évidentes, dans une civilisation donnée.;;
+Aliéner ;Philosophie;Perdre (un droit naturel). Sujet chose : éloigner, rendre hostile.;Aliéner sa liberté. Sa médisance lui ont aliéné ses amis.;
+Pavlovien;;Selon la théorie de Pavlov : les réactions acquises par apprentissage et habitude deviennent des réflexes lorsque le cerveau fait les liens entre le signal sonore et l'action qui suit.;;
+Maccarthysme ;Politique;Politique de délation et de persécution menée aux États-Unis dans les années 1950, à l'encontre de personnalités taxées de sympathie communiste.;;
+Patent ;;Évident, manifeste.;;
+Invective ;;Parole ou suite de paroles violentes (contre qqun, qqch).;Heureusement que toutes les invectives au boulot ne remontent pas aux oreilles des juges, sinon les prétoires seraient engorgés !;
+Rétif ;Monture;"Qui s'arrête, reufuse d'avancer ; Personnes : difficile à conduire, à persuader.";;
+Autarcie ;;Qui se suffit à lui-même, état d'un pays qui se suffit à lui-même, économie fermée.;Vivre en autarcie.;
+Endogène;Didactique;Qui prend naissance à l'intérieur, est dû à une cause interne . Venant de cellules situées dans les profondeurs des tissus.;Organes endogènes.;
+Tautologie ;Logique;Proposition vraie quelle que soit la valeur de vérité de ses composants. Désigne le fait de répéter la même idée en termes différents, soit dans la même proposition. ;J'en porte la responsabilité pleine et entière.;
+Démotique ;;Qui est utilisé par le peuple, à propos de la langue (grec moderne) ou de l'écriture (égyptien ancien). Se dit de la langue parlée et de l'écriture cursive vulgaire des anciens Égyptiens (simplification de l'écriture hiératique).;;
+Boutisme ;Informatique;"Aussi dit ""endianness"" en anglas désigne l'ordre dans lequel les octets sont placés.";;
+Anéthique ;;Qui n'est pas concerné par la morale, sans éthique.;;
+Sui generis ;Latin;"Terme latin signifiant ""de son propre genre"" et qualifiant une situation juridique dont la singularité emmêle tout classement dans une catégorie déjà répertoriée et nécessite de créer des textes spécifiques.";;
+Ex cathedra ;Latin;"Locution latine signifiant ""du haut de la chaire"" employée au sens de ""avec un ton doctoral"" ou dogmatique. ";Parler ex cathedra.;
+Épistémologie ;Science;Étude critique des sciences, destinée à déterminer leur origine logique, leur valeur et leur portée (théorie de la connaissance).;;
+Sémiologie ;Science;Science qui étudie les systèmes de signes.;;
+Copule;Linguistique;Mot qui relie le sujet au prédicat.;;
+Pugnacité;;Combativité.;Et maintenant que l’Action française lui manque pour exercer sa pugnacité, il s’en prend aux autres.;
+Mièvre;;D'un charme un peu puéril,  d'une grâce enfantine et fade ;Une peinture assez mièvre.;
+Mignard;;Gentil, mignon.;;
+Apostolat;Religion;Prédication, propagation de la foi, mission qui requiert de l'énergie et de la foi.;Son brûlant esprit d’apostolat s’indignait de mes paisibles allures, de mon goût pour la recherche.;
+Apostolique;Religion;Relatif aux apôtres.;Une lettre apostolique.;
+Péricliter;;Décliner.;Des chiens errants flairaient la devanture de commerces qui semblaient péricliter.;
+Pédigrée ;Ironie;Généaologie d'une personne (généalogie d'un animal de pure race).;;
+Lèse-majesté;;Crime contre l'autorité du souverain.;;
+Lèse-humanité;;Crime contre l’humanité.;;
+Couard ;;Qui est lâchement peureux.;Mieux vaut être couard une minute que mort tout le reste de la vie.;
+Éconduire;;"Repousser (un solliciteur), ne pas accéder à la demande de qqun ; congédier, renvoyer ; congédier quelqu'un, refuser de le recevoir, ne pas acceter sa demande : éconduire un importun.";Il s'est fait éconduire honteusement.;
+Harangue;;Discours solennel prononcé devant une assemblée, un haut personnage. Discours pompeux et ennuyeux, remontrance interminable.;Les harangues des orateurs de la Révolution.;%                                                           myriambenhadj@MacBook-Air-de-Myriam data % cd ..
+myriambenhadj@MacBook-Air-de-Myriam Projet % cd cartes
+myriambenhadj@MacBook-Air-de-Myriam cartes % ls
+carte_100.md	carte_130.md	carte_160.md	carte_37.md	carte_70.md
+carte_101.md	carte_131.md	carte_161.md	carte_38.md	carte_71.md
+carte_102.md	carte_132.md	carte_162.md	carte_39.md	carte_72.md
+carte_103.md	carte_133.md	carte_163.md	carte_40.md	carte_73.md
+carte_104.md	carte_134.md	carte_164.md	carte_41.md	carte_74.md
+carte_105.md	carte_135.md	carte_165.md	carte_42.md	carte_75.md
+carte_106.md	carte_136.md	carte_166.md	carte_43.md	carte_76.md
+carte_107.md	carte_137.md	carte_167.md	carte_44.md	carte_77.md
+carte_108.md	carte_138.md	carte_168.md	carte_45.md	carte_78.md
+carte_109.md	carte_139.md	carte_169.md	carte_46.md	carte_79.md
+carte_11.md	carte_14.md	carte_17.md	carte_47.md	carte_80.md
+carte_110.md	carte_140.md	carte_170.md	carte_48.md	carte_81.md
+carte_111.md	carte_141.md	carte_171.md	carte_49.md	carte_82.md
+carte_112.md	carte_142.md	carte_172.md	carte_50.md	carte_83.md
+carte_113.md	carte_143.md	carte_18.md	carte_51.md	carte_84.md
+carte_114.md	carte_144.md	carte_19.md	carte_52.md	carte_85.md
+carte_115.md	carte_145.md	carte_20.md	carte_53.md	carte_86.md
+carte_116.md	carte_146.md	carte_21.md	carte_54.md	carte_87.md
+carte_117.md	carte_147.md	carte_22.md	carte_55.md	carte_88.md
+carte_118.md	carte_148.md	carte_23.md	carte_56.md	carte_89.md
+carte_119.md	carte_149.md	carte_24.md	carte_57.md	carte_90.md
+carte_12.md	carte_15.md	carte_25.md	carte_58.md	carte_91.md
+carte_120.md	carte_150.md	carte_26.md	carte_59.md	carte_92.md
+carte_121.md	carte_151.md	carte_27.md	carte_60.md	carte_93.md
+carte_122.md	carte_152.md	carte_28.md	carte_61.md	carte_94.md
+carte_123.md	carte_153.md	carte_29.md	carte_62.md	carte_95.md
+carte_124.md	carte_154.md	carte_30.md	carte_63.md	carte_96.md
+carte_125.md	carte_155.md	carte_31.md	carte_64.md	carte_97.md
+carte_126.md	carte_156.md	carte_32.md	carte_65.md	carte_98.md
+carte_127.md	carte_157.md	carte_33.md	carte_66.md	carte_99.md
+carte_128.md	carte_158.md	carte_34.md	carte_67.md
+carte_129.md	carte_159.md	carte_35.md	carte_68.md
+carte_13.md	carte_16.md	carte_36.md	carte_69.md
+myriambenhadj@MacBook-Air-de-Myriam cartes % rm *.md
+myriambenhadj@MacBook-Air-de-Myriam cartes % ls
+myriambenhadj@MacBook-Air-de-Myriam cartes % vi test.sh
+myriambenhadj@MacBook-Air-de-Myriam cartes % cat test.sh
+echo $0
+echo $1
+echo $2
+echo $4
+echo $@
+
+myriambenhadj@MacBook-Air-de-Myriam cartes % ll test.sh
+zsh: command not found: ll
+myriambenhadj@MacBook-Air-de-Myriam cartes % ls -l
+total 8
+-rw-r--r--  1 myriambenhadj  staff  41 27 déc 23:14 test.sh
+myriambenhadj@MacBook-Air-de-Myriam cartes % chmod a+x test.sh
+myriambenhadj@MacBook-Air-de-Myriam cartes % ./test.sh
+./test.sh
+
+
+
+
+myriambenhadj@MacBook-Air-de-Myriam cartes % ./test.sh toto tata
+./test.sh
+toto
+tata
+
+toto tata
+myriambenhadj@MacBook-Air-de-Myriam cartes % ./test.sh toto tata titi tutu tete
+./test.sh
+toto
+tata
+tutu
+toto tata titi tutu tete
+myriambenhadj@MacBook-Air-de-Myriam cartes % cat test.sh
+echo $0
+echo $1
+echo $2
+echo $4
+echo $@
+
+myriambenhadj@MacBook-Air-de-Myriam cartes % COMPTE=0
+myriambenhadj@MacBook-Air-de-Myriam cartes % COMPTE=$(expr $COMPTE + 1)
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo $COMPTE
+1
+myriambenhadj@MacBook-Air-de-Myriam cartes % COMPTE=$(expr $COMPTE + 1)
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo $COMPTE              
+2
+myriambenhadj@MacBook-Air-de-Myriam cartes % COMPTE=$(expr $COMPTE + 100)
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo $COMPTE
+102
+myriambenhadj@MacBook-Air-de-Myriam cartes % COMPTE=$(expr $COMPTE - 100)
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo $COMPTE                
+2
+myriambenhadj@MacBook-Air-de-Myriam cartes % COMPTE=$(expr $COMPTE % 2)   
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo $COMPTE              
+0
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo "toto" > test.sh
+myriambenhadj@MacBook-Air-de-Myriam cartes % cat test.sh
+toto
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo "toto2" >> test.sh
+myriambenhadj@MacBook-Air-de-Myriam cartes % cat test.sh
+toto
+toto2
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo "toto2" > test.sh 
+myriambenhadj@MacBook-Air-de-Myriam cartes % cat test.sh           
+toto2
+myriambenhadj@MacBook-Air-de-Myriam cartes % man cut
+myriambenhadj@MacBook-Air-de-Myriam cartes % cat ../data/projet_myriam_fiinal_CSV_.csv
+Mot;Contexte;Définition;Exemples ;
+Délétère;Au figuré;Nuisible, pernicieux.;Gaz délétère, doctrine délétère.;
+Virginal;;D'une vierge, propre à une vierge, pudeur.;Fraicheur virginale.;
+Discréditer;;Faire perdre leur autorité, leur prestige, leur influence, leur valeur à quelqu'un, quelque chose, déconsidérer .; Ces volte-face ont fini par le discréditer.;
+Prosélitysme;Au figuré;Personne récemment gagnée à une doctrine, un parti, une nouveauté. ;Adepte néophyte, faire de nombreux prosélytes (ex : prosélytisme religieux).;
+Catalyseur;Au figuré;Ce qui déclenche une réaction par la seule présence ou par son intervention. Substance qui augmente la vitesse d'une réaction chimique sans paraître participer à cette réaction.;Le seul catalyseur du choix de l’avenir, c’est Dieu.;
+Empirisme;Philosophie;L’empirisme est une doctrine philosophique qui souligne le rôle de l'expérience dans la connaissance humaine, en minimisant la part de la raison.;L'empirisme d'une méthode de travail.;
+Essaimer;Abeilles ;Quitter la ruche en essaim pour aller s'établir ailleurs. Établie des succursales.; Cette société a essaimé sur tout le territoire, autre ex : sa famille a essaimé dans toute l'Europe.;
+Trépidant;;Qui est agité avec trépidations. Se dit d'un mouvement vif, saccadé.;Une voiture trépidante, une danse trépidante.;
+Manichéen;;Exprime ou dénote une manière de voir ou de juger simplificatrice, sans nuance, qui apprécie les choses selon les principes absolus du bien et du mal, sans nuances et sans état intermédiaire.;Une analyse manichéenne de la situation.;
+Entonner;;Verser dans une tonne, un tonneau. Commencer à chanter un air.;Le Choeur a entonné l’Introït, l’Hymne, le Magnificat. La Musique a entonné un motet. Entonner les prières.;
+Emboucaner;;S'obscurcir ou se couvrir, en parlant du ciel (par analogie), caractérise le temps qu'il fait lorsque le ciel se couvre, que l'atmosphère s’obscurcit, noircir, obscurcir, encombrer.;Arrête de m’emboucaner ou je te prive de pastis.;
+Axiome;Sciences;Proposition considérée comme évidente, admise sans démonstration.;Toute proposition n’est pas un axiome.;
+Décaper;;Débarrasser (une surface) des dépôts, des matières qui y adhèrent fortement.;Décaper un mur avant de le repeindre.;
+Kyrielle;;Longue suite (de paroles), suite inintérrompue, série interminable.;Cette plaideuse nous a fait une longue Kyrielle de ses maux, de ses persécutions, des injustices qu’on lui a fait.;
+Suave;Littéraire;Qui a une douceur exquise, délicieuse.;Un parfum, une musique suave.;
+Happer;;Saisir, attraper brusquement et avec violence, saisir brusquement dans la gueule, le bec.;Il s’est laissé happer par un importun.;
+Fortuit;;Qui arrive par hasard, d'une manière imprévue.;Une rencontre fortuite.;
+Maculer;Littéraire;Couvrir, souiller de tâches.;;
+Professer;Littéraire;Déclarer hautement avoir (un sentiment de croyance), déclarer, exprimer publiquement et hautement une opinion, théorie.;Professer envers un maître la plus vive admiration.;
+Labile;Didactique;Précaire, changeant, se dit de ce qui est fragile, peu stable, notamment en chimie des composés, susceptible de subir des modifications.;Il a la mémoire labile.;
+Cinétique;;Théorie expliquant un ensemble de phénomènes par le mouvement de la matière, qui a le mouvement pour principe (d'un point matériel en mouvement), étude des lois qui régissent la vitesse des réactions chimiques.        ; Énergie cinétique.;
+Ambivalence;;Caractère de ce qui comporte deux composantes de sens contraire, ou de ce qui se présente sous deux aspects.;Une personnalité ambivalente.;
+Patent;Littéraire;Évident, manifeste.;Une injustice patente.;
+Polysémie;Linguistique;Caractère d'un signe qui possède plusieurs contenus, plusieurs sens.;Un mot polysémique.;
+Assertif;;Qui exprime une vérité de fait. Qui n'est ni une interrogative ni une excalamative ni une impérative.;Jugement assertif, phrase assertive.;
+Induction;;Opération mentale qui consiste à remonter des faits à la loi, de cas particuliers à une proposition plus. générale (opposé à déduction). Formule d'hypothèses, considérées comme vraies, basées sur ces observations et on tire des conclusions.;;
+Déduction;;Raisonnement par lequel on déduit, on conclut.;Déduction faite des arrhes.;
+Prescriptif;;Qui constitue une prescription, un commandement, un ordre.;La grammaire est une science prescriptive : elle impose des règles à respecter.;
+Descriptif;;Qui décrit, s'attache à décrire : style descriptif. Géométrie descriptive : technique de représentation plane des figures de l'espace.;La linguistique est descriptive : elle décrit la langue et tous ses aspects.;
+Connexe;;Qui a des rapports étroits avec autre chose.;Affaires, matières, idées, sciences connexes.;
+Dyadique;Didactique;Qui concerne une dyade, un ensemble de deux éléments.;Des éléments dyadiques.;
+Triadique;;Ensemble de trois personnes ou de trois choses étroitement unies.;;
+Onomasiologie;Linguistique ;Étude des significations à partir de l'idée, de la notion, du concept pour en déterminer l'expression (opposé à sémasiologie).;;
+Sémasiologie;Linguistique ;Science des significations, partant du mot pour en étudier le sens (opposé à onomasiologie).;;
+Autonymie;Linguistique ;"Caractère d'un mot, d'un énoncé autonyme, qui se désigne lui-même comme signe dans le discours : dans ""être est un verbe"", ""être"" est autonyme.";;
+Éxecrer;Littéraire;Haïr quelqu'un au plus haut point, avoir de l'aversion, une vive répugnance pour quelque chose.;J’exècre ce genre de comportement.;
+Dissident;;Un dissident est une personne qui se sépare d'une communauté ou parti politique dont elle était membre.;Un bon maître ne doit avoir que des disciples dissidents.;
+Risible;;Propre à exciter une gaieté moqueuse, qui prête à rire, qui mérite qu'on en rie, qu'on s'en moque.;Prétentions risibles. Propos risibles.;
+Ubuesque;;Qui rappelle le personnage d'Ubu, par un caractère grotesque, cruel et couard, absurde, caricaturale et grotesque, la situation vire à l'invraisemblable et échappe à tout sens commun.;Une situation ubuesque est une situation totalement dépourvue de sens.;
+Inopiné;;Qui arrive, se produit alors qu'on s'y attendait pas.;Une visite inopinée.;
+Éducolrer;;Adoucir par addition de sucre, de sirop (un médicament), rendre plus faible dans son expression, adoucir.;Édulcorer un compte rendu sévère.;
+Alambiquer;;Exagérément compliqué et contourné : un esprit alambiqué.;Des expressions alambiquées.;
+Con à bêcher de la flotte;Expression;Sot, imbécile.;;
+Lapalissade ;;Affirmation évidente qui prête à rire : dire des lapalissades. Vérité de La Palisse et vérité de La Palice désignent une vérité de niaise évidence qui possède généralement un caractère naif et humoristique.;Répondre des lapalissades.;
+Se targuer;;Se prévaloir de quelque chose avec ostentation.;Il se targue d'être le meilleur dans ce domaine.;
+Dichotomie ;Didactique;Division, opposition (entre deux éléments, deux idées).;Dichotomie entre la raison et la passion.;
+Apocryphe;Religion;Que l'Église ne tient pas pour canonique, dont l'authenticité est douteuse ou niée.;Les Évangiles apocryphes. Une lettre apocryphe de Napoléon. ;
+Néologisme;;Mot nouveau, sens nouveau.;La glotophobie est un néologisme.;
+Exciper ;;Se prévaloir d'une exception, alléguer une excuse, invoquer un fait pour en tirer une exception.;Exciper de sa bonne foi. Exciper d'une longue prescription.;
+Démagogie ;Politique;Politique par laquelle on flatte les masses por gagner et exploiter leur adhésion.;il fait de la démagogie pour se faire élire.;
+Expurcher ;;Abréger (un texte) en éliminant ce qui est contraire à une morale, à un dogme, en exclure les membres compromettants.;Expurger un parti politique,;
+Imputer;;Attribuer à qqun une chose digne de blâme (faute, crime…).;On lui impute à crime un simple oubli (on considère comme un crime).;
+Conchier;Familier;Souiller d'excréments.;Sachez que je vous conchie et que vos paroles ne sont pour moi que du vent !;
+Oblitérer ;Médecine;Obstruer, boucher (un canal...).;L’ouverture du vaisseau est oblitérée par de la fibrine.;
+Impérialisme ;Politique;Politique d'un État visant à réduire d'autres États sous sa dépendance politique ou économique.;L’impérialisme britannique au XIX ème siècle.;
+Se cantonner ;;Limiter ses activités.; Se cantonner dans ses études.;
+Lisière ;;Bordure limitant de chaque côté une pièce d’étoffe, partie extrême (d'un terrain, d'une région).; La lisière d'un champ, d'une forêt.;
+Pérégrination ;Vieux;"Voyage en pays lointain ; moderne. Au pluriel : déplacements incessants en de nombreux endroits.";J’ignore si tu prendras grand intérêt aux pérégrinations d’un touriste parti de Paris en plein novembre.;
+Acquiescer ;;Donner son entier consentement (à). Sans complément : marquer son approbation (par la parole, un geste).;Acquiescer à une demande. Acquiescer d'un signe de tête;
+Livide;Littéraire;Qui est de couleur plombée, bleuâtre.;D'une paleur terne.;
+Blafard ;;D'une teinte pâle et sans éclat.;Un teint blafard.;
+Sophisme;;Argument qui, partant de prémisses vraies, ou jugées telles, raisonnement vicié à la base, reposant sur un jeu de mots, un argument séduisant mais faux, destiné à induire en erreur.;;
+Symposium;;Réunion ou congrès de spécialistes, sur un thème scientifique particulier.;;
+Prêcher pour sa paroisse ;Expression;Se dit d'une personne qui, bien qu'affichant une certaine objectivité, favorise, dans son argumentaire, son camp ou son groupe.;;
+Prostré;;Qui est dans un état de prostration (état d'abattement physique et psychologique extrême, de faiblesse et d'inactivité totale.;Être, tomber dans une prostration profonde : un malade prostré.;
+Pantoise ;;Dont le souffle est coupé par l'émotion, la surprise.;;
+Déroger;Droit et littéraire;Ne pas observer, ne pas appliquer (une loi, une règle, une convention). Manquer à (sa situation sociale, ses principes).;Déroger à la loi. Déroger à son rang, à ses convictions.;
+Parangon;Littéraire;Modèle, archétype, représentant de. Vieux mot qui signifiait autrefois une chose excellente et hors de comparaison.;Cela est sans parangon. C'est un parangon de sagesse.;
+Ésotérique;;Se dit d'un mode d'expression, d'une oeuvre qui n'est compréhensible que des initiés, hermétique, abstrus, abscons.;Langage ésotérique.;
+Exotérique ;Didactique;Qui peut être enseigné en public, qui peut être divulgué (en parlant d'une doctrine philosophique). Se dit d'une doctrine philosophique ou religieuse enseignée publiquement (par opposition avec ésotérique).;;
+Oblitérer ;Vieilli ;Effacer par une usure progressive.;;
+Inférence ;Logique;Opération logique qui consiste à admettre une proposition en raison de son lien avec une proposition préalable tenue pour vraie.;;
+Ébréchure ;;Partie ébréchée (entaillée, cassure sur le bord d'un objet), petit morceau cassé du bord d'un objet.;;
+Erratique ;Didactique;Qui n'est pas fixe. Pour des personnes : errant, instable.;Les mouvements erratiques du dollar.;
+Subreptice;;Qui est obtenu, qui se fait par surprise, à l'insu de qqun et contre sa volonté.;Une manœuvre subreptice;
+Amodier ;Droit;Louer (une terre, une mine) par amodiation.;;
+Concéder ;;Accorder qqch à qqun comme une faveur. Céder sur (un point en discussion).;Concéder un privilège. Je vous concède ce point.;
+Peu ou prou;Littéraire;Plus ou moins.;;
+Intriquer;;Rendre complexe, entremêler.;;
+Macro;;"Préfxe du grec ""makros"" qui signifie ""long"", ""grand"". Employé dans des composés du vocabulaire technique et scientifique, où il donne une valeur de grandeur à l'élément auquel il est associé.";;
+Micro;;"Préfixe, du grec ""mikros"" qui signifie ""petit"", indiquant que quelque chose est très petit.";;
+Macroscopique;Science;"Qui se voit à l'oeil nu (opposé à microscopique) ; qui est à l'échelle du macroscome (le cosmos, l'univers).";;
+Microscopique ;Didactique ;Qui se fait à l'aide du microscope, visible seulement au microscope, très petit, minuscule.;;
+Poreux;Courant et figuré;Qui présente une multitude de pores, de petits trous (matière minérale, poterie, etc.). Perméable, qui permet l'échange, l'influence.;Des frontières poreuses.;
+Porosité ;Didactique ;État de ce qui est poreux, absence de délimitation claire entre deux domaines, deux milieux, etc., pouvant donner lieu à un jeu d'influences réciproques, voire à une connivence répréhensible.;Certains dénoncent la porosité entre le pouvoir et a finance.;
+Supplanter ;;Passer devant, prendre la place de (qqun) en lui faisant perdre son crédit. Éliminer (une chose) en la remplaçant. ;Supplanter un rival. Le disque compact a supplanté le microsillon.;
+Semilinguisme ;Linguistique ;Désigne une situation dans laquelle un enfant peut acquérir un niveau de langage correspondant à ses capacités linguistiques originelles, et ce dans aucune langue..;;
+Épilinguistique ;Linguistique ;Discours et expression de jugements sur les pratiques langagières.;Activité épilinguistique.;
+Éminement ;;"À très haut degré ; extrêmement.";Cette hypothèse est éminemment présente au sein de la sphère académique.;
+Rémanence;Sciences;Persistance partielle d'un phénomène après disparition de sa cause.; Rémanence des images visuelles.;
+Marquer du seau de ;;Mettre la signature de, laisser la marque de.;;
+Incomplétude ;;Insatisfaction, manque éprouvé par quelqu'un qui a le sentiment de ne pas s'être complètement réalisé.;;
+À la lisière de ;Expression;Bord d'une zone.;À la lisière de la forêt.;
+Impartial;;Qui est sans parti pris, ne manifeste aucun parti pris.;Un juge impartial.;
+Méandre;Au figuré;Détour compliqué. Cheminement capricieux, sinueux de quelque chose.;Les méandres de la pensée, les méandres d'un exposé.;
+Quitus ;;Acte par lequel le dirigeant d'une société, et plus généralement le responsable de la gestion d'un patrimoine ou d'une opération déterminée, est reconnu s'être acquitté de sa charge.;"L'assemblée, soit donne ""quitus"" soit ""refuse de donner quitus"".";
+Coruscant ;Littéraire;Brillant, éclatant.;J’ai le cerveau plein de ces vents et de ces coruscantes vagues qui hennissent.;
+Verbiager ;Péjoratif;Abondance de paroles, de mots vides de sens ou qui disent peu de chose.;Il n’y a que du verbiage dans ce discours, ce livre.;
+Paie pas de mine;Expression;"Signifie qu'une personne a un aspect un peu négligé, qui n’est pas engageant. Au XVII siècle, le terme ""payer de mine"" signifiait qu'une personne avait un physique agréable et possédait une belle prestance.";;
+Casse pas des briques ;Expression;Être très commun, ne rien avoir d'extraordinaire, être à la limite de la médiocrité.;C’est bon mais ça casse pas des briques.;
+Uchronie ;Didactique ;Récits d'évènements fictifs à partir d'un point de départ historique.;;
+Éructer ;Littéraire et figuré;Renvoyer par la bouche les gaz contenus dans l'estomac. Proférer grossièrement.;Éructer des injures;
+Rétif;;Qui s'arrête d'avancer, qui refuse d'avancer.;;
+Imprécation;Littéraire;Souhait de malheur envers qqun.;C’était une tempête d’imprécations contre le faisan qui rôtissait, contre les sauces dont l’odeur grasse ravageait leurs estomacs vides (Zola, Germinal, 1885, p. 1440).;
+Suranné ;Littéraire;Qui a cessé d'être en usage, qui évoque une époque révolue.;Passeport suranné.;
+Hébété;;Rendu stupide.;"Entre-temps, le patient peut rentrer, mais l’ambulancier revient à la charge; visiblement hébété par la situation.";
+Hébétude ;Littéraire;État d'une personne hébétée, stupéfaite. Médecine : engourdissement des facultés cérébrales dans certaines maladies, l'anémie cérébrale par exemple.;;
+Échevelé;;Dont les cheveux sont en désordre.;;
+Apathique ;;Qui manque d'énergie ou de réactivité émotionnelle.;;
+Loquacité ;Littéraire;Disposition à parler beaucoup.;Se livrer à des loquacités.;
+Velleitaire ;;Qui n'a que des intentions faibles, ne se décide pas à agir.;Il lui est facile de prouver que je ne suis qu’un velléitaire, incapable de produire aucune œuvre. (Gide, Journal, 1947, p. 307).;
+Infatué ;;Trop pénétrer de ses mérites, être content de soi.;Être infatué de soi-même, de ses mérites.;
+Dicible ;;Qui peut être dit, exprimé.;Nous n’avions rien à nous dire qui fût dicible.;
+Inanité ;Vieux;Vide, néant. Littéraire: caractère de ce qui est vain.;L'inanité de nos efforts.;
+Syncrétisme ;Didactique;Combinaison de doctrines, de systèmes initialement incompatibles. Synthèse de deux ou plusieurs traits culturels d'origine différente, donnant lieu à des formes culturelles nouvelles.;Le syncrétisme religieux du vaudou.;
+Cime;;Extrémité pointue (d'un arbre, d'un rocher, d'une montagne).;La mer la plus profonde a un fond, la montagne la plus haute a une cime.;
+Tarir;;Cesser de couler, s’épuiser, faire cesser de couler, mettre à sec.;La conversation tarit : s'arrête parce qu'on a plus rien à se dire.;
+Bon an mal an;Expression;En moyenne par an, en compensation faite des bonnes et des mauvaises années, quelque chose se produit régulièrement, en tenant compte des bonnes et des mauvaises années.;;
+Ubuesque ;;Qui rappelle le personnage d'Ubu, par un caractère grottesque, cruel et couard.;;
+Clouer au pilori;Expression;Désigner à la réprobation publique, condamner violemment (surtout en parlant de l'opinion publique).;Mettre ou clouer au pilori quelqu’un.;
+Heuristique ;;Qui sert à la découverte. Partie de la science qui a pour objet les procédures de recherche et de découverte.;Carte heuristique des homophones.;
+Trivial;Courant, vieilli ou littéraire;Vulgaire, contraire aux bons usages. Ordinaire, commun, banal.;Détails triviaux.;
+Prophylactique ;;Qui prévient la maladie.;Mesures d'hygiène prophylactiques.;
+Vacuité ;Didactique;État de ce qui est vide, vide moral, intellectuel.;La vacuité de ses propos.;
+Ciconspection ;;Attitude de retenue prudente.;Agir avec de circonspection.;
+Lapidaire ;;Artisan qui taille, grave les pierres précieuses ou commerçant en pierres précieuses autres que le diamant.;;
+Subsumer;Philosophie scolastique;Rapporter, référer un individu à une espèce. Rapporter, référer une espèce à un genre.;Subsumer les règles du secret médical sous celles du secret professionnel.;
+Ad oc;Expression latine;D'une manière qui convient : argument ad hoc. Se dit d'une personne compétente, parfaitement qualifiée pour la tâche qu'on lui confie.;;
+Ad hominem;Expression latine;Par lequel on attaque l'adversaire directement dans sa personne en lui opposant ses propres paroles ou ses propres actes.;;
+Ad vitam aeternam;Expression latine;Pour toujours, indéfiniment.;;
+In fine;Didactique;À la fin (de la page, du chapitre).;"""En fin de compte"" (bourse).";
+De facto ;Expression latine;"Signifie ""de fait"", ""en fait"".";;
+De jure ;Expression latine;"Signifie ""de droit"", ""en droit"", ""de plein droit"".";;
+Doléance ;;Plainte ou réclamation, en général adressées par des subordonnées à un supérieur.;;
+Démagogie ;Politique;Politique par laquelle on flatte les masses pour gagner et exploiter leur adhésion.;;
+Déontologie ;Didactique;Ensemble de règles et de devoirs régissant une profession.;Code de déontologie des médecins.;
+Apodictique ;Logique;Qui a une évidence de droit et non pas seulement de fait.;;
+Assertorique ;;Se dit d'un jugement qui énonce une vérité de fait, sans la poser comme nécessaire (par opposition à jugement apodictique).;;
+Chaperonnner ;;Accompagner (une jeune fillle) en qualité de chaperon. Accompagner qlqun (surtout une jeune fille) pour le surveiller.;;
+Stricto sensu ;Didactique;Au sens strict, restreint.;;
+Ésotérique ;Doctrine;Qui se transmet seulement à des adeptes qualifiés. Obscur, incompréhensible pour qui n'appartient pas au petit groupe des initiés.;;
+Prolixe ;;Qui est trop long, qui a tendance à délayer dans ses écrits ou ses discours. Un orateur ou ses discours.;Cet homme est trop prolixe en ses discours, en ses raisonnements. ;
+Doxa ;Didactique;Ensemble des opinions reçues sans discussion, comme évidentes, dans une civilisation donnée.;;
+Aliéner ;Philosophie;Perdre (un droit naturel). Sujet chose : éloigner, rendre hostile.;Aliéner sa liberté. Sa médisance lui ont aliéné ses amis.;
+Pavlovien;;Selon la théorie de Pavlov : les réactions acquises par apprentissage et habitude deviennent des réflexes lorsque le cerveau fait les liens entre le signal sonore et l'action qui suit.;;
+Maccarthysme ;Politique;Politique de délation et de persécution menée aux États-Unis dans les années 1950, à l'encontre de personnalités taxées de sympathie communiste.;;
+Patent ;;Évident, manifeste.;;
+Invective ;;Parole ou suite de paroles violentes (contre qqun, qqch).;Heureusement que toutes les invectives au boulot ne remontent pas aux oreilles des juges, sinon les prétoires seraient engorgés !;
+Rétif ;Monture;"Qui s'arrête, reufuse d'avancer ; Personnes : difficile à conduire, à persuader.";;
+Autarcie ;;Qui se suffit à lui-même, état d'un pays qui se suffit à lui-même, économie fermée.;Vivre en autarcie.;
+Endogène;Didactique;Qui prend naissance à l'intérieur, est dû à une cause interne . Venant de cellules situées dans les profondeurs des tissus.;Organes endogènes.;
+Tautologie ;Logique;Proposition vraie quelle que soit la valeur de vérité de ses composants. Désigne le fait de répéter la même idée en termes différents, soit dans la même proposition. ;J'en porte la responsabilité pleine et entière.;
+Démotique ;;Qui est utilisé par le peuple, à propos de la langue (grec moderne) ou de l'écriture (égyptien ancien). Se dit de la langue parlée et de l'écriture cursive vulgaire des anciens Égyptiens (simplification de l'écriture hiératique).;;
+Boutisme ;Informatique;"Aussi dit ""endianness"" en anglas désigne l'ordre dans lequel les octets sont placés.";;
+Anéthique ;;Qui n'est pas concerné par la morale, sans éthique.;;
+Sui generis ;Latin;"Terme latin signifiant ""de son propre genre"" et qualifiant une situation juridique dont la singularité emmêle tout classement dans une catégorie déjà répertoriée et nécessite de créer des textes spécifiques.";;
+Ex cathedra ;Latin;"Locution latine signifiant ""du haut de la chaire"" employée au sens de ""avec un ton doctoral"" ou dogmatique. ";Parler ex cathedra.;
+Épistémologie ;Science;Étude critique des sciences, destinée à déterminer leur origine logique, leur valeur et leur portée (théorie de la connaissance).;;
+Sémiologie ;Science;Science qui étudie les systèmes de signes.;;
+Copule;Linguistique;Mot qui relie le sujet au prédicat.;;
+Pugnacité;;Combativité.;Et maintenant que l’Action française lui manque pour exercer sa pugnacité, il s’en prend aux autres.;
+Mièvre;;D'un charme un peu puéril,  d'une grâce enfantine et fade ;Une peinture assez mièvre.;
+Mignard;;Gentil, mignon.;;
+Apostolat;Religion;Prédication, propagation de la foi, mission qui requiert de l'énergie et de la foi.;Son brûlant esprit d’apostolat s’indignait de mes paisibles allures, de mon goût pour la recherche.;
+Apostolique;Religion;Relatif aux apôtres.;Une lettre apostolique.;
+Péricliter;;Décliner.;Des chiens errants flairaient la devanture de commerces qui semblaient péricliter.;
+Pédigrée ;Ironie;Généaologie d'une personne (généalogie d'un animal de pure race).;;
+Lèse-majesté;;Crime contre l'autorité du souverain.;;
+Lèse-humanité;;Crime contre l’humanité.;;
+Couard ;;Qui est lâchement peureux.;Mieux vaut être couard une minute que mort tout le reste de la vie.;
+Éconduire;;"Repousser (un solliciteur), ne pas accéder à la demande de qqun ; congédier, renvoyer ; congédier quelqu'un, refuser de le recevoir, ne pas acceter sa demande : éconduire un importun.";Il s'est fait éconduire honteusement.;
+Harangue;;Discours solennel prononcé devant une assemblée, un haut personnage. Discours pompeux et ennuyeux, remontrance interminable.;Les harangues des orateurs de la Révolution.;%                                                           myriambenhadj@MacBook-Air-de-Myriam cartes % Harangue;;Discours solennel prononcé devant une assemblée, un haut personnage. Discours pompeux et ennuyeux, remontrance interminable.;Les harangues des orateurs de la Révolution.;c   
+myriambenhadj@MacBook-Air-de-Myriam cartes % Harangue;;Discours solennel prononcé devant une assemblée, un haut personnage. Discours pompeux et ennuyeux, remontrance interminable.;Les harangues des orateurs de la Révolution.;Harangue;;Discours solennel prononcé devant une assemblée, un haut personnage. Discours pompeux et ennuyeux, remontrance interminable.;Les harangues des orateurs de la Révolution.; 
+myriambenhadj@MacBook-Air-de-Myriam cartes % line="Harangue;;Discours solennel prononcé devant une assemblée, un haut personnage. Discours pompeux et ennuyeux, remontrance interminable.;Les harangues des orateurs de la Révolution.;"
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo line
+line
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo $line
+Harangue;;Discours solennel prononcé devant une assemblée, un haut personnage. Discours pompeux et ennuyeux, remontrance interminable.;Les harangues des orateurs de la Révolution.;
+myriambenhadj@MacBook-Air-de-Myriam cartes %    QUESTION=$( echo "$line"  | cut -f 4  )
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo QUESTION
+QUESTION
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo $QUESTION
+Harangue;;Discours solennel prononcé devant une assemblée, un haut personnage. Discours pompeux et ennuyeux, remontrance interminable.;Les harangues des orateurs de la Révolution.;
+myriambenhadj@MacBook-Air-de-Myriam cartes %    QUESTION=$( echo "$line"  | cut -f 1  )
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo $QUESTION
+Harangue;;Discours solennel prononcé devant une assemblée, un haut personnage. Discours pompeux et ennuyeux, remontrance interminable.;Les harangues des orateurs de la Révolution.;
+myriambenhadj@MacBook-Air-de-Myriam cartes %    QUESTION=$( echo "$line"  | cut -f1  ) 
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo $QUESTION
+Harangue;;Discours solennel prononcé devant une assemblée, un haut personnage. Discours pompeux et ennuyeux, remontrance interminable.;Les harangues des orateurs de la Révolution.;
+myriambenhadj@MacBook-Air-de-Myriam cartes %    QUESTION=$( echo "$line"  | cut -d; -f 1  )
+cut: option requires an argument -- d
+usage: cut -b list [-n] [file ...]
+       cut -c list [file ...]
+       cut -f list [-s] [-w | -d delim] [file ...]
+zsh: command not found: -f
+myriambenhadj@MacBook-Air-de-Myriam cartes %    QUESTION=$( echo "$line"  | cut -d \; -f 1  )
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo $QUESTION
+Harangue
+myriambenhadj@MacBook-Air-de-Myriam cartes % line=toto,tata,tutu
+myriambenhadj@MacBook-Air-de-Myriam cartes %    QUESTION=$( echo "$line"  | cut -d \; -f 1  )
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo $QUESTION
+toto,tata,tutu
+myriambenhadj@MacBook-Air-de-Myriam cartes %    QUESTION=$( echo "$line"  | cut -d, -f 1  ) 
+myriambenhadj@MacBook-Air-de-Myriam cartes % echo $QUESTION
+toto
+myriambenhadj@MacBook-Air-de-Myriam cartes % mdp
+zsh: command not found: mdp
+myriambenhadj@MacBook-Air-de-Myriam cartes % cd ..
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls programmes                 
+generer_cartes.sh	parcours.sh
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls -l programmes
+total 16
+-rw-r--r--@ 1 myriambenhadj  staff  558 28 déc 01:10 generer_cartes.sh
+-rw-r--r--@ 1 myriambenhadj  staff  513 20 déc 15:48 parcours.sh
+myriambenhadj@MacBook-Air-de-Myriam Projet % chmod a+x programmes/generer_cartes.sh
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls -l programmes
+total 16
+-rwxr-xr-x@ 1 myriambenhadj  staff  558 28 déc 01:10 generer_cartes.sh
+-rw-r--r--@ 1 myriambenhadj  staff  513 20 déc 15:48 parcours.sh
+myriambenhadj@MacBook-Air-de-Myriam Projet % ./programmes/generer_cartes.sh data/projet_myriam_fiinal_CSV_.csv
+zsh: ./programmes/generer_cartes.sh: bad interpreter: /bin/env: no such file or directory
+myriambenhadj@MacBook-Air-de-Myriam Projet % ./programmes/generer_cartes.sh data/projet_myriam_fiinal_CSV_.csv
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Définition: command not found
+1 -- Mot;Contexte;Définition;Exemples ;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Nuisible,: command not found
+2 -- Délétère;Au figuré;Nuisible, pernicieux.;Gaz délétère, doctrine délétère.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=D'une: command not found
+3 -- Virginal;;D'une vierge, propre à une vierge, pudeur.;Fraicheur virginale.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Faire: command not found
+4 -- Discréditer;;Faire perdre leur autorité, leur prestige, leur influence, leur valeur à quelqu'un, quelque chose, déconsidérer .; Ces volte-face ont fini par le discréditer.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Personne: command not found
+5 -- Prosélitysme;Au figuré;Personne récemment gagnée à une doctrine, un parti, une nouveauté. ;Adepte néophyte, faire de nombreux prosélytes (ex : prosélytisme religieux).;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Ce: command not found
+6 -- Catalyseur;Au figuré;Ce qui déclenche une réaction par la seule présence ou par son intervention. Substance qui augmente la vitesse d'une réaction chimique sans paraître participer à cette réaction.;Le seul catalyseur du choix de l’avenir, c’est Dieu.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=L’empirisme: command not found
+7 -- Empirisme;Philosophie;L’empirisme est une doctrine philosophique qui souligne le rôle de l'expérience dans la connaissance humaine, en minimisant la part de la raison.;L'empirisme d'une méthode de travail.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Quitter: command not found
+8 -- Essaimer;Abeilles ;Quitter la ruche en essaim pour aller s'établir ailleurs. Établie des succursales.; Cette société a essaimé sur tout le territoire, autre ex : sa famille a essaimé dans toute l'Europe.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+9 -- Trépidant;;Qui est agité avec trépidations. Se dit d'un mouvement vif, saccadé.;Une voiture trépidante, une danse trépidante.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Exprime: command not found
+10 -- Manichéen;;Exprime ou dénote une manière de voir ou de juger simplificatrice, sans nuance, qui apprécie les choses selon les principes absolus du bien et du mal, sans nuances et sans état intermédiaire.;Une analyse manichéenne de la situation.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Verser: command not found
+11 -- Entonner;;Verser dans une tonne, un tonneau. Commencer à chanter un air.;Le Choeur a entonné l’Introït, l’Hymne, le Magnificat. La Musique a entonné un motet. Entonner les prières.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=S'obscurcir: command not found
+12 -- Emboucaner;;S'obscurcir ou se couvrir, en parlant du ciel (par analogie), caractérise le temps qu'il fait lorsque le ciel se couvre, que l'atmosphère s’obscurcit, noircir, obscurcir, encombrer.;Arrête de m’emboucaner ou je te prive de pastis.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Proposition: command not found
+13 -- Axiome;Sciences;Proposition considérée comme évidente, admise sans démonstration.;Toute proposition n’est pas un axiome.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Débarrasser: command not found
+14 -- Décaper;;Débarrasser (une surface) des dépôts, des matières qui y adhèrent fortement.;Décaper un mur avant de le repeindre.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Longue: command not found
+15 -- Kyrielle;;Longue suite (de paroles), suite inintérrompue, série interminable.;Cette plaideuse nous a fait une longue Kyrielle de ses maux, de ses persécutions, des injustices qu’on lui a fait.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+16 -- Suave;Littéraire;Qui a une douceur exquise, délicieuse.;Un parfum, une musique suave.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Saisir,: command not found
+17 -- Happer;;Saisir, attraper brusquement et avec violence, saisir brusquement dans la gueule, le bec.;Il s’est laissé happer par un importun.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+18 -- Fortuit;;Qui arrive par hasard, d'une manière imprévue.;Une rencontre fortuite.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Couvrir,: command not found
+19 -- Maculer;Littéraire;Couvrir, souiller de tâches.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Déclarer: command not found
+20 -- Professer;Littéraire;Déclarer hautement avoir (un sentiment de croyance), déclarer, exprimer publiquement et hautement une opinion, théorie.;Professer envers un maître la plus vive admiration.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Précaire,: command not found
+21 -- Labile;Didactique;Précaire, changeant, se dit de ce qui est fragile, peu stable, notamment en chimie des composés, susceptible de subir des modifications.;Il a la mémoire labile.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Théorie: command not found
+22 -- Cinétique;;Théorie expliquant un ensemble de phénomènes par le mouvement de la matière, qui a le mouvement pour principe (d'un point matériel en mouvement), étude des lois qui régissent la vitesse des réactions chimiques.        ; Énergie cinétique.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Caractère: command not found
+23 -- Ambivalence;;Caractère de ce qui comporte deux composantes de sens contraire, ou de ce qui se présente sous deux aspects.;Une personnalité ambivalente.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Évident,: command not found
+24 -- Patent;Littéraire;Évident, manifeste.;Une injustice patente.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Caractère: command not found
+25 -- Polysémie;Linguistique;Caractère d'un signe qui possède plusieurs contenus, plusieurs sens.;Un mot polysémique.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+26 -- Assertif;;Qui exprime une vérité de fait. Qui n'est ni une interrogative ni une excalamative ni une impérative.;Jugement assertif, phrase assertive.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Opération: command not found
+27 -- Induction;;Opération mentale qui consiste à remonter des faits à la loi, de cas particuliers à une proposition plus. générale (opposé à déduction). Formule d'hypothèses, considérées comme vraies, basées sur ces observations et on tire des conclusions.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Raisonnement: command not found
+28 -- Déduction;;Raisonnement par lequel on déduit, on conclut.;Déduction faite des arrhes.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+29 -- Prescriptif;;Qui constitue une prescription, un commandement, un ordre.;La grammaire est une science prescriptive : elle impose des règles à respecter.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+30 -- Descriptif;;Qui décrit, s'attache à décrire : style descriptif. Géométrie descriptive : technique de représentation plane des figures de l'espace.;La linguistique est descriptive : elle décrit la langue et tous ses aspects.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+31 -- Connexe;;Qui a des rapports étroits avec autre chose.;Affaires, matières, idées, sciences connexes.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+32 -- Dyadique;Didactique;Qui concerne une dyade, un ensemble de deux éléments.;Des éléments dyadiques.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Ensemble: command not found
+33 -- Triadique;;Ensemble de trois personnes ou de trois choses étroitement unies.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Étude: command not found
+34 -- Onomasiologie;Linguistique ;Étude des significations à partir de l'idée, de la notion, du concept pour en déterminer l'expression (opposé à sémasiologie).;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Science: command not found
+35 -- Sémasiologie;Linguistique ;Science des significations, partant du mot pour en étudier le sens (opposé à onomasiologie).;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Caractère: command not found
+36 -- Autonymie;Linguistique ;"Caractère d'un mot, d'un énoncé autonyme, qui se désigne lui-même comme signe dans le discours : dans ""être est un verbe"", ""être"" est autonyme.";;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Haïr: command not found
+37 -- Éxecrer;Littéraire;Haïr quelqu'un au plus haut point, avoir de l'aversion, une vive répugnance pour quelque chose.;J’exècre ce genre de comportement.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Un: command not found
+38 -- Dissident;;Un dissident est une personne qui se sépare d'une communauté ou parti politique dont elle était membre.;Un bon maître ne doit avoir que des disciples dissidents.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Propre: command not found
+39 -- Risible;;Propre à exciter une gaieté moqueuse, qui prête à rire, qui mérite qu'on en rie, qu'on s'en moque.;Prétentions risibles. Propos risibles.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+40 -- Ubuesque;;Qui rappelle le personnage d'Ubu, par un caractère grotesque, cruel et couard, absurde, caricaturale et grotesque, la situation vire à l'invraisemblable et échappe à tout sens commun.;Une situation ubuesque est une situation totalement dépourvue de sens.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+41 -- Inopiné;;Qui arrive, se produit alors qu'on s'y attendait pas.;Une visite inopinée.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Adoucir: command not found
+42 -- Éducolrer;;Adoucir par addition de sucre, de sirop (un médicament), rendre plus faible dans son expression, adoucir.;Édulcorer un compte rendu sévère.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Exagérément: command not found
+43 -- Alambiquer;;Exagérément compliqué et contourné : un esprit alambiqué.;Des expressions alambiquées.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Sot,: command not found
+44 -- Con à bêcher de la flotte;Expression;Sot, imbécile.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Affirmation: command not found
+45 -- Lapalissade ;;Affirmation évidente qui prête à rire : dire des lapalissades. Vérité de La Palisse et vérité de La Palice désignent une vérité de niaise évidence qui possède généralement un caractère naif et humoristique.;Répondre des lapalissades.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Se: command not found
+46 -- Se targuer;;Se prévaloir de quelque chose avec ostentation.;Il se targue d'être le meilleur dans ce domaine.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Division,: command not found
+47 -- Dichotomie ;Didactique;Division, opposition (entre deux éléments, deux idées).;Dichotomie entre la raison et la passion.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Que: command not found
+48 -- Apocryphe;Religion;Que l'Église ne tient pas pour canonique, dont l'authenticité est douteuse ou niée.;Les Évangiles apocryphes. Une lettre apocryphe de Napoléon. ;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Mot: command not found
+49 -- Néologisme;;Mot nouveau, sens nouveau.;La glotophobie est un néologisme.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Se: command not found
+50 -- Exciper ;;Se prévaloir d'une exception, alléguer une excuse, invoquer un fait pour en tirer une exception.;Exciper de sa bonne foi. Exciper d'une longue prescription.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Politique: command not found
+51 -- Démagogie ;Politique;Politique par laquelle on flatte les masses por gagner et exploiter leur adhésion.;il fait de la démagogie pour se faire élire.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Abréger: command not found
+52 -- Expurcher ;;Abréger (un texte) en éliminant ce qui est contraire à une morale, à un dogme, en exclure les membres compromettants.;Expurger un parti politique,;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Attribuer: command not found
+53 -- Imputer;;Attribuer à qqun une chose digne de blâme (faute, crime…).;On lui impute à crime un simple oubli (on considère comme un crime).;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Souiller: command not found
+54 -- Conchier;Familier;Souiller d'excréments.;Sachez que je vous conchie et que vos paroles ne sont pour moi que du vent !;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Obstruer,: command not found
+55 -- Oblitérer ;Médecine;Obstruer, boucher (un canal...).;L’ouverture du vaisseau est oblitérée par de la fibrine.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Politique: command not found
+56 -- Impérialisme ;Politique;Politique d'un État visant à réduire d'autres États sous sa dépendance politique ou économique.;L’impérialisme britannique au XIX ème siècle.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Limiter: command not found
+57 -- Se cantonner ;;Limiter ses activités.; Se cantonner dans ses études.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Bordure: command not found
+58 -- Lisière ;;Bordure limitant de chaque côté une pièce d’étoffe, partie extrême (d'un terrain, d'une région).; La lisière d'un champ, d'une forêt.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Voyage: command not found
+59 -- Pérégrination ;Vieux;"Voyage en pays lointain ; moderne. Au pluriel : déplacements incessants en de nombreux endroits.";J’ignore si tu prendras grand intérêt aux pérégrinations d’un touriste parti de Paris en plein novembre.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Donner: command not found
+60 -- Acquiescer ;;Donner son entier consentement (à). Sans complément : marquer son approbation (par la parole, un geste).;Acquiescer à une demande. Acquiescer d'un signe de tête;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+61 -- Livide;Littéraire;Qui est de couleur plombée, bleuâtre.;D'une paleur terne.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=D'une: command not found
+62 -- Blafard ;;D'une teinte pâle et sans éclat.;Un teint blafard.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Argument: command not found
+63 -- Sophisme;;Argument qui, partant de prémisses vraies, ou jugées telles, raisonnement vicié à la base, reposant sur un jeu de mots, un argument séduisant mais faux, destiné à induire en erreur.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Réunion: command not found
+64 -- Symposium;;Réunion ou congrès de spécialistes, sur un thème scientifique particulier.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Se: command not found
+65 -- Prêcher pour sa paroisse ;Expression;Se dit d'une personne qui, bien qu'affichant une certaine objectivité, favorise, dans son argumentaire, son camp ou son groupe.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+66 -- Prostré;;Qui est dans un état de prostration (état d'abattement physique et psychologique extrême, de faiblesse et d'inactivité totale.;Être, tomber dans une prostration profonde : un malade prostré.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Dont: command not found
+67 -- Pantoise ;;Dont le souffle est coupé par l'émotion, la surprise.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Ne: command not found
+68 -- Déroger;Droit et littéraire;Ne pas observer, ne pas appliquer (une loi, une règle, une convention). Manquer à (sa situation sociale, ses principes).;Déroger à la loi. Déroger à son rang, à ses convictions.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Modèle,: command not found
+69 -- Parangon;Littéraire;Modèle, archétype, représentant de. Vieux mot qui signifiait autrefois une chose excellente et hors de comparaison.;Cela est sans parangon. C'est un parangon de sagesse.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Se: command not found
+70 -- Ésotérique;;Se dit d'un mode d'expression, d'une oeuvre qui n'est compréhensible que des initiés, hermétique, abstrus, abscons.;Langage ésotérique.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+71 -- Exotérique ;Didactique;Qui peut être enseigné en public, qui peut être divulgué (en parlant d'une doctrine philosophique). Se dit d'une doctrine philosophique ou religieuse enseignée publiquement (par opposition avec ésotérique).;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Effacer: command not found
+72 -- Oblitérer ;Vieilli ;Effacer par une usure progressive.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Opération: command not found
+73 -- Inférence ;Logique;Opération logique qui consiste à admettre une proposition en raison de son lien avec une proposition préalable tenue pour vraie.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Partie: command not found
+74 -- Ébréchure ;;Partie ébréchée (entaillée, cassure sur le bord d'un objet), petit morceau cassé du bord d'un objet.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+75 -- Erratique ;Didactique;Qui n'est pas fixe. Pour des personnes : errant, instable.;Les mouvements erratiques du dollar.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+76 -- Subreptice;;Qui est obtenu, qui se fait par surprise, à l'insu de qqun et contre sa volonté.;Une manœuvre subreptice;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Louer: command not found
+77 -- Amodier ;Droit;Louer (une terre, une mine) par amodiation.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Accorder: command not found
+78 -- Concéder ;;Accorder qqch à qqun comme une faveur. Céder sur (un point en discussion).;Concéder un privilège. Je vous concède ce point.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Plus: command not found
+79 -- Peu ou prou;Littéraire;Plus ou moins.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Rendre: command not found
+80 -- Intriquer;;Rendre complexe, entremêler.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Préfxe: command not found
+81 -- Macro;;"Préfxe du grec ""makros"" qui signifie ""long"", ""grand"". Employé dans des composés du vocabulaire technique et scientifique, où il donne une valeur de grandeur à l'élément auquel il est associé.";;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Préfixe,: command not found
+82 -- Micro;;"Préfixe, du grec ""mikros"" qui signifie ""petit"", indiquant que quelque chose est très petit.";;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Qui: command not found
+83 -- Macroscopique;Science;"Qui se voit à l'oeil nu (opposé à microscopique) ; qui est à l'échelle du macroscome (le cosmos, l'univers).";;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+84 -- Microscopique ;Didactique ;Qui se fait à l'aide du microscope, visible seulement au microscope, très petit, minuscule.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+85 -- Poreux;Courant et figuré;Qui présente une multitude de pores, de petits trous (matière minérale, poterie, etc.). Perméable, qui permet l'échange, l'influence.;Des frontières poreuses.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=État: command not found
+86 -- Porosité ;Didactique ;État de ce qui est poreux, absence de délimitation claire entre deux domaines, deux milieux, etc., pouvant donner lieu à un jeu d'influences réciproques, voire à une connivence répréhensible.;Certains dénoncent la porosité entre le pouvoir et a finance.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Passer: command not found
+87 -- Supplanter ;;Passer devant, prendre la place de (qqun) en lui faisant perdre son crédit. Éliminer (une chose) en la remplaçant. ;Supplanter un rival. Le disque compact a supplanté le microsillon.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Désigne: command not found
+88 -- Semilinguisme ;Linguistique ;Désigne une situation dans laquelle un enfant peut acquérir un niveau de langage correspondant à ses capacités linguistiques originelles, et ce dans aucune langue..;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Discours: command not found
+89 -- Épilinguistique ;Linguistique ;Discours et expression de jugements sur les pratiques langagières.;Activité épilinguistique.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="À: command not found
+90 -- Éminement ;;"À très haut degré ; extrêmement.";Cette hypothèse est éminemment présente au sein de la sphère académique.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Persistance: command not found
+91 -- Rémanence;Sciences;Persistance partielle d'un phénomène après disparition de sa cause.; Rémanence des images visuelles.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Mettre: command not found
+92 -- Marquer du seau de ;;Mettre la signature de, laisser la marque de.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Insatisfaction,: command not found
+93 -- Incomplétude ;;Insatisfaction, manque éprouvé par quelqu'un qui a le sentiment de ne pas s'être complètement réalisé.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Bord: command not found
+94 -- À la lisière de ;Expression;Bord d'une zone.;À la lisière de la forêt.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+95 -- Impartial;;Qui est sans parti pris, ne manifeste aucun parti pris.;Un juge impartial.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Détour: command not found
+96 -- Méandre;Au figuré;Détour compliqué. Cheminement capricieux, sinueux de quelque chose.;Les méandres de la pensée, les méandres d'un exposé.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Acte: command not found
+97 -- Quitus ;;Acte par lequel le dirigeant d'une société, et plus généralement le responsable de la gestion d'un patrimoine ou d'une opération déterminée, est reconnu s'être acquitté de sa charge.;"L'assemblée, soit donne ""quitus"" soit ""refuse de donner quitus"".";
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Brillant,: command not found
+98 -- Coruscant ;Littéraire;Brillant, éclatant.;J’ai le cerveau plein de ces vents et de ces coruscantes vagues qui hennissent.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Abondance: command not found
+99 -- Verbiager ;Péjoratif;Abondance de paroles, de mots vides de sens ou qui disent peu de chose.;Il n’y a que du verbiage dans ce discours, ce livre.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Signifie: command not found
+100 -- Paie pas de mine;Expression;"Signifie qu'une personne a un aspect un peu négligé, qui n’est pas engageant. Au XVII siècle, le terme ""payer de mine"" signifiait qu'une personne avait un physique agréable et possédait une belle prestance.";;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Être: command not found
+101 -- Casse pas des briques ;Expression;Être très commun, ne rien avoir d'extraordinaire, être à la limite de la médiocrité.;C’est bon mais ça casse pas des briques.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Récits: command not found
+102 -- Uchronie ;Didactique ;Récits d'évènements fictifs à partir d'un point de départ historique.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Renvoyer: command not found
+103 -- Éructer ;Littéraire et figuré;Renvoyer par la bouche les gaz contenus dans l'estomac. Proférer grossièrement.;Éructer des injures;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+104 -- Rétif;;Qui s'arrête d'avancer, qui refuse d'avancer.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Souhait: command not found
+105 -- Imprécation;Littéraire;Souhait de malheur envers qqun.;C’était une tempête d’imprécations contre le faisan qui rôtissait, contre les sauces dont l’odeur grasse ravageait leurs estomacs vides (Zola, Germinal, 1885, p. 1440).;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+106 -- Suranné ;Littéraire;Qui a cessé d'être en usage, qui évoque une époque révolue.;Passeport suranné.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Rendu: command not found
+107 -- Hébété;;Rendu stupide.;"Entre-temps, le patient peut rentrer, mais l’ambulancier revient à la charge; visiblement hébété par la situation.";
+./programmes/generer_cartes.sh: line 13: DÉFINITION=État: command not found
+108 -- Hébétude ;Littéraire;État d'une personne hébétée, stupéfaite. Médecine : engourdissement des facultés cérébrales dans certaines maladies, l'anémie cérébrale par exemple.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Dont: command not found
+109 -- Échevelé;;Dont les cheveux sont en désordre.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+110 -- Apathique ;;Qui manque d'énergie ou de réactivité émotionnelle.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Disposition: command not found
+111 -- Loquacité ;Littéraire;Disposition à parler beaucoup.;Se livrer à des loquacités.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+112 -- Velleitaire ;;Qui n'a que des intentions faibles, ne se décide pas à agir.;Il lui est facile de prouver que je ne suis qu’un velléitaire, incapable de produire aucune œuvre. (Gide, Journal, 1947, p. 307).;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Trop: command not found
+113 -- Infatué ;;Trop pénétrer de ses mérites, être content de soi.;Être infatué de soi-même, de ses mérites.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+114 -- Dicible ;;Qui peut être dit, exprimé.;Nous n’avions rien à nous dire qui fût dicible.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Vide,: command not found
+115 -- Inanité ;Vieux;Vide, néant. Littéraire: caractère de ce qui est vain.;L'inanité de nos efforts.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Combinaison: command not found
+116 -- Syncrétisme ;Didactique;Combinaison de doctrines, de systèmes initialement incompatibles. Synthèse de deux ou plusieurs traits culturels d'origine différente, donnant lieu à des formes culturelles nouvelles.;Le syncrétisme religieux du vaudou.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Extrémité: command not found
+117 -- Cime;;Extrémité pointue (d'un arbre, d'un rocher, d'une montagne).;La mer la plus profonde a un fond, la montagne la plus haute a une cime.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Cesser: command not found
+118 -- Tarir;;Cesser de couler, s’épuiser, faire cesser de couler, mettre à sec.;La conversation tarit : s'arrête parce qu'on a plus rien à se dire.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=En: command not found
+119 -- Bon an mal an;Expression;En moyenne par an, en compensation faite des bonnes et des mauvaises années, quelque chose se produit régulièrement, en tenant compte des bonnes et des mauvaises années.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+120 -- Ubuesque ;;Qui rappelle le personnage d'Ubu, par un caractère grottesque, cruel et couard.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Désigner: command not found
+121 -- Clouer au pilori;Expression;Désigner à la réprobation publique, condamner violemment (surtout en parlant de l'opinion publique).;Mettre ou clouer au pilori quelqu’un.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+122 -- Heuristique ;;Qui sert à la découverte. Partie de la science qui a pour objet les procédures de recherche et de découverte.;Carte heuristique des homophones.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Vulgaire,: command not found
+123 -- Trivial;Courant, vieilli ou littéraire;Vulgaire, contraire aux bons usages. Ordinaire, commun, banal.;Détails triviaux.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+124 -- Prophylactique ;;Qui prévient la maladie.;Mesures d'hygiène prophylactiques.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=État: command not found
+125 -- Vacuité ;Didactique;État de ce qui est vide, vide moral, intellectuel.;La vacuité de ses propos.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Attitude: command not found
+126 -- Ciconspection ;;Attitude de retenue prudente.;Agir avec de circonspection.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Artisan: command not found
+127 -- Lapidaire ;;Artisan qui taille, grave les pierres précieuses ou commerçant en pierres précieuses autres que le diamant.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Rapporter,: command not found
+128 -- Subsumer;Philosophie scolastique;Rapporter, référer un individu à une espèce. Rapporter, référer une espèce à un genre.;Subsumer les règles du secret médical sous celles du secret professionnel.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=D'une: command not found
+129 -- Ad oc;Expression latine;D'une manière qui convient : argument ad hoc. Se dit d'une personne compétente, parfaitement qualifiée pour la tâche qu'on lui confie.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Par: command not found
+130 -- Ad hominem;Expression latine;Par lequel on attaque l'adversaire directement dans sa personne en lui opposant ses propres paroles ou ses propres actes.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Pour: command not found
+131 -- Ad vitam aeternam;Expression latine;Pour toujours, indéfiniment.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=À: command not found
+132 -- In fine;Didactique;À la fin (de la page, du chapitre).;"""En fin de compte"" (bourse).";
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Signifie: command not found
+133 -- De facto ;Expression latine;"Signifie ""de fait"", ""en fait"".";;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Signifie: command not found
+134 -- De jure ;Expression latine;"Signifie ""de droit"", ""en droit"", ""de plein droit"".";;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Plainte: command not found
+135 -- Doléance ;;Plainte ou réclamation, en général adressées par des subordonnées à un supérieur.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Politique: command not found
+136 -- Démagogie ;Politique;Politique par laquelle on flatte les masses pour gagner et exploiter leur adhésion.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Ensemble: command not found
+137 -- Déontologie ;Didactique;Ensemble de règles et de devoirs régissant une profession.;Code de déontologie des médecins.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+138 -- Apodictique ;Logique;Qui a une évidence de droit et non pas seulement de fait.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Se: command not found
+139 -- Assertorique ;;Se dit d'un jugement qui énonce une vérité de fait, sans la poser comme nécessaire (par opposition à jugement apodictique).;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Accompagner: command not found
+140 -- Chaperonnner ;;Accompagner (une jeune fillle) en qualité de chaperon. Accompagner qlqun (surtout une jeune fille) pour le surveiller.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Au: command not found
+141 -- Stricto sensu ;Didactique;Au sens strict, restreint.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+142 -- Ésotérique ;Doctrine;Qui se transmet seulement à des adeptes qualifiés. Obscur, incompréhensible pour qui n'appartient pas au petit groupe des initiés.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+143 -- Prolixe ;;Qui est trop long, qui a tendance à délayer dans ses écrits ou ses discours. Un orateur ou ses discours.;Cet homme est trop prolixe en ses discours, en ses raisonnements. ;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Ensemble: command not found
+144 -- Doxa ;Didactique;Ensemble des opinions reçues sans discussion, comme évidentes, dans une civilisation donnée.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Perdre: command not found
+145 -- Aliéner ;Philosophie;Perdre (un droit naturel). Sujet chose : éloigner, rendre hostile.;Aliéner sa liberté. Sa médisance lui ont aliéné ses amis.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Selon: command not found
+146 -- Pavlovien;;Selon la théorie de Pavlov : les réactions acquises par apprentissage et habitude deviennent des réflexes lorsque le cerveau fait les liens entre le signal sonore et l'action qui suit.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Politique: command not found
+147 -- Maccarthysme ;Politique;Politique de délation et de persécution menée aux États-Unis dans les années 1950, à l'encontre de personnalités taxées de sympathie communiste.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Évident,: command not found
+148 -- Patent ;;Évident, manifeste.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Parole: command not found
+149 -- Invective ;;Parole ou suite de paroles violentes (contre qqun, qqch).;Heureusement que toutes les invectives au boulot ne remontent pas aux oreilles des juges, sinon les prétoires seraient engorgés !;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Qui: command not found
+150 -- Rétif ;Monture;"Qui s'arrête, reufuse d'avancer ; Personnes : difficile à conduire, à persuader.";;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+151 -- Autarcie ;;Qui se suffit à lui-même, état d'un pays qui se suffit à lui-même, économie fermée.;Vivre en autarcie.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+152 -- Endogène;Didactique;Qui prend naissance à l'intérieur, est dû à une cause interne . Venant de cellules situées dans les profondeurs des tissus.;Organes endogènes.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Proposition: command not found
+153 -- Tautologie ;Logique;Proposition vraie quelle que soit la valeur de vérité de ses composants. Désigne le fait de répéter la même idée en termes différents, soit dans la même proposition. ;J'en porte la responsabilité pleine et entière.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+154 -- Démotique ;;Qui est utilisé par le peuple, à propos de la langue (grec moderne) ou de l'écriture (égyptien ancien). Se dit de la langue parlée et de l'écriture cursive vulgaire des anciens Égyptiens (simplification de l'écriture hiératique).;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Aussi: command not found
+155 -- Boutisme ;Informatique;"Aussi dit ""endianness"" en anglas désigne l'ordre dans lequel les octets sont placés.";;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+156 -- Anéthique ;;Qui n'est pas concerné par la morale, sans éthique.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Terme: command not found
+157 -- Sui generis ;Latin;"Terme latin signifiant ""de son propre genre"" et qualifiant une situation juridique dont la singularité emmêle tout classement dans une catégorie déjà répertoriée et nécessite de créer des textes spécifiques.";;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Locution: command not found
+158 -- Ex cathedra ;Latin;"Locution latine signifiant ""du haut de la chaire"" employée au sens de ""avec un ton doctoral"" ou dogmatique. ";Parler ex cathedra.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Étude: command not found
+159 -- Épistémologie ;Science;Étude critique des sciences, destinée à déterminer leur origine logique, leur valeur et leur portée (théorie de la connaissance).;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Science: command not found
+160 -- Sémiologie ;Science;Science qui étudie les systèmes de signes.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Mot: command not found
+161 -- Copule;Linguistique;Mot qui relie le sujet au prédicat.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Combativité.: command not found
+162 -- Pugnacité;;Combativité.;Et maintenant que l’Action française lui manque pour exercer sa pugnacité, il s’en prend aux autres.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=D'un: command not found
+163 -- Mièvre;;D'un charme un peu puéril,  d'une grâce enfantine et fade ;Une peinture assez mièvre.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Gentil,: command not found
+164 -- Mignard;;Gentil, mignon.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Prédication,: command not found
+165 -- Apostolat;Religion;Prédication, propagation de la foi, mission qui requiert de l'énergie et de la foi.;Son brûlant esprit d’apostolat s’indignait de mes paisibles allures, de mon goût pour la recherche.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Relatif: command not found
+166 -- Apostolique;Religion;Relatif aux apôtres.;Une lettre apostolique.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Décliner.: command not found
+167 -- Péricliter;;Décliner.;Des chiens errants flairaient la devanture de commerces qui semblaient péricliter.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Généaologie: command not found
+168 -- Pédigrée ;Ironie;Généaologie d'une personne (généalogie d'un animal de pure race).;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Crime: command not found
+169 -- Lèse-majesté;;Crime contre l'autorité du souverain.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Crime: command not found
+170 -- Lèse-humanité;;Crime contre l’humanité.;;
+./programmes/generer_cartes.sh: line 13: DÉFINITION=Qui: command not found
+171 -- Couard ;;Qui est lâchement peureux.;Mieux vaut être couard une minute que mort tout le reste de la vie.;
+./programmes/generer_cartes.sh: line 13: DÉFINITION="Repousser: command not found
+172 -- Éconduire;;"Repousser (un solliciteur), ne pas accéder à la demande de qqun ; congédier, renvoyer ; congédier quelqu'un, refuser de le recevoir, ne pas acceter sa demande : éconduire un importun.";Il s'est fait éconduire honteusement.;
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls cartes
+carte_1.md	carte_125.md	carte_151.md	carte_22.md	carte_49.md	carte_75.md
+carte_10.md	carte_126.md	carte_152.md	carte_23.md	carte_5.md	carte_76.md
+carte_100.md	carte_127.md	carte_153.md	carte_24.md	carte_50.md	carte_77.md
+carte_101.md	carte_128.md	carte_154.md	carte_25.md	carte_51.md	carte_78.md
+carte_102.md	carte_129.md	carte_155.md	carte_26.md	carte_52.md	carte_79.md
+carte_103.md	carte_13.md	carte_156.md	carte_27.md	carte_53.md	carte_8.md
+carte_104.md	carte_130.md	carte_157.md	carte_28.md	carte_54.md	carte_80.md
+carte_105.md	carte_131.md	carte_158.md	carte_29.md	carte_55.md	carte_81.md
+carte_106.md	carte_132.md	carte_159.md	carte_3.md	carte_56.md	carte_82.md
+carte_107.md	carte_133.md	carte_16.md	carte_30.md	carte_57.md	carte_83.md
+carte_108.md	carte_134.md	carte_160.md	carte_31.md	carte_58.md	carte_84.md
+carte_109.md	carte_135.md	carte_161.md	carte_32.md	carte_59.md	carte_85.md
+carte_11.md	carte_136.md	carte_162.md	carte_33.md	carte_6.md	carte_86.md
+carte_110.md	carte_137.md	carte_163.md	carte_34.md	carte_60.md	carte_87.md
+carte_111.md	carte_138.md	carte_164.md	carte_35.md	carte_61.md	carte_88.md
+carte_112.md	carte_139.md	carte_165.md	carte_36.md	carte_62.md	carte_89.md
+carte_113.md	carte_14.md	carte_166.md	carte_37.md	carte_63.md	carte_9.md
+carte_114.md	carte_140.md	carte_167.md	carte_38.md	carte_64.md	carte_90.md
+carte_115.md	carte_141.md	carte_168.md	carte_39.md	carte_65.md	carte_91.md
+carte_116.md	carte_142.md	carte_169.md	carte_4.md	carte_66.md	carte_92.md
+carte_117.md	carte_143.md	carte_17.md	carte_40.md	carte_67.md	carte_93.md
+carte_118.md	carte_144.md	carte_170.md	carte_41.md	carte_68.md	carte_94.md
+carte_119.md	carte_145.md	carte_171.md	carte_42.md	carte_69.md	carte_95.md
+carte_12.md	carte_146.md	carte_172.md	carte_43.md	carte_7.md	carte_96.md
+carte_120.md	carte_147.md	carte_18.md	carte_44.md	carte_70.md	carte_97.md
+carte_121.md	carte_148.md	carte_19.md	carte_45.md	carte_71.md	carte_98.md
+carte_122.md	carte_149.md	carte_2.md	carte_46.md	carte_72.md	carte_99.md
+carte_123.md	carte_15.md	carte_20.md	carte_47.md	carte_73.md	test.sh
+carte_124.md	carte_150.md	carte_21.md	carte_48.md	carte_74.md
+myriambenhadj@MacBook-Air-de-Myriam Projet % cat cartes/carte_1.md
+
+-> # Question
+
+Mot
+
+-----
+
+-> # Réponse
+	
+- Contexte   : Contexte
+- Définition : ?FINITION
+- Exemple     : Exemples 
+	
+myriambenhadj@MacBook-Air-de-Myriam Projet % cat cartes/carte_2.md
+
+-> # Question
+
+Délétère
+
+-----
+
+-> # Réponse
+	
+- Contexte   : Au figuré
+- Définition : ?FINITION
+- Exemple     : Gaz délétère, doctrine délétère.
+	
+myriambenhadj@MacBook-Air-de-Myriam Projet % cat cartes/carte_2.md
+
+-> # Question
+
+Délétère
+
+-----
+
+-> # Réponse
+	
+- Contexte   : Au figuré
+- Définition : ?FINITION
+- Exemple     : Gaz délétère, doctrine délétère.
+	
+myriambenhadj@MacBook-Air-de-Myriam Projet % cat cartes/carte_2.md
+
+-> # Question
+
+Délétère
+
+-----
+
+-> # Réponse
+	
+- Contexte   : Au figuré
+- Définition : ?FINITION
+- Exemple     : Gaz délétère, doctrine délétère.
+	
+myriambenhadj@MacBook-Air-de-Myriam Projet % ./programmes/generer_cartes.sh data/projet_myriam_fiinal_CSV_.csv
+zsh: ./programmes/generer_cartes.sh: bad interpreter: /binEbash: no such file or directory
+myriambenhadj@MacBook-Air-de-Myriam Projet % cat cartes/carte_2.md
+
+-> # Question
+
+Délétère
+
+-----
+
+-> # Réponse
+	
+- Contexte   : Au figuré
+- Définition : ?FINITION
+- Exemple     : Gaz délétère, doctrine délétère.
+	
+myriambenhadj@MacBook-Air-de-Myriam Projet % cat cartes/carte_2.md
+
+-> # Question
+
+Délétère
+
+-----
+
+-> # Réponse
+	
+- Contexte   : Au figuré
+- Définition : ?FINITION
+- Exemple     : Gaz délétère, doctrine délétère.
+	
+myriambenhadj@MacBook-Air-de-Myriam Projet % ./programmes/generer_cartes.sh data/projet_myriam_fiinal_CSV_.csv
+1 -- Mot;Contexte;Définition;Exemples ;
+2 -- Délétère;Au figuré;Nuisible, pernicieux.;Gaz délétère, doctrine délétère.;
+3 -- Virginal;;D'une vierge, propre à une vierge, pudeur.;Fraicheur virginale.;
+4 -- Discréditer;;Faire perdre leur autorité, leur prestige, leur influence, leur valeur à quelqu'un, quelque chose, déconsidérer .; Ces volte-face ont fini par le discréditer.;
+5 -- Prosélitysme;Au figuré;Personne récemment gagnée à une doctrine, un parti, une nouveauté. ;Adepte néophyte, faire de nombreux prosélytes (ex : prosélytisme religieux).;
+6 -- Catalyseur;Au figuré;Ce qui déclenche une réaction par la seule présence ou par son intervention. Substance qui augmente la vitesse d'une réaction chimique sans paraître participer à cette réaction.;Le seul catalyseur du choix de l’avenir, c’est Dieu.;
+7 -- Empirisme;Philosophie;L’empirisme est une doctrine philosophique qui souligne le rôle de l'expérience dans la connaissance humaine, en minimisant la part de la raison.;L'empirisme d'une méthode de travail.;
+8 -- Essaimer;Abeilles ;Quitter la ruche en essaim pour aller s'établir ailleurs. Établie des succursales.; Cette société a essaimé sur tout le territoire, autre ex : sa famille a essaimé dans toute l'Europe.;
+9 -- Trépidant;;Qui est agité avec trépidations. Se dit d'un mouvement vif, saccadé.;Une voiture trépidante, une danse trépidante.;
+10 -- Manichéen;;Exprime ou dénote une manière de voir ou de juger simplificatrice, sans nuance, qui apprécie les choses selon les principes absolus du bien et du mal, sans nuances et sans état intermédiaire.;Une analyse manichéenne de la situation.;
+11 -- Entonner;;Verser dans une tonne, un tonneau. Commencer à chanter un air.;Le Choeur a entonné l’Introït, l’Hymne, le Magnificat. La Musique a entonné un motet. Entonner les prières.;
+12 -- Emboucaner;;S'obscurcir ou se couvrir, en parlant du ciel (par analogie), caractérise le temps qu'il fait lorsque le ciel se couvre, que l'atmosphère s’obscurcit, noircir, obscurcir, encombrer.;Arrête de m’emboucaner ou je te prive de pastis.;
+13 -- Axiome;Sciences;Proposition considérée comme évidente, admise sans démonstration.;Toute proposition n’est pas un axiome.;
+14 -- Décaper;;Débarrasser (une surface) des dépôts, des matières qui y adhèrent fortement.;Décaper un mur avant de le repeindre.;
+15 -- Kyrielle;;Longue suite (de paroles), suite inintérrompue, série interminable.;Cette plaideuse nous a fait une longue Kyrielle de ses maux, de ses persécutions, des injustices qu’on lui a fait.;
+16 -- Suave;Littéraire;Qui a une douceur exquise, délicieuse.;Un parfum, une musique suave.;
+17 -- Happer;;Saisir, attraper brusquement et avec violence, saisir brusquement dans la gueule, le bec.;Il s’est laissé happer par un importun.;
+18 -- Fortuit;;Qui arrive par hasard, d'une manière imprévue.;Une rencontre fortuite.;
+19 -- Maculer;Littéraire;Couvrir, souiller de tâches.;;
+20 -- Professer;Littéraire;Déclarer hautement avoir (un sentiment de croyance), déclarer, exprimer publiquement et hautement une opinion, théorie.;Professer envers un maître la plus vive admiration.;
+21 -- Labile;Didactique;Précaire, changeant, se dit de ce qui est fragile, peu stable, notamment en chimie des composés, susceptible de subir des modifications.;Il a la mémoire labile.;
+22 -- Cinétique;;Théorie expliquant un ensemble de phénomènes par le mouvement de la matière, qui a le mouvement pour principe (d'un point matériel en mouvement), étude des lois qui régissent la vitesse des réactions chimiques.        ; Énergie cinétique.;
+23 -- Ambivalence;;Caractère de ce qui comporte deux composantes de sens contraire, ou de ce qui se présente sous deux aspects.;Une personnalité ambivalente.;
+24 -- Patent;Littéraire;Évident, manifeste.;Une injustice patente.;
+25 -- Polysémie;Linguistique;Caractère d'un signe qui possède plusieurs contenus, plusieurs sens.;Un mot polysémique.;
+26 -- Assertif;;Qui exprime une vérité de fait. Qui n'est ni une interrogative ni une excalamative ni une impérative.;Jugement assertif, phrase assertive.;
+27 -- Induction;;Opération mentale qui consiste à remonter des faits à la loi, de cas particuliers à une proposition plus. générale (opposé à déduction). Formule d'hypothèses, considérées comme vraies, basées sur ces observations et on tire des conclusions.;;
+28 -- Déduction;;Raisonnement par lequel on déduit, on conclut.;Déduction faite des arrhes.;
+29 -- Prescriptif;;Qui constitue une prescription, un commandement, un ordre.;La grammaire est une science prescriptive : elle impose des règles à respecter.;
+30 -- Descriptif;;Qui décrit, s'attache à décrire : style descriptif. Géométrie descriptive : technique de représentation plane des figures de l'espace.;La linguistique est descriptive : elle décrit la langue et tous ses aspects.;
+31 -- Connexe;;Qui a des rapports étroits avec autre chose.;Affaires, matières, idées, sciences connexes.;
+32 -- Dyadique;Didactique;Qui concerne une dyade, un ensemble de deux éléments.;Des éléments dyadiques.;
+33 -- Triadique;;Ensemble de trois personnes ou de trois choses étroitement unies.;;
+34 -- Onomasiologie;Linguistique ;Étude des significations à partir de l'idée, de la notion, du concept pour en déterminer l'expression (opposé à sémasiologie).;;
+35 -- Sémasiologie;Linguistique ;Science des significations, partant du mot pour en étudier le sens (opposé à onomasiologie).;;
+36 -- Autonymie;Linguistique ;"Caractère d'un mot, d'un énoncé autonyme, qui se désigne lui-même comme signe dans le discours : dans ""être est un verbe"", ""être"" est autonyme.";;
+37 -- Éxecrer;Littéraire;Haïr quelqu'un au plus haut point, avoir de l'aversion, une vive répugnance pour quelque chose.;J’exècre ce genre de comportement.;
+38 -- Dissident;;Un dissident est une personne qui se sépare d'une communauté ou parti politique dont elle était membre.;Un bon maître ne doit avoir que des disciples dissidents.;
+39 -- Risible;;Propre à exciter une gaieté moqueuse, qui prête à rire, qui mérite qu'on en rie, qu'on s'en moque.;Prétentions risibles. Propos risibles.;
+40 -- Ubuesque;;Qui rappelle le personnage d'Ubu, par un caractère grotesque, cruel et couard, absurde, caricaturale et grotesque, la situation vire à l'invraisemblable et échappe à tout sens commun.;Une situation ubuesque est une situation totalement dépourvue de sens.;
+41 -- Inopiné;;Qui arrive, se produit alors qu'on s'y attendait pas.;Une visite inopinée.;
+42 -- Éducolrer;;Adoucir par addition de sucre, de sirop (un médicament), rendre plus faible dans son expression, adoucir.;Édulcorer un compte rendu sévère.;
+43 -- Alambiquer;;Exagérément compliqué et contourné : un esprit alambiqué.;Des expressions alambiquées.;
+44 -- Con à bêcher de la flotte;Expression;Sot, imbécile.;;
+45 -- Lapalissade ;;Affirmation évidente qui prête à rire : dire des lapalissades. Vérité de La Palisse et vérité de La Palice désignent une vérité de niaise évidence qui possède généralement un caractère naif et humoristique.;Répondre des lapalissades.;
+46 -- Se targuer;;Se prévaloir de quelque chose avec ostentation.;Il se targue d'être le meilleur dans ce domaine.;
+47 -- Dichotomie ;Didactique;Division, opposition (entre deux éléments, deux idées).;Dichotomie entre la raison et la passion.;
+48 -- Apocryphe;Religion;Que l'Église ne tient pas pour canonique, dont l'authenticité est douteuse ou niée.;Les Évangiles apocryphes. Une lettre apocryphe de Napoléon. ;
+49 -- Néologisme;;Mot nouveau, sens nouveau.;La glotophobie est un néologisme.;
+50 -- Exciper ;;Se prévaloir d'une exception, alléguer une excuse, invoquer un fait pour en tirer une exception.;Exciper de sa bonne foi. Exciper d'une longue prescription.;
+51 -- Démagogie ;Politique;Politique par laquelle on flatte les masses por gagner et exploiter leur adhésion.;il fait de la démagogie pour se faire élire.;
+52 -- Expurcher ;;Abréger (un texte) en éliminant ce qui est contraire à une morale, à un dogme, en exclure les membres compromettants.;Expurger un parti politique,;
+53 -- Imputer;;Attribuer à qqun une chose digne de blâme (faute, crime…).;On lui impute à crime un simple oubli (on considère comme un crime).;
+54 -- Conchier;Familier;Souiller d'excréments.;Sachez que je vous conchie et que vos paroles ne sont pour moi que du vent !;
+55 -- Oblitérer ;Médecine;Obstruer, boucher (un canal...).;L’ouverture du vaisseau est oblitérée par de la fibrine.;
+56 -- Impérialisme ;Politique;Politique d'un État visant à réduire d'autres États sous sa dépendance politique ou économique.;L’impérialisme britannique au XIX ème siècle.;
+57 -- Se cantonner ;;Limiter ses activités.; Se cantonner dans ses études.;
+58 -- Lisière ;;Bordure limitant de chaque côté une pièce d’étoffe, partie extrême (d'un terrain, d'une région).; La lisière d'un champ, d'une forêt.;
+59 -- Pérégrination ;Vieux;"Voyage en pays lointain ; moderne. Au pluriel : déplacements incessants en de nombreux endroits.";J’ignore si tu prendras grand intérêt aux pérégrinations d’un touriste parti de Paris en plein novembre.;
+60 -- Acquiescer ;;Donner son entier consentement (à). Sans complément : marquer son approbation (par la parole, un geste).;Acquiescer à une demande. Acquiescer d'un signe de tête;
+61 -- Livide;Littéraire;Qui est de couleur plombée, bleuâtre.;D'une paleur terne.;
+62 -- Blafard ;;D'une teinte pâle et sans éclat.;Un teint blafard.;
+63 -- Sophisme;;Argument qui, partant de prémisses vraies, ou jugées telles, raisonnement vicié à la base, reposant sur un jeu de mots, un argument séduisant mais faux, destiné à induire en erreur.;;
+64 -- Symposium;;Réunion ou congrès de spécialistes, sur un thème scientifique particulier.;;
+65 -- Prêcher pour sa paroisse ;Expression;Se dit d'une personne qui, bien qu'affichant une certaine objectivité, favorise, dans son argumentaire, son camp ou son groupe.;;
+66 -- Prostré;;Qui est dans un état de prostration (état d'abattement physique et psychologique extrême, de faiblesse et d'inactivité totale.;Être, tomber dans une prostration profonde : un malade prostré.;
+67 -- Pantoise ;;Dont le souffle est coupé par l'émotion, la surprise.;;
+68 -- Déroger;Droit et littéraire;Ne pas observer, ne pas appliquer (une loi, une règle, une convention). Manquer à (sa situation sociale, ses principes).;Déroger à la loi. Déroger à son rang, à ses convictions.;
+69 -- Parangon;Littéraire;Modèle, archétype, représentant de. Vieux mot qui signifiait autrefois une chose excellente et hors de comparaison.;Cela est sans parangon. C'est un parangon de sagesse.;
+70 -- Ésotérique;;Se dit d'un mode d'expression, d'une oeuvre qui n'est compréhensible que des initiés, hermétique, abstrus, abscons.;Langage ésotérique.;
+71 -- Exotérique ;Didactique;Qui peut être enseigné en public, qui peut être divulgué (en parlant d'une doctrine philosophique). Se dit d'une doctrine philosophique ou religieuse enseignée publiquement (par opposition avec ésotérique).;;
+72 -- Oblitérer ;Vieilli ;Effacer par une usure progressive.;;
+73 -- Inférence ;Logique;Opération logique qui consiste à admettre une proposition en raison de son lien avec une proposition préalable tenue pour vraie.;;
+74 -- Ébréchure ;;Partie ébréchée (entaillée, cassure sur le bord d'un objet), petit morceau cassé du bord d'un objet.;;
+75 -- Erratique ;Didactique;Qui n'est pas fixe. Pour des personnes : errant, instable.;Les mouvements erratiques du dollar.;
+76 -- Subreptice;;Qui est obtenu, qui se fait par surprise, à l'insu de qqun et contre sa volonté.;Une manœuvre subreptice;
+77 -- Amodier ;Droit;Louer (une terre, une mine) par amodiation.;;
+78 -- Concéder ;;Accorder qqch à qqun comme une faveur. Céder sur (un point en discussion).;Concéder un privilège. Je vous concède ce point.;
+79 -- Peu ou prou;Littéraire;Plus ou moins.;;
+80 -- Intriquer;;Rendre complexe, entremêler.;;
+81 -- Macro;;"Préfxe du grec ""makros"" qui signifie ""long"", ""grand"". Employé dans des composés du vocabulaire technique et scientifique, où il donne une valeur de grandeur à l'élément auquel il est associé.";;
+82 -- Micro;;"Préfixe, du grec ""mikros"" qui signifie ""petit"", indiquant que quelque chose est très petit.";;
+83 -- Macroscopique;Science;"Qui se voit à l'oeil nu (opposé à microscopique) ; qui est à l'échelle du macroscome (le cosmos, l'univers).";;
+84 -- Microscopique ;Didactique ;Qui se fait à l'aide du microscope, visible seulement au microscope, très petit, minuscule.;;
+85 -- Poreux;Courant et figuré;Qui présente une multitude de pores, de petits trous (matière minérale, poterie, etc.). Perméable, qui permet l'échange, l'influence.;Des frontières poreuses.;
+86 -- Porosité ;Didactique ;État de ce qui est poreux, absence de délimitation claire entre deux domaines, deux milieux, etc., pouvant donner lieu à un jeu d'influences réciproques, voire à une connivence répréhensible.;Certains dénoncent la porosité entre le pouvoir et a finance.;
+87 -- Supplanter ;;Passer devant, prendre la place de (qqun) en lui faisant perdre son crédit. Éliminer (une chose) en la remplaçant. ;Supplanter un rival. Le disque compact a supplanté le microsillon.;
+88 -- Semilinguisme ;Linguistique ;Désigne une situation dans laquelle un enfant peut acquérir un niveau de langage correspondant à ses capacités linguistiques originelles, et ce dans aucune langue..;;
+89 -- Épilinguistique ;Linguistique ;Discours et expression de jugements sur les pratiques langagières.;Activité épilinguistique.;
+90 -- Éminement ;;"À très haut degré ; extrêmement.";Cette hypothèse est éminemment présente au sein de la sphère académique.;
+91 -- Rémanence;Sciences;Persistance partielle d'un phénomène après disparition de sa cause.; Rémanence des images visuelles.;
+92 -- Marquer du seau de ;;Mettre la signature de, laisser la marque de.;;
+93 -- Incomplétude ;;Insatisfaction, manque éprouvé par quelqu'un qui a le sentiment de ne pas s'être complètement réalisé.;;
+94 -- À la lisière de ;Expression;Bord d'une zone.;À la lisière de la forêt.;
+95 -- Impartial;;Qui est sans parti pris, ne manifeste aucun parti pris.;Un juge impartial.;
+96 -- Méandre;Au figuré;Détour compliqué. Cheminement capricieux, sinueux de quelque chose.;Les méandres de la pensée, les méandres d'un exposé.;
+97 -- Quitus ;;Acte par lequel le dirigeant d'une société, et plus généralement le responsable de la gestion d'un patrimoine ou d'une opération déterminée, est reconnu s'être acquitté de sa charge.;"L'assemblée, soit donne ""quitus"" soit ""refuse de donner quitus"".";
+98 -- Coruscant ;Littéraire;Brillant, éclatant.;J’ai le cerveau plein de ces vents et de ces coruscantes vagues qui hennissent.;
+99 -- Verbiager ;Péjoratif;Abondance de paroles, de mots vides de sens ou qui disent peu de chose.;Il n’y a que du verbiage dans ce discours, ce livre.;
+100 -- Paie pas de mine;Expression;"Signifie qu'une personne a un aspect un peu négligé, qui n’est pas engageant. Au XVII siècle, le terme ""payer de mine"" signifiait qu'une personne avait un physique agréable et possédait une belle prestance.";;
+101 -- Casse pas des briques ;Expression;Être très commun, ne rien avoir d'extraordinaire, être à la limite de la médiocrité.;C’est bon mais ça casse pas des briques.;
+102 -- Uchronie ;Didactique ;Récits d'évènements fictifs à partir d'un point de départ historique.;;
+103 -- Éructer ;Littéraire et figuré;Renvoyer par la bouche les gaz contenus dans l'estomac. Proférer grossièrement.;Éructer des injures;
+104 -- Rétif;;Qui s'arrête d'avancer, qui refuse d'avancer.;;
+105 -- Imprécation;Littéraire;Souhait de malheur envers qqun.;C’était une tempête d’imprécations contre le faisan qui rôtissait, contre les sauces dont l’odeur grasse ravageait leurs estomacs vides (Zola, Germinal, 1885, p. 1440).;
+106 -- Suranné ;Littéraire;Qui a cessé d'être en usage, qui évoque une époque révolue.;Passeport suranné.;
+107 -- Hébété;;Rendu stupide.;"Entre-temps, le patient peut rentrer, mais l’ambulancier revient à la charge; visiblement hébété par la situation.";
+108 -- Hébétude ;Littéraire;État d'une personne hébétée, stupéfaite. Médecine : engourdissement des facultés cérébrales dans certaines maladies, l'anémie cérébrale par exemple.;;
+109 -- Échevelé;;Dont les cheveux sont en désordre.;;
+110 -- Apathique ;;Qui manque d'énergie ou de réactivité émotionnelle.;;
+111 -- Loquacité ;Littéraire;Disposition à parler beaucoup.;Se livrer à des loquacités.;
+112 -- Velleitaire ;;Qui n'a que des intentions faibles, ne se décide pas à agir.;Il lui est facile de prouver que je ne suis qu’un velléitaire, incapable de produire aucune œuvre. (Gide, Journal, 1947, p. 307).;
+113 -- Infatué ;;Trop pénétrer de ses mérites, être content de soi.;Être infatué de soi-même, de ses mérites.;
+114 -- Dicible ;;Qui peut être dit, exprimé.;Nous n’avions rien à nous dire qui fût dicible.;
+115 -- Inanité ;Vieux;Vide, néant. Littéraire: caractère de ce qui est vain.;L'inanité de nos efforts.;
+116 -- Syncrétisme ;Didactique;Combinaison de doctrines, de systèmes initialement incompatibles. Synthèse de deux ou plusieurs traits culturels d'origine différente, donnant lieu à des formes culturelles nouvelles.;Le syncrétisme religieux du vaudou.;
+117 -- Cime;;Extrémité pointue (d'un arbre, d'un rocher, d'une montagne).;La mer la plus profonde a un fond, la montagne la plus haute a une cime.;
+118 -- Tarir;;Cesser de couler, s’épuiser, faire cesser de couler, mettre à sec.;La conversation tarit : s'arrête parce qu'on a plus rien à se dire.;
+119 -- Bon an mal an;Expression;En moyenne par an, en compensation faite des bonnes et des mauvaises années, quelque chose se produit régulièrement, en tenant compte des bonnes et des mauvaises années.;;
+120 -- Ubuesque ;;Qui rappelle le personnage d'Ubu, par un caractère grottesque, cruel et couard.;;
+121 -- Clouer au pilori;Expression;Désigner à la réprobation publique, condamner violemment (surtout en parlant de l'opinion publique).;Mettre ou clouer au pilori quelqu’un.;
+122 -- Heuristique ;;Qui sert à la découverte. Partie de la science qui a pour objet les procédures de recherche et de découverte.;Carte heuristique des homophones.;
+123 -- Trivial;Courant, vieilli ou littéraire;Vulgaire, contraire aux bons usages. Ordinaire, commun, banal.;Détails triviaux.;
+124 -- Prophylactique ;;Qui prévient la maladie.;Mesures d'hygiène prophylactiques.;
+125 -- Vacuité ;Didactique;État de ce qui est vide, vide moral, intellectuel.;La vacuité de ses propos.;
+126 -- Ciconspection ;;Attitude de retenue prudente.;Agir avec de circonspection.;
+127 -- Lapidaire ;;Artisan qui taille, grave les pierres précieuses ou commerçant en pierres précieuses autres que le diamant.;;
+128 -- Subsumer;Philosophie scolastique;Rapporter, référer un individu à une espèce. Rapporter, référer une espèce à un genre.;Subsumer les règles du secret médical sous celles du secret professionnel.;
+129 -- Ad oc;Expression latine;D'une manière qui convient : argument ad hoc. Se dit d'une personne compétente, parfaitement qualifiée pour la tâche qu'on lui confie.;;
+130 -- Ad hominem;Expression latine;Par lequel on attaque l'adversaire directement dans sa personne en lui opposant ses propres paroles ou ses propres actes.;;
+131 -- Ad vitam aeternam;Expression latine;Pour toujours, indéfiniment.;;
+132 -- In fine;Didactique;À la fin (de la page, du chapitre).;"""En fin de compte"" (bourse).";
+133 -- De facto ;Expression latine;"Signifie ""de fait"", ""en fait"".";;
+134 -- De jure ;Expression latine;"Signifie ""de droit"", ""en droit"", ""de plein droit"".";;
+135 -- Doléance ;;Plainte ou réclamation, en général adressées par des subordonnées à un supérieur.;;
+136 -- Démagogie ;Politique;Politique par laquelle on flatte les masses pour gagner et exploiter leur adhésion.;;
+137 -- Déontologie ;Didactique;Ensemble de règles et de devoirs régissant une profession.;Code de déontologie des médecins.;
+138 -- Apodictique ;Logique;Qui a une évidence de droit et non pas seulement de fait.;;
+139 -- Assertorique ;;Se dit d'un jugement qui énonce une vérité de fait, sans la poser comme nécessaire (par opposition à jugement apodictique).;;
+140 -- Chaperonnner ;;Accompagner (une jeune fillle) en qualité de chaperon. Accompagner qlqun (surtout une jeune fille) pour le surveiller.;;
+141 -- Stricto sensu ;Didactique;Au sens strict, restreint.;;
+142 -- Ésotérique ;Doctrine;Qui se transmet seulement à des adeptes qualifiés. Obscur, incompréhensible pour qui n'appartient pas au petit groupe des initiés.;;
+143 -- Prolixe ;;Qui est trop long, qui a tendance à délayer dans ses écrits ou ses discours. Un orateur ou ses discours.;Cet homme est trop prolixe en ses discours, en ses raisonnements. ;
+144 -- Doxa ;Didactique;Ensemble des opinions reçues sans discussion, comme évidentes, dans une civilisation donnée.;;
+145 -- Aliéner ;Philosophie;Perdre (un droit naturel). Sujet chose : éloigner, rendre hostile.;Aliéner sa liberté. Sa médisance lui ont aliéné ses amis.;
+146 -- Pavlovien;;Selon la théorie de Pavlov : les réactions acquises par apprentissage et habitude deviennent des réflexes lorsque le cerveau fait les liens entre le signal sonore et l'action qui suit.;;
+147 -- Maccarthysme ;Politique;Politique de délation et de persécution menée aux États-Unis dans les années 1950, à l'encontre de personnalités taxées de sympathie communiste.;;
+148 -- Patent ;;Évident, manifeste.;;
+149 -- Invective ;;Parole ou suite de paroles violentes (contre qqun, qqch).;Heureusement que toutes les invectives au boulot ne remontent pas aux oreilles des juges, sinon les prétoires seraient engorgés !;
+150 -- Rétif ;Monture;"Qui s'arrête, reufuse d'avancer ; Personnes : difficile à conduire, à persuader.";;
+151 -- Autarcie ;;Qui se suffit à lui-même, état d'un pays qui se suffit à lui-même, économie fermée.;Vivre en autarcie.;
+152 -- Endogène;Didactique;Qui prend naissance à l'intérieur, est dû à une cause interne . Venant de cellules situées dans les profondeurs des tissus.;Organes endogènes.;
+153 -- Tautologie ;Logique;Proposition vraie quelle que soit la valeur de vérité de ses composants. Désigne le fait de répéter la même idée en termes différents, soit dans la même proposition. ;J'en porte la responsabilité pleine et entière.;
+154 -- Démotique ;;Qui est utilisé par le peuple, à propos de la langue (grec moderne) ou de l'écriture (égyptien ancien). Se dit de la langue parlée et de l'écriture cursive vulgaire des anciens Égyptiens (simplification de l'écriture hiératique).;;
+155 -- Boutisme ;Informatique;"Aussi dit ""endianness"" en anglas désigne l'ordre dans lequel les octets sont placés.";;
+156 -- Anéthique ;;Qui n'est pas concerné par la morale, sans éthique.;;
+157 -- Sui generis ;Latin;"Terme latin signifiant ""de son propre genre"" et qualifiant une situation juridique dont la singularité emmêle tout classement dans une catégorie déjà répertoriée et nécessite de créer des textes spécifiques.";;
+158 -- Ex cathedra ;Latin;"Locution latine signifiant ""du haut de la chaire"" employée au sens de ""avec un ton doctoral"" ou dogmatique. ";Parler ex cathedra.;
+159 -- Épistémologie ;Science;Étude critique des sciences, destinée à déterminer leur origine logique, leur valeur et leur portée (théorie de la connaissance).;;
+160 -- Sémiologie ;Science;Science qui étudie les systèmes de signes.;;
+161 -- Copule;Linguistique;Mot qui relie le sujet au prédicat.;;
+162 -- Pugnacité;;Combativité.;Et maintenant que l’Action française lui manque pour exercer sa pugnacité, il s’en prend aux autres.;
+163 -- Mièvre;;D'un charme un peu puéril,  d'une grâce enfantine et fade ;Une peinture assez mièvre.;
+164 -- Mignard;;Gentil, mignon.;;
+165 -- Apostolat;Religion;Prédication, propagation de la foi, mission qui requiert de l'énergie et de la foi.;Son brûlant esprit d’apostolat s’indignait de mes paisibles allures, de mon goût pour la recherche.;
+166 -- Apostolique;Religion;Relatif aux apôtres.;Une lettre apostolique.;
+167 -- Péricliter;;Décliner.;Des chiens errants flairaient la devanture de commerces qui semblaient péricliter.;
+168 -- Pédigrée ;Ironie;Généaologie d'une personne (généalogie d'un animal de pure race).;;
+169 -- Lèse-majesté;;Crime contre l'autorité du souverain.;;
+170 -- Lèse-humanité;;Crime contre l’humanité.;;
+171 -- Couard ;;Qui est lâchement peureux.;Mieux vaut être couard une minute que mort tout le reste de la vie.;
+172 -- Éconduire;;"Repousser (un solliciteur), ne pas accéder à la demande de qqun ; congédier, renvoyer ; congédier quelqu'un, refuser de le recevoir, ne pas acceter sa demande : éconduire un importun.";Il s'est fait éconduire honteusement.;
+myriambenhadj@MacBook-Air-de-Myriam Projet % cat cartes/carte_2.md
+
+-> # Question
+
+Délétère
+
+-----
+
+-> # Réponse
+	
+- Contexte   : Au figuré
+- Définition : Nuisible, pernicieux.
+- Exemple     : Gaz délétère, doctrine délétère.
+	
+myriambenhadj@MacBook-Air-de-Myriam Projet % man mdp
+myriambenhadj@MacBook-Air-de-Myriam Projet % mdp cartes/carte_2.md
+myriambenhadj@MacBook-Air-de-Myriam Projet % shuf
+zsh: command not found: shuf
+myriambenhadj@MacBook-Air-de-Myriam Projet % brew install coreutils
+==> Downloading https://formulae.brew.sh/api/formula.jws.json
+
+==> Downloading https://formulae.brew.sh/api/cask.jws.json
+######################################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/coreutils/manifests/9.4
+######################################################################################### 100.0%
+==> Fetching dependencies for coreutils: gmp
+==> Downloading https://ghcr.io/v2/homebrew/core/gmp/manifests/6.3.0
+######################################################################################### 100.0%
+==> Fetching gmp
+==> Downloading https://ghcr.io/v2/homebrew/core/gmp/blobs/sha256:b04023f65b8c79c45798a4bfd97fdb
+######################################################################################### 100.0%
+==> Fetching coreutils
+==> Downloading https://ghcr.io/v2/homebrew/core/coreutils/blobs/sha256:ec46f14061242a7439e7fbb1
+######################################################################################### 100.0%
+==> Installing dependencies for coreutils: gmp
+==> Installing coreutils dependency: gmp
+==> Downloading https://ghcr.io/v2/homebrew/core/gmp/manifests/6.3.0
+Already downloaded: /Users/myriambenhadj/Library/Caches/Homebrew/downloads/70a72a71216843d66a953c06ff6337445ce9bc94fae9f0e301e2f59005274a8e--gmp-6.3.0.bottle_manifest.json
+==> Pouring gmp--6.3.0.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/gmp/6.3.0: 21 files, 3.3MB
+==> Installing coreutils
+==> Pouring coreutils--9.4.monterey.bottle.tar.gz
+==> Caveats
+Commands also provided by macOS and the commands dir, dircolors, vdir have been installed with the prefix "g".
+If you need to use these commands with their normal names, you can add a "gnubin" directory to your PATH with:
+  PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
+==> Summary
+🍺  /usr/local/Cellar/coreutils/9.4: 480 files, 14.4MB
+==> Running `brew cleanup coreutils`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> Caveats
+==> coreutils
+Commands also provided by macOS and the commands dir, dircolors, vdir have been installed with the prefix "g".
+If you need to use these commands with their normal names, you can add a "gnubin" directory to your PATH with:
+  PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
+myriambenhadj@MacBook-Air-de-Myriam Projet % shuf
+
+
+
+q
+^C
+myriambenhadj@MacBook-Air-de-Myriam Projet % shuf cartes
+shuf: read error: Is a directory
+myriambenhadj@MacBook-Air-de-Myriam Projet % shuf 100
+shuf: 100: No such file or directory
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls cartes | shuf 
+carte_102.md
+carte_156.md
+carte_29.md
+carte_28.md
+carte_49.md
+carte_116.md
+carte_16.md
+carte_134.md
+carte_80.md
+carte_61.md
+carte_45.md
+carte_58.md
+carte_110.md
+carte_152.md
+carte_103.md
+carte_132.md
+carte_72.md
+carte_171.md
+carte_21.md
+carte_37.md
+carte_114.md
+carte_88.md
+carte_24.md
+carte_74.md
+carte_57.md
+carte_11.md
+carte_66.md
+carte_15.md
+carte_68.md
+carte_104.md
+carte_65.md
+carte_2.md
+carte_87.md
+carte_122.md
+carte_112.md
+carte_42.md
+carte_133.md
+carte_97.md
+carte_93.md
+carte_25.md
+carte_129.md
+carte_91.md
+carte_55.md
+carte_27.md
+carte_9.md
+carte_46.md
+carte_154.md
+carte_59.md
+carte_125.md
+carte_17.md
+carte_3.md
+carte_144.md
+carte_40.md
+carte_94.md
+carte_60.md
+carte_161.md
+carte_140.md
+carte_162.md
+carte_50.md
+carte_139.md
+carte_81.md
+carte_67.md
+carte_135.md
+carte_131.md
+carte_159.md
+carte_146.md
+carte_62.md
+carte_10.md
+test.sh
+carte_83.md
+carte_64.md
+carte_86.md
+carte_12.md
+carte_53.md
+carte_143.md
+carte_96.md
+carte_172.md
+carte_82.md
+carte_63.md
+carte_8.md
+carte_138.md
+carte_142.md
+carte_30.md
+carte_41.md
+carte_105.md
+carte_4.md
+carte_22.md
+carte_124.md
+carte_79.md
+carte_167.md
+carte_47.md
+carte_73.md
+carte_98.md
+carte_35.md
+carte_48.md
+carte_34.md
+carte_76.md
+carte_108.md
+carte_155.md
+carte_32.md
+carte_90.md
+carte_69.md
+carte_115.md
+carte_128.md
+carte_33.md
+carte_52.md
+carte_168.md
+carte_165.md
+carte_149.md
+carte_137.md
+carte_130.md
+carte_166.md
+carte_158.md
+carte_127.md
+carte_70.md
+carte_85.md
+carte_100.md
+carte_157.md
+carte_78.md
+carte_1.md
+carte_107.md
+carte_14.md
+carte_151.md
+carte_164.md
+carte_71.md
+carte_75.md
+carte_7.md
+carte_89.md
+carte_38.md
+carte_120.md
+carte_6.md
+carte_39.md
+carte_119.md
+carte_18.md
+carte_153.md
+carte_170.md
+carte_51.md
+carte_43.md
+carte_19.md
+carte_117.md
+carte_95.md
+carte_20.md
+carte_31.md
+carte_145.md
+carte_92.md
+carte_84.md
+carte_99.md
+carte_56.md
+carte_118.md
+carte_147.md
+carte_109.md
+carte_101.md
+carte_5.md
+carte_123.md
+carte_26.md
+carte_136.md
+carte_126.md
+carte_54.md
+carte_77.md
+carte_36.md
+carte_148.md
+carte_160.md
+carte_23.md
+carte_141.md
+carte_113.md
+carte_13.md
+carte_150.md
+carte_169.md
+carte_44.md
+carte_111.md
+carte_106.md
+carte_121.md
+carte_163.md
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls cartes
+carte_1.md	carte_125.md	carte_151.md	carte_22.md	carte_49.md	carte_75.md
+carte_10.md	carte_126.md	carte_152.md	carte_23.md	carte_5.md	carte_76.md
+carte_100.md	carte_127.md	carte_153.md	carte_24.md	carte_50.md	carte_77.md
+carte_101.md	carte_128.md	carte_154.md	carte_25.md	carte_51.md	carte_78.md
+carte_102.md	carte_129.md	carte_155.md	carte_26.md	carte_52.md	carte_79.md
+carte_103.md	carte_13.md	carte_156.md	carte_27.md	carte_53.md	carte_8.md
+carte_104.md	carte_130.md	carte_157.md	carte_28.md	carte_54.md	carte_80.md
+carte_105.md	carte_131.md	carte_158.md	carte_29.md	carte_55.md	carte_81.md
+carte_106.md	carte_132.md	carte_159.md	carte_3.md	carte_56.md	carte_82.md
+carte_107.md	carte_133.md	carte_16.md	carte_30.md	carte_57.md	carte_83.md
+carte_108.md	carte_134.md	carte_160.md	carte_31.md	carte_58.md	carte_84.md
+carte_109.md	carte_135.md	carte_161.md	carte_32.md	carte_59.md	carte_85.md
+carte_11.md	carte_136.md	carte_162.md	carte_33.md	carte_6.md	carte_86.md
+carte_110.md	carte_137.md	carte_163.md	carte_34.md	carte_60.md	carte_87.md
+carte_111.md	carte_138.md	carte_164.md	carte_35.md	carte_61.md	carte_88.md
+carte_112.md	carte_139.md	carte_165.md	carte_36.md	carte_62.md	carte_89.md
+carte_113.md	carte_14.md	carte_166.md	carte_37.md	carte_63.md	carte_9.md
+carte_114.md	carte_140.md	carte_167.md	carte_38.md	carte_64.md	carte_90.md
+carte_115.md	carte_141.md	carte_168.md	carte_39.md	carte_65.md	carte_91.md
+carte_116.md	carte_142.md	carte_169.md	carte_4.md	carte_66.md	carte_92.md
+carte_117.md	carte_143.md	carte_17.md	carte_40.md	carte_67.md	carte_93.md
+carte_118.md	carte_144.md	carte_170.md	carte_41.md	carte_68.md	carte_94.md
+carte_119.md	carte_145.md	carte_171.md	carte_42.md	carte_69.md	carte_95.md
+carte_12.md	carte_146.md	carte_172.md	carte_43.md	carte_7.md	carte_96.md
+carte_120.md	carte_147.md	carte_18.md	carte_44.md	carte_70.md	carte_97.md
+carte_121.md	carte_148.md	carte_19.md	carte_45.md	carte_71.md	carte_98.md
+carte_122.md	carte_149.md	carte_2.md	carte_46.md	carte_72.md	carte_99.md
+carte_123.md	carte_15.md	carte_20.md	carte_47.md	carte_73.md	test.sh
+carte_124.md	carte_150.md	carte_21.md	carte_48.md	carte_74.md
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls cartes
+carte_1.md	carte_113.md	carte_128.md	carte_142.md	carte_157.md	carte_171.md	carte_30.md	carte_45.md	carte_6.md	carte_74.md	carte_89.md
+carte_10.md	carte_114.md	carte_129.md	carte_143.md	carte_158.md	carte_172.md	carte_31.md	carte_46.md	carte_60.md	carte_75.md	carte_9.md
+carte_100.md	carte_115.md	carte_13.md	carte_144.md	carte_159.md	carte_18.md	carte_32.md	carte_47.md	carte_61.md	carte_76.md	carte_90.md
+carte_101.md	carte_116.md	carte_130.md	carte_145.md	carte_16.md	carte_19.md	carte_33.md	carte_48.md	carte_62.md	carte_77.md	carte_91.md
+carte_102.md	carte_117.md	carte_131.md	carte_146.md	carte_160.md	carte_2.md	carte_34.md	carte_49.md	carte_63.md	carte_78.md	carte_92.md
+carte_103.md	carte_118.md	carte_132.md	carte_147.md	carte_161.md	carte_20.md	carte_35.md	carte_5.md	carte_64.md	carte_79.md	carte_93.md
+carte_104.md	carte_119.md	carte_133.md	carte_148.md	carte_162.md	carte_21.md	carte_36.md	carte_50.md	carte_65.md	carte_8.md	carte_94.md
+carte_105.md	carte_12.md	carte_134.md	carte_149.md	carte_163.md	carte_22.md	carte_37.md	carte_51.md	carte_66.md	carte_80.md	carte_95.md
+carte_106.md	carte_120.md	carte_135.md	carte_15.md	carte_164.md	carte_23.md	carte_38.md	carte_52.md	carte_67.md	carte_81.md	carte_96.md
+carte_107.md	carte_121.md	carte_136.md	carte_150.md	carte_165.md	carte_24.md	carte_39.md	carte_53.md	carte_68.md	carte_82.md	carte_97.md
+carte_108.md	carte_122.md	carte_137.md	carte_151.md	carte_166.md	carte_25.md	carte_4.md	carte_54.md	carte_69.md	carte_83.md	carte_98.md
+carte_109.md	carte_123.md	carte_138.md	carte_152.md	carte_167.md	carte_26.md	carte_40.md	carte_55.md	carte_7.md	carte_84.md	carte_99.md
+carte_11.md	carte_124.md	carte_139.md	carte_153.md	carte_168.md	carte_27.md	carte_41.md	carte_56.md	carte_70.md	carte_85.md	test.sh
+carte_110.md	carte_125.md	carte_14.md	carte_154.md	carte_169.md	carte_28.md	carte_42.md	carte_57.md	carte_71.md	carte_86.md
+carte_111.md	carte_126.md	carte_140.md	carte_155.md	carte_17.md	carte_29.md	carte_43.md	carte_58.md	carte_72.md	carte_87.md
+carte_112.md	carte_127.md	carte_141.md	carte_156.md	carte_170.md	carte_3.md	carte_44.md	carte_59.md	carte_73.md	carte_88.md
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls cartes | shuf
+carte_5.md
+carte_113.md
+carte_53.md
+carte_127.md
+carte_111.md
+carte_171.md
+carte_27.md
+carte_120.md
+carte_25.md
+carte_110.md
+carte_68.md
+carte_152.md
+carte_15.md
+carte_158.md
+carte_74.md
+carte_42.md
+carte_73.md
+carte_153.md
+carte_21.md
+carte_164.md
+carte_60.md
+carte_55.md
+carte_101.md
+carte_88.md
+carte_139.md
+carte_78.md
+carte_108.md
+carte_147.md
+carte_150.md
+carte_28.md
+carte_155.md
+carte_71.md
+carte_160.md
+carte_90.md
+carte_64.md
+carte_47.md
+carte_116.md
+carte_51.md
+carte_58.md
+carte_106.md
+carte_16.md
+carte_3.md
+carte_77.md
+carte_121.md
+carte_49.md
+carte_144.md
+carte_29.md
+carte_126.md
+carte_20.md
+carte_84.md
+carte_26.md
+carte_115.md
+carte_154.md
+carte_6.md
+carte_70.md
+carte_123.md
+carte_117.md
+carte_143.md
+carte_99.md
+carte_48.md
+carte_52.md
+carte_165.md
+carte_44.md
+carte_57.md
+carte_104.md
+carte_10.md
+carte_86.md
+carte_163.md
+carte_114.md
+carte_22.md
+carte_19.md
+carte_145.md
+carte_45.md
+test.sh
+carte_76.md
+carte_170.md
+carte_128.md
+carte_67.md
+carte_97.md
+carte_37.md
+carte_14.md
+carte_132.md
+carte_130.md
+carte_156.md
+carte_69.md
+carte_32.md
+carte_43.md
+carte_31.md
+carte_148.md
+carte_162.md
+carte_50.md
+carte_119.md
+carte_65.md
+carte_112.md
+carte_34.md
+carte_98.md
+carte_36.md
+carte_134.md
+carte_93.md
+carte_83.md
+carte_82.md
+carte_136.md
+carte_81.md
+carte_103.md
+carte_169.md
+carte_23.md
+carte_102.md
+carte_151.md
+carte_8.md
+carte_41.md
+carte_62.md
+carte_107.md
+carte_141.md
+carte_9.md
+carte_40.md
+carte_133.md
+carte_159.md
+carte_4.md
+carte_7.md
+carte_124.md
+carte_109.md
+carte_131.md
+carte_66.md
+carte_166.md
+carte_46.md
+carte_11.md
+carte_18.md
+carte_122.md
+carte_92.md
+carte_94.md
+carte_61.md
+carte_89.md
+carte_125.md
+carte_24.md
+carte_38.md
+carte_100.md
+carte_80.md
+carte_85.md
+carte_105.md
+carte_56.md
+carte_39.md
+carte_118.md
+carte_54.md
+carte_72.md
+carte_75.md
+carte_2.md
+carte_137.md
+carte_129.md
+carte_17.md
+carte_96.md
+carte_157.md
+carte_172.md
+carte_146.md
+carte_79.md
+carte_168.md
+carte_12.md
+carte_167.md
+carte_13.md
+carte_161.md
+carte_149.md
+carte_1.md
+carte_91.md
+carte_142.md
+carte_63.md
+carte_135.md
+carte_138.md
+carte_95.md
+carte_35.md
+carte_30.md
+carte_33.md
+carte_87.md
+carte_59.md
+carte_140.md
+myriambenhadj@MacBook-Air-de-Myriam Projet % 
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls cartes | shuf
+carte_10.md
+carte_1.md
+carte_73.md
+carte_31.md
+carte_134.md
+carte_105.md
+carte_82.md
+carte_58.md
+carte_97.md
+carte_157.md
+carte_70.md
+carte_38.md
+carte_41.md
+carte_138.md
+carte_164.md
+carte_116.md
+carte_144.md
+carte_45.md
+carte_121.md
+carte_36.md
+carte_113.md
+carte_56.md
+carte_148.md
+carte_150.md
+carte_86.md
+carte_149.md
+carte_158.md
+carte_126.md
+carte_74.md
+carte_167.md
+carte_161.md
+carte_23.md
+carte_69.md
+carte_32.md
+test.sh
+carte_29.md
+carte_137.md
+carte_95.md
+carte_122.md
+carte_42.md
+carte_155.md
+carte_96.md
+carte_130.md
+carte_153.md
+carte_2.md
+carte_5.md
+carte_80.md
+carte_34.md
+carte_171.md
+carte_39.md
+carte_109.md
+carte_90.md
+carte_143.md
+carte_154.md
+carte_8.md
+carte_141.md
+carte_75.md
+carte_147.md
+carte_145.md
+carte_172.md
+carte_100.md
+carte_72.md
+carte_131.md
+carte_88.md
+carte_33.md
+carte_77.md
+carte_3.md
+carte_21.md
+carte_114.md
+carte_135.md
+carte_151.md
+carte_94.md
+carte_49.md
+carte_170.md
+carte_61.md
+carte_159.md
+carte_62.md
+carte_115.md
+carte_99.md
+carte_66.md
+carte_46.md
+carte_59.md
+carte_84.md
+carte_168.md
+carte_50.md
+carte_132.md
+carte_11.md
+carte_160.md
+carte_20.md
+carte_123.md
+carte_128.md
+carte_89.md
+carte_119.md
+carte_15.md
+carte_125.md
+carte_68.md
+carte_65.md
+carte_35.md
+carte_139.md
+carte_140.md
+carte_87.md
+carte_92.md
+carte_136.md
+carte_152.md
+carte_85.md
+carte_106.md
+carte_48.md
+carte_26.md
+carte_13.md
+carte_112.md
+carte_9.md
+carte_110.md
+carte_107.md
+carte_64.md
+carte_111.md
+carte_43.md
+carte_165.md
+carte_166.md
+carte_101.md
+carte_83.md
+carte_163.md
+carte_18.md
+carte_76.md
+carte_14.md
+carte_156.md
+carte_7.md
+carte_91.md
+carte_37.md
+carte_146.md
+carte_53.md
+carte_104.md
+carte_124.md
+carte_52.md
+carte_103.md
+carte_47.md
+carte_27.md
+carte_54.md
+carte_19.md
+carte_120.md
+carte_102.md
+carte_57.md
+carte_17.md
+carte_133.md
+carte_16.md
+carte_25.md
+carte_142.md
+carte_118.md
+carte_12.md
+carte_44.md
+carte_78.md
+carte_98.md
+carte_22.md
+carte_117.md
+carte_108.md
+carte_67.md
+carte_51.md
+carte_162.md
+carte_6.md
+carte_55.md
+carte_24.md
+carte_81.md
+carte_60.md
+carte_129.md
+carte_63.md
+carte_40.md
+carte_71.md
+carte_127.md
+carte_79.md
+carte_93.md
+carte_28.md
+carte_30.md
+carte_4.md
+carte_169.md
+myriambenhadj@MacBook-Air-de-Myriam Projet % mdp                   
+q
+^C
+myriambenhadj@MacBook-Air-de-Myriam Projet % mdp cartes_1.md
+mdp: cartes_1.md: No such file or directory
+myriambenhadj@MacBook-Air-de-Myriam Projet % history     
+  176  ./programmes/generer_cartes.sh data/projet_myriam_fiinal_CSV_.csv
+  177  cat cartes/carte_2.md
+  178  man mdp
+  179  mdp cartes/carte_2.md
+  180  shuf
+  181  brew install coreutils
+  182  shuf
+  183  shuf cartes
+  184  shuf 100
+  185  ls cartes | shuf
+  186  ls cartes
+  187  ls cartes
+  188  ls cartes | shuf
+  189  ls cartes | shuf
+  190  mdp 
+  191  mdp cartes_1.md
+myriambenhadj@MacBook-Air-de-Myriam Projet % mdp
+^C
+myriambenhadj@MacBook-Air-de-Myriam Projet % cd cartes
+myriambenhadj@MacBook-Air-de-Myriam cartes % mdp cartes_1.md
+mdp: cartes_1.md: No such file or directory
+myriambenhadj@MacBook-Air-de-Myriam cartes % cd ..
+myriambenhadj@MacBook-Air-de-Myriam Projet % cd cartes
+myriambenhadj@MacBook-Air-de-Myriam cartes % mdp carte_
+mdp: carte_: No such file or directory
+myriambenhadj@MacBook-Air-de-Myriam cartes % mdp carte_1.md
+myriambenhadj@MacBook-Air-de-Myriam cartes % rm carte_1.md
+myriambenhadj@MacBook-Air-de-Myriam cartes % ls  | shuf
+carte_134.md
+carte_108.md
+carte_73.md
+carte_46.md
+carte_104.md
+carte_24.md
+carte_117.md
+carte_146.md
+carte_123.md
+carte_109.md
+carte_158.md
+carte_49.md
+carte_36.md
+carte_50.md
+carte_160.md
+carte_92.md
+carte_93.md
+carte_32.md
+carte_142.md
+carte_161.md
+carte_53.md
+carte_29.md
+carte_11.md
+carte_120.md
+carte_118.md
+carte_139.md
+carte_148.md
+carte_15.md
+carte_136.md
+carte_141.md
+carte_102.md
+carte_137.md
+carte_91.md
+carte_125.md
+carte_54.md
+carte_151.md
+carte_85.md
+carte_124.md
+carte_19.md
+carte_16.md
+carte_25.md
+carte_48.md
+carte_44.md
+carte_152.md
+carte_10.md
+carte_114.md
+carte_156.md
+carte_89.md
+carte_122.md
+carte_90.md
+carte_69.md
+carte_96.md
+carte_129.md
+carte_132.md
+carte_70.md
+carte_78.md
+carte_74.md
+carte_31.md
+carte_121.md
+carte_65.md
+carte_6.md
+carte_35.md
+carte_27.md
+carte_39.md
+carte_83.md
+carte_9.md
+carte_168.md
+carte_84.md
+carte_7.md
+carte_55.md
+carte_42.md
+carte_167.md
+carte_169.md
+carte_26.md
+carte_41.md
+carte_66.md
+carte_165.md
+carte_163.md
+carte_71.md
+carte_60.md
+carte_34.md
+carte_76.md
+carte_140.md
+carte_126.md
+carte_133.md
+carte_56.md
+carte_33.md
+carte_61.md
+carte_131.md
+carte_57.md
+carte_130.md
+carte_17.md
+carte_103.md
+carte_18.md
+carte_14.md
+carte_107.md
+carte_63.md
+carte_47.md
+carte_157.md
+carte_113.md
+carte_67.md
+carte_51.md
+carte_164.md
+carte_13.md
+carte_143.md
+carte_3.md
+carte_23.md
+carte_88.md
+carte_97.md
+carte_28.md
+carte_171.md
+carte_135.md
+test.sh
+carte_58.md
+carte_106.md
+carte_30.md
+carte_138.md
+carte_52.md
+carte_170.md
+carte_115.md
+carte_2.md
+carte_149.md
+carte_159.md
+carte_79.md
+carte_81.md
+carte_101.md
+carte_147.md
+carte_40.md
+carte_112.md
+carte_37.md
+carte_62.md
+carte_72.md
+carte_116.md
+carte_162.md
+carte_77.md
+carte_172.md
+carte_8.md
+carte_105.md
+carte_166.md
+carte_145.md
+carte_111.md
+carte_43.md
+carte_22.md
+carte_110.md
+carte_119.md
+carte_38.md
+carte_155.md
+carte_45.md
+carte_154.md
+carte_99.md
+carte_82.md
+carte_80.md
+carte_64.md
+carte_20.md
+carte_94.md
+carte_68.md
+carte_75.md
+carte_21.md
+carte_59.md
+carte_4.md
+carte_87.md
+carte_150.md
+carte_86.md
+carte_12.md
+carte_95.md
+carte_144.md
+carte_127.md
+carte_128.md
+carte_153.md
+carte_100.md
+carte_5.md
+carte_98.md
+myriambenhadj@MacBook-Air-de-Myriam cartes % cd ..
+myriambenhadj@MacBook-Air-de-Myriam Projet % tree
+.
+├── boites
+│   ├── 1
+│   ├── 2
+│   ├── 3
+│   ├── 4
+│   ├── 5
+│   └── 6
+├── cartes
+│   ├── carte_10.md
+│   ├── carte_100.md
+│   ├── carte_101.md
+│   ├── carte_102.md
+│   ├── carte_103.md
+│   ├── carte_104.md
+│   ├── carte_105.md
+│   ├── carte_106.md
+│   ├── carte_107.md
+│   ├── carte_108.md
+│   ├── carte_109.md
+│   ├── carte_11.md
+│   ├── carte_110.md
+│   ├── carte_111.md
+│   ├── carte_112.md
+│   ├── carte_113.md
+│   ├── carte_114.md
+│   ├── carte_115.md
+│   ├── carte_116.md
+│   ├── carte_117.md
+│   ├── carte_118.md
+│   ├── carte_119.md
+│   ├── carte_12.md
+│   ├── carte_120.md
+│   ├── carte_121.md
+│   ├── carte_122.md
+│   ├── carte_123.md
+│   ├── carte_124.md
+│   ├── carte_125.md
+│   ├── carte_126.md
+│   ├── carte_127.md
+│   ├── carte_128.md
+│   ├── carte_129.md
+│   ├── carte_13.md
+│   ├── carte_130.md
+│   ├── carte_131.md
+│   ├── carte_132.md
+│   ├── carte_133.md
+│   ├── carte_134.md
+│   ├── carte_135.md
+│   ├── carte_136.md
+│   ├── carte_137.md
+│   ├── carte_138.md
+│   ├── carte_139.md
+│   ├── carte_14.md
+│   ├── carte_140.md
+│   ├── carte_141.md
+│   ├── carte_142.md
+│   ├── carte_143.md
+│   ├── carte_144.md
+│   ├── carte_145.md
+│   ├── carte_146.md
+│   ├── carte_147.md
+│   ├── carte_148.md
+│   ├── carte_149.md
+│   ├── carte_15.md
+│   ├── carte_150.md
+│   ├── carte_151.md
+│   ├── carte_152.md
+│   ├── carte_153.md
+│   ├── carte_154.md
+│   ├── carte_155.md
+│   ├── carte_156.md
+│   ├── carte_157.md
+│   ├── carte_158.md
+│   ├── carte_159.md
+│   ├── carte_16.md
+│   ├── carte_160.md
+│   ├── carte_161.md
+│   ├── carte_162.md
+│   ├── carte_163.md
+│   ├── carte_164.md
+│   ├── carte_165.md
+│   ├── carte_166.md
+│   ├── carte_167.md
+│   ├── carte_168.md
+│   ├── carte_169.md
+│   ├── carte_17.md
+│   ├── carte_170.md
+│   ├── carte_171.md
+│   ├── carte_172.md
+│   ├── carte_18.md
+│   ├── carte_19.md
+│   ├── carte_2.md
+│   ├── carte_20.md
+│   ├── carte_21.md
+│   ├── carte_22.md
+│   ├── carte_23.md
+│   ├── carte_24.md
+│   ├── carte_25.md
+│   ├── carte_26.md
+│   ├── carte_27.md
+│   ├── carte_28.md
+│   ├── carte_29.md
+│   ├── carte_3.md
+│   ├── carte_30.md
+│   ├── carte_31.md
+│   ├── carte_32.md
+│   ├── carte_33.md
+│   ├── carte_34.md
+│   ├── carte_35.md
+│   ├── carte_36.md
+│   ├── carte_37.md
+│   ├── carte_38.md
+│   ├── carte_39.md
+│   ├── carte_4.md
+│   ├── carte_40.md
+│   ├── carte_41.md
+│   ├── carte_42.md
+│   ├── carte_43.md
+│   ├── carte_44.md
+│   ├── carte_45.md
+│   ├── carte_46.md
+│   ├── carte_47.md
+│   ├── carte_48.md
+│   ├── carte_49.md
+│   ├── carte_5.md
+│   ├── carte_50.md
+│   ├── carte_51.md
+│   ├── carte_52.md
+│   ├── carte_53.md
+│   ├── carte_54.md
+│   ├── carte_55.md
+│   ├── carte_56.md
+│   ├── carte_57.md
+│   ├── carte_58.md
+│   ├── carte_59.md
+│   ├── carte_6.md
+│   ├── carte_60.md
+│   ├── carte_61.md
+│   ├── carte_62.md
+│   ├── carte_63.md
+│   ├── carte_64.md
+│   ├── carte_65.md
+│   ├── carte_66.md
+│   ├── carte_67.md
+│   ├── carte_68.md
+│   ├── carte_69.md
+│   ├── carte_7.md
+│   ├── carte_70.md
+│   ├── carte_71.md
+│   ├── carte_72.md
+│   ├── carte_73.md
+│   ├── carte_74.md
+│   ├── carte_75.md
+│   ├── carte_76.md
+│   ├── carte_77.md
+│   ├── carte_78.md
+│   ├── carte_79.md
+│   ├── carte_8.md
+│   ├── carte_80.md
+│   ├── carte_81.md
+│   ├── carte_82.md
+│   ├── carte_83.md
+│   ├── carte_84.md
+│   ├── carte_85.md
+│   ├── carte_86.md
+│   ├── carte_87.md
+│   ├── carte_88.md
+│   ├── carte_89.md
+│   ├── carte_9.md
+│   ├── carte_90.md
+│   ├── carte_91.md
+│   ├── carte_92.md
+│   ├── carte_93.md
+│   ├── carte_94.md
+│   ├── carte_95.md
+│   ├── carte_96.md
+│   ├── carte_97.md
+│   ├── carte_98.md
+│   ├── carte_99.md
+│   └── test.sh
+├── data
+│   └── projet_myriam_fiinal_CSV_.csv
+├── doc
+├── programmes
+│   ├── generer_cartes.sh
+│   └── parcours.sh
+└── session
+    ├── 1
+    ├── 2
+    ├── 3
+    └── 4
+
+17 directories, 175 files
+myriambenhadj@MacBook-Air-de-Myriam Projet % cd boites
+myriambenhadj@MacBook-Air-de-Myriam boites % cd ..
+myriambenhadj@MacBook-Air-de-Myriam Projet % rm boites/5 boites/6
+rm: boites/5: is a directory
+rm: boites/6: is a directory
+myriambenhadj@MacBook-Air-de-Myriam Projet % rm -r boites/5 boites/6 
+myriambenhadj@MacBook-Air-de-Myriam Projet % tree
+.
+├── boites
+│   ├── 1
+│   ├── 2
+│   ├── 3
+│   └── 4
+├── cartes
+│   ├── carte_10.md
+│   ├── carte_100.md
+│   ├── carte_101.md
+│   ├── carte_102.md
+│   ├── carte_103.md
+│   ├── carte_104.md
+│   ├── carte_105.md
+│   ├── carte_106.md
+│   ├── carte_107.md
+│   ├── carte_108.md
+│   ├── carte_109.md
+│   ├── carte_11.md
+│   ├── carte_110.md
+│   ├── carte_111.md
+│   ├── carte_112.md
+│   ├── carte_113.md
+│   ├── carte_114.md
+│   ├── carte_115.md
+│   ├── carte_116.md
+│   ├── carte_117.md
+│   ├── carte_118.md
+│   ├── carte_119.md
+│   ├── carte_12.md
+│   ├── carte_120.md
+│   ├── carte_121.md
+│   ├── carte_122.md
+│   ├── carte_123.md
+│   ├── carte_124.md
+│   ├── carte_125.md
+│   ├── carte_126.md
+│   ├── carte_127.md
+│   ├── carte_128.md
+│   ├── carte_129.md
+│   ├── carte_13.md
+│   ├── carte_130.md
+│   ├── carte_131.md
+│   ├── carte_132.md
+│   ├── carte_133.md
+│   ├── carte_134.md
+│   ├── carte_135.md
+│   ├── carte_136.md
+│   ├── carte_137.md
+│   ├── carte_138.md
+│   ├── carte_139.md
+│   ├── carte_14.md
+│   ├── carte_140.md
+│   ├── carte_141.md
+│   ├── carte_142.md
+│   ├── carte_143.md
+│   ├── carte_144.md
+│   ├── carte_145.md
+│   ├── carte_146.md
+│   ├── carte_147.md
+│   ├── carte_148.md
+│   ├── carte_149.md
+│   ├── carte_15.md
+│   ├── carte_150.md
+│   ├── carte_151.md
+│   ├── carte_152.md
+│   ├── carte_153.md
+│   ├── carte_154.md
+│   ├── carte_155.md
+│   ├── carte_156.md
+│   ├── carte_157.md
+│   ├── carte_158.md
+│   ├── carte_159.md
+│   ├── carte_16.md
+│   ├── carte_160.md
+│   ├── carte_161.md
+│   ├── carte_162.md
+│   ├── carte_163.md
+│   ├── carte_164.md
+│   ├── carte_165.md
+│   ├── carte_166.md
+│   ├── carte_167.md
+│   ├── carte_168.md
+│   ├── carte_169.md
+│   ├── carte_17.md
+│   ├── carte_170.md
+│   ├── carte_171.md
+│   ├── carte_172.md
+│   ├── carte_18.md
+│   ├── carte_19.md
+│   ├── carte_2.md
+│   ├── carte_20.md
+│   ├── carte_21.md
+│   ├── carte_22.md
+│   ├── carte_23.md
+│   ├── carte_24.md
+│   ├── carte_25.md
+│   ├── carte_26.md
+│   ├── carte_27.md
+│   ├── carte_28.md
+│   ├── carte_29.md
+│   ├── carte_3.md
+│   ├── carte_30.md
+│   ├── carte_31.md
+│   ├── carte_32.md
+│   ├── carte_33.md
+│   ├── carte_34.md
+│   ├── carte_35.md
+│   ├── carte_36.md
+│   ├── carte_37.md
+│   ├── carte_38.md
+│   ├── carte_39.md
+│   ├── carte_4.md
+│   ├── carte_40.md
+│   ├── carte_41.md
+│   ├── carte_42.md
+│   ├── carte_43.md
+│   ├── carte_44.md
+│   ├── carte_45.md
+│   ├── carte_46.md
+│   ├── carte_47.md
+│   ├── carte_48.md
+│   ├── carte_49.md
+│   ├── carte_5.md
+│   ├── carte_50.md
+│   ├── carte_51.md
+│   ├── carte_52.md
+│   ├── carte_53.md
+│   ├── carte_54.md
+│   ├── carte_55.md
+│   ├── carte_56.md
+│   ├── carte_57.md
+│   ├── carte_58.md
+│   ├── carte_59.md
+│   ├── carte_6.md
+│   ├── carte_60.md
+│   ├── carte_61.md
+│   ├── carte_62.md
+│   ├── carte_63.md
+│   ├── carte_64.md
+│   ├── carte_65.md
+│   ├── carte_66.md
+│   ├── carte_67.md
+│   ├── carte_68.md
+│   ├── carte_69.md
+│   ├── carte_7.md
+│   ├── carte_70.md
+│   ├── carte_71.md
+│   ├── carte_72.md
+│   ├── carte_73.md
+│   ├── carte_74.md
+│   ├── carte_75.md
+│   ├── carte_76.md
+│   ├── carte_77.md
+│   ├── carte_78.md
+│   ├── carte_79.md
+│   ├── carte_8.md
+│   ├── carte_80.md
+│   ├── carte_81.md
+│   ├── carte_82.md
+│   ├── carte_83.md
+│   ├── carte_84.md
+│   ├── carte_85.md
+│   ├── carte_86.md
+│   ├── carte_87.md
+│   ├── carte_88.md
+│   ├── carte_89.md
+│   ├── carte_9.md
+│   ├── carte_90.md
+│   ├── carte_91.md
+│   ├── carte_92.md
+│   ├── carte_93.md
+│   ├── carte_94.md
+│   ├── carte_95.md
+│   ├── carte_96.md
+│   ├── carte_97.md
+│   ├── carte_98.md
+│   ├── carte_99.md
+│   └── test.sh
+├── data
+│   └── projet_myriam_fiinal_CSV_.csv
+├── doc
+├── programmes
+│   ├── generer_cartes.sh
+│   └── parcours.sh
+└── session
+    ├── 1
+    ├── 2
+    ├── 3
+    └── 4
+
+15 directories, 175 files
+myriambenhadj@MacBook-Air-de-Myriam Projet % cp cartes/ > boites 
+zsh: is a directory: boites
+myriambenhadj@MacBook-Air-de-Myriam Projet % cp cartes/ > boites
+zsh: is a directory: boites
+myriambenhadj@MacBook-Air-de-Myriam Projet % echo cartes
+cartes
+myriambenhadj@MacBook-Air-de-Myriam Projet % touch a b c
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls
+a		b		boites		c		cartes		data		doc		programmes	session
+myriambenhadj@MacBook-Air-de-Myriam Projet % tree > log.txt
+myriambenhadj@MacBook-Air-de-Myriam Projet % tree
+.
+├── a
+├── b
+├── boites
+│   ├── 1
+│   ├── 2
+│   ├── 3
+│   └── 4
+├── c
+├── cartes
+│   ├── carte_10.md
+│   ├── carte_100.md
+│   ├── carte_101.md
+│   ├── carte_102.md
+│   ├── carte_103.md
+│   ├── carte_104.md
+│   ├── carte_105.md
+│   ├── carte_106.md
+│   ├── carte_107.md
+│   ├── carte_108.md
+│   ├── carte_109.md
+│   ├── carte_11.md
+│   ├── carte_110.md
+│   ├── carte_111.md
+│   ├── carte_112.md
+│   ├── carte_113.md
+│   ├── carte_114.md
+│   ├── carte_115.md
+│   ├── carte_116.md
+│   ├── carte_117.md
+│   ├── carte_118.md
+│   ├── carte_119.md
+│   ├── carte_12.md
+│   ├── carte_120.md
+│   ├── carte_121.md
+│   ├── carte_122.md
+│   ├── carte_123.md
+│   ├── carte_124.md
+│   ├── carte_125.md
+│   ├── carte_126.md
+│   ├── carte_127.md
+│   ├── carte_128.md
+│   ├── carte_129.md
+│   ├── carte_13.md
+│   ├── carte_130.md
+│   ├── carte_131.md
+│   ├── carte_132.md
+│   ├── carte_133.md
+│   ├── carte_134.md
+│   ├── carte_135.md
+│   ├── carte_136.md
+│   ├── carte_137.md
+│   ├── carte_138.md
+│   ├── carte_139.md
+│   ├── carte_14.md
+│   ├── carte_140.md
+│   ├── carte_141.md
+│   ├── carte_142.md
+│   ├── carte_143.md
+│   ├── carte_144.md
+│   ├── carte_145.md
+│   ├── carte_146.md
+│   ├── carte_147.md
+│   ├── carte_148.md
+│   ├── carte_149.md
+│   ├── carte_15.md
+│   ├── carte_150.md
+│   ├── carte_151.md
+│   ├── carte_152.md
+│   ├── carte_153.md
+│   ├── carte_154.md
+│   ├── carte_155.md
+│   ├── carte_156.md
+│   ├── carte_157.md
+│   ├── carte_158.md
+│   ├── carte_159.md
+│   ├── carte_16.md
+│   ├── carte_160.md
+│   ├── carte_161.md
+│   ├── carte_162.md
+│   ├── carte_163.md
+│   ├── carte_164.md
+│   ├── carte_165.md
+│   ├── carte_166.md
+│   ├── carte_167.md
+│   ├── carte_168.md
+│   ├── carte_169.md
+│   ├── carte_17.md
+│   ├── carte_170.md
+│   ├── carte_171.md
+│   ├── carte_172.md
+│   ├── carte_18.md
+│   ├── carte_19.md
+│   ├── carte_2.md
+│   ├── carte_20.md
+│   ├── carte_21.md
+│   ├── carte_22.md
+│   ├── carte_23.md
+│   ├── carte_24.md
+│   ├── carte_25.md
+│   ├── carte_26.md
+│   ├── carte_27.md
+│   ├── carte_28.md
+│   ├── carte_29.md
+│   ├── carte_3.md
+│   ├── carte_30.md
+│   ├── carte_31.md
+│   ├── carte_32.md
+│   ├── carte_33.md
+│   ├── carte_34.md
+│   ├── carte_35.md
+│   ├── carte_36.md
+│   ├── carte_37.md
+│   ├── carte_38.md
+│   ├── carte_39.md
+│   ├── carte_4.md
+│   ├── carte_40.md
+│   ├── carte_41.md
+│   ├── carte_42.md
+│   ├── carte_43.md
+│   ├── carte_44.md
+│   ├── carte_45.md
+│   ├── carte_46.md
+│   ├── carte_47.md
+│   ├── carte_48.md
+│   ├── carte_49.md
+│   ├── carte_5.md
+│   ├── carte_50.md
+│   ├── carte_51.md
+│   ├── carte_52.md
+│   ├── carte_53.md
+│   ├── carte_54.md
+│   ├── carte_55.md
+│   ├── carte_56.md
+│   ├── carte_57.md
+│   ├── carte_58.md
+│   ├── carte_59.md
+│   ├── carte_6.md
+│   ├── carte_60.md
+│   ├── carte_61.md
+│   ├── carte_62.md
+│   ├── carte_63.md
+│   ├── carte_64.md
+│   ├── carte_65.md
+│   ├── carte_66.md
+│   ├── carte_67.md
+│   ├── carte_68.md
+│   ├── carte_69.md
+│   ├── carte_7.md
+│   ├── carte_70.md
+│   ├── carte_71.md
+│   ├── carte_72.md
+│   ├── carte_73.md
+│   ├── carte_74.md
+│   ├── carte_75.md
+│   ├── carte_76.md
+│   ├── carte_77.md
+│   ├── carte_78.md
+│   ├── carte_79.md
+│   ├── carte_8.md
+│   ├── carte_80.md
+│   ├── carte_81.md
+│   ├── carte_82.md
+│   ├── carte_83.md
+│   ├── carte_84.md
+│   ├── carte_85.md
+│   ├── carte_86.md
+│   ├── carte_87.md
+│   ├── carte_88.md
+│   ├── carte_89.md
+│   ├── carte_9.md
+│   ├── carte_90.md
+│   ├── carte_91.md
+│   ├── carte_92.md
+│   ├── carte_93.md
+│   ├── carte_94.md
+│   ├── carte_95.md
+│   ├── carte_96.md
+│   ├── carte_97.md
+│   ├── carte_98.md
+│   ├── carte_99.md
+│   └── test.sh
+├── data
+│   └── projet_myriam_fiinal_CSV_.csv
+├── doc
+├── log.txt
+├── programmes
+│   ├── generer_cartes.sh
+│   └── parcours.sh
+└── session
+    ├── 1
+    ├── 2
+    ├── 3
+    └── 4
+
+15 directories, 179 files
+myriambenhadj@MacBook-Air-de-Myriam Projet % cat log.txt
+.
+├── a
+├── b
+├── boites
+│   ├── 1
+│   ├── 2
+│   ├── 3
+│   └── 4
+├── c
+├── cartes
+│   ├── carte_10.md
+│   ├── carte_100.md
+│   ├── carte_101.md
+│   ├── carte_102.md
+│   ├── carte_103.md
+│   ├── carte_104.md
+│   ├── carte_105.md
+│   ├── carte_106.md
+│   ├── carte_107.md
+│   ├── carte_108.md
+│   ├── carte_109.md
+│   ├── carte_11.md
+│   ├── carte_110.md
+│   ├── carte_111.md
+│   ├── carte_112.md
+│   ├── carte_113.md
+│   ├── carte_114.md
+│   ├── carte_115.md
+│   ├── carte_116.md
+│   ├── carte_117.md
+│   ├── carte_118.md
+│   ├── carte_119.md
+│   ├── carte_12.md
+│   ├── carte_120.md
+│   ├── carte_121.md
+│   ├── carte_122.md
+│   ├── carte_123.md
+│   ├── carte_124.md
+│   ├── carte_125.md
+│   ├── carte_126.md
+│   ├── carte_127.md
+│   ├── carte_128.md
+│   ├── carte_129.md
+│   ├── carte_13.md
+│   ├── carte_130.md
+│   ├── carte_131.md
+│   ├── carte_132.md
+│   ├── carte_133.md
+│   ├── carte_134.md
+│   ├── carte_135.md
+│   ├── carte_136.md
+│   ├── carte_137.md
+│   ├── carte_138.md
+│   ├── carte_139.md
+│   ├── carte_14.md
+│   ├── carte_140.md
+│   ├── carte_141.md
+│   ├── carte_142.md
+│   ├── carte_143.md
+│   ├── carte_144.md
+│   ├── carte_145.md
+│   ├── carte_146.md
+│   ├── carte_147.md
+│   ├── carte_148.md
+│   ├── carte_149.md
+│   ├── carte_15.md
+│   ├── carte_150.md
+│   ├── carte_151.md
+│   ├── carte_152.md
+│   ├── carte_153.md
+│   ├── carte_154.md
+│   ├── carte_155.md
+│   ├── carte_156.md
+│   ├── carte_157.md
+│   ├── carte_158.md
+│   ├── carte_159.md
+│   ├── carte_16.md
+│   ├── carte_160.md
+│   ├── carte_161.md
+│   ├── carte_162.md
+│   ├── carte_163.md
+│   ├── carte_164.md
+│   ├── carte_165.md
+│   ├── carte_166.md
+│   ├── carte_167.md
+│   ├── carte_168.md
+│   ├── carte_169.md
+│   ├── carte_17.md
+│   ├── carte_170.md
+│   ├── carte_171.md
+│   ├── carte_172.md
+│   ├── carte_18.md
+│   ├── carte_19.md
+│   ├── carte_2.md
+│   ├── carte_20.md
+│   ├── carte_21.md
+│   ├── carte_22.md
+│   ├── carte_23.md
+│   ├── carte_24.md
+│   ├── carte_25.md
+│   ├── carte_26.md
+│   ├── carte_27.md
+│   ├── carte_28.md
+│   ├── carte_29.md
+│   ├── carte_3.md
+│   ├── carte_30.md
+│   ├── carte_31.md
+│   ├── carte_32.md
+│   ├── carte_33.md
+│   ├── carte_34.md
+│   ├── carte_35.md
+│   ├── carte_36.md
+│   ├── carte_37.md
+│   ├── carte_38.md
+│   ├── carte_39.md
+│   ├── carte_4.md
+│   ├── carte_40.md
+│   ├── carte_41.md
+│   ├── carte_42.md
+│   ├── carte_43.md
+│   ├── carte_44.md
+│   ├── carte_45.md
+│   ├── carte_46.md
+│   ├── carte_47.md
+│   ├── carte_48.md
+│   ├── carte_49.md
+│   ├── carte_5.md
+│   ├── carte_50.md
+│   ├── carte_51.md
+│   ├── carte_52.md
+│   ├── carte_53.md
+│   ├── carte_54.md
+│   ├── carte_55.md
+│   ├── carte_56.md
+│   ├── carte_57.md
+│   ├── carte_58.md
+│   ├── carte_59.md
+│   ├── carte_6.md
+│   ├── carte_60.md
+│   ├── carte_61.md
+│   ├── carte_62.md
+│   ├── carte_63.md
+│   ├── carte_64.md
+│   ├── carte_65.md
+│   ├── carte_66.md
+│   ├── carte_67.md
+│   ├── carte_68.md
+│   ├── carte_69.md
+│   ├── carte_7.md
+│   ├── carte_70.md
+│   ├── carte_71.md
+│   ├── carte_72.md
+│   ├── carte_73.md
+│   ├── carte_74.md
+│   ├── carte_75.md
+│   ├── carte_76.md
+│   ├── carte_77.md
+│   ├── carte_78.md
+│   ├── carte_79.md
+│   ├── carte_8.md
+│   ├── carte_80.md
+│   ├── carte_81.md
+│   ├── carte_82.md
+│   ├── carte_83.md
+│   ├── carte_84.md
+│   ├── carte_85.md
+│   ├── carte_86.md
+│   ├── carte_87.md
+│   ├── carte_88.md
+│   ├── carte_89.md
+│   ├── carte_9.md
+│   ├── carte_90.md
+│   ├── carte_91.md
+│   ├── carte_92.md
+│   ├── carte_93.md
+│   ├── carte_94.md
+│   ├── carte_95.md
+│   ├── carte_96.md
+│   ├── carte_97.md
+│   ├── carte_98.md
+│   ├── carte_99.md
+│   └── test.sh
+├── data
+│   └── projet_myriam_fiinal_CSV_.csv
+├── doc
+├── log.txt
+├── programmes
+│   ├── generer_cartes.sh
+│   └── parcours.sh
+└── session
+    ├── 1
+    ├── 2
+    ├── 3
+    └── 4
+
+15 directories, 179 files
+myriambenhadj@MacBook-Air-de-Myriam Projet % tree boites
+boites
+├── 1
+├── 2
+├── 3
+└── 4
+
+5 directories, 0 files
+myriambenhadj@MacBook-Air-de-Myriam Projet % tree cartes > log.txt
+myriambenhadj@MacBook-Air-de-Myriam Projet % cat log.txt
+cartes
+├── carte_10.md
+├── carte_100.md
+├── carte_101.md
+├── carte_102.md
+├── carte_103.md
+├── carte_104.md
+├── carte_105.md
+├── carte_106.md
+├── carte_107.md
+├── carte_108.md
+├── carte_109.md
+├── carte_11.md
+├── carte_110.md
+├── carte_111.md
+├── carte_112.md
+├── carte_113.md
+├── carte_114.md
+├── carte_115.md
+├── carte_116.md
+├── carte_117.md
+├── carte_118.md
+├── carte_119.md
+├── carte_12.md
+├── carte_120.md
+├── carte_121.md
+├── carte_122.md
+├── carte_123.md
+├── carte_124.md
+├── carte_125.md
+├── carte_126.md
+├── carte_127.md
+├── carte_128.md
+├── carte_129.md
+├── carte_13.md
+├── carte_130.md
+├── carte_131.md
+├── carte_132.md
+├── carte_133.md
+├── carte_134.md
+├── carte_135.md
+├── carte_136.md
+├── carte_137.md
+├── carte_138.md
+├── carte_139.md
+├── carte_14.md
+├── carte_140.md
+├── carte_141.md
+├── carte_142.md
+├── carte_143.md
+├── carte_144.md
+├── carte_145.md
+├── carte_146.md
+├── carte_147.md
+├── carte_148.md
+├── carte_149.md
+├── carte_15.md
+├── carte_150.md
+├── carte_151.md
+├── carte_152.md
+├── carte_153.md
+├── carte_154.md
+├── carte_155.md
+├── carte_156.md
+├── carte_157.md
+├── carte_158.md
+├── carte_159.md
+├── carte_16.md
+├── carte_160.md
+├── carte_161.md
+├── carte_162.md
+├── carte_163.md
+├── carte_164.md
+├── carte_165.md
+├── carte_166.md
+├── carte_167.md
+├── carte_168.md
+├── carte_169.md
+├── carte_17.md
+├── carte_170.md
+├── carte_171.md
+├── carte_172.md
+├── carte_18.md
+├── carte_19.md
+├── carte_2.md
+├── carte_20.md
+├── carte_21.md
+├── carte_22.md
+├── carte_23.md
+├── carte_24.md
+├── carte_25.md
+├── carte_26.md
+├── carte_27.md
+├── carte_28.md
+├── carte_29.md
+├── carte_3.md
+├── carte_30.md
+├── carte_31.md
+├── carte_32.md
+├── carte_33.md
+├── carte_34.md
+├── carte_35.md
+├── carte_36.md
+├── carte_37.md
+├── carte_38.md
+├── carte_39.md
+├── carte_4.md
+├── carte_40.md
+├── carte_41.md
+├── carte_42.md
+├── carte_43.md
+├── carte_44.md
+├── carte_45.md
+├── carte_46.md
+├── carte_47.md
+├── carte_48.md
+├── carte_49.md
+├── carte_5.md
+├── carte_50.md
+├── carte_51.md
+├── carte_52.md
+├── carte_53.md
+├── carte_54.md
+├── carte_55.md
+├── carte_56.md
+├── carte_57.md
+├── carte_58.md
+├── carte_59.md
+├── carte_6.md
+├── carte_60.md
+├── carte_61.md
+├── carte_62.md
+├── carte_63.md
+├── carte_64.md
+├── carte_65.md
+├── carte_66.md
+├── carte_67.md
+├── carte_68.md
+├── carte_69.md
+├── carte_7.md
+├── carte_70.md
+├── carte_71.md
+├── carte_72.md
+├── carte_73.md
+├── carte_74.md
+├── carte_75.md
+├── carte_76.md
+├── carte_77.md
+├── carte_78.md
+├── carte_79.md
+├── carte_8.md
+├── carte_80.md
+├── carte_81.md
+├── carte_82.md
+├── carte_83.md
+├── carte_84.md
+├── carte_85.md
+├── carte_86.md
+├── carte_87.md
+├── carte_88.md
+├── carte_89.md
+├── carte_9.md
+├── carte_90.md
+├── carte_91.md
+├── carte_92.md
+├── carte_93.md
+├── carte_94.md
+├── carte_95.md
+├── carte_96.md
+├── carte_97.md
+├── carte_98.md
+├── carte_99.md
+└── test.sh
+
+1 directory, 172 files
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls
+a		b		boites		c		cartes		data		doc		log.txt		programmes	session
+myriambenhadj@MacBook-Air-de-Myriam Projet % tree cartes
+cartes
+├── carte_10.md
+├── carte_100.md
+├── carte_101.md
+├── carte_102.md
+├── carte_103.md
+├── carte_104.md
+├── carte_105.md
+├── carte_106.md
+├── carte_107.md
+├── carte_108.md
+├── carte_109.md
+├── carte_11.md
+├── carte_110.md
+├── carte_111.md
+├── carte_112.md
+├── carte_113.md
+├── carte_114.md
+├── carte_115.md
+├── carte_116.md
+├── carte_117.md
+├── carte_118.md
+├── carte_119.md
+├── carte_12.md
+├── carte_120.md
+├── carte_121.md
+├── carte_122.md
+├── carte_123.md
+├── carte_124.md
+├── carte_125.md
+├── carte_126.md
+├── carte_127.md
+├── carte_128.md
+├── carte_129.md
+├── carte_13.md
+├── carte_130.md
+├── carte_131.md
+├── carte_132.md
+├── carte_133.md
+├── carte_134.md
+├── carte_135.md
+├── carte_136.md
+├── carte_137.md
+├── carte_138.md
+├── carte_139.md
+├── carte_14.md
+├── carte_140.md
+├── carte_141.md
+├── carte_142.md
+├── carte_143.md
+├── carte_144.md
+├── carte_145.md
+├── carte_146.md
+├── carte_147.md
+├── carte_148.md
+├── carte_149.md
+├── carte_15.md
+├── carte_150.md
+├── carte_151.md
+├── carte_152.md
+├── carte_153.md
+├── carte_154.md
+├── carte_155.md
+├── carte_156.md
+├── carte_157.md
+├── carte_158.md
+├── carte_159.md
+├── carte_16.md
+├── carte_160.md
+├── carte_161.md
+├── carte_162.md
+├── carte_163.md
+├── carte_164.md
+├── carte_165.md
+├── carte_166.md
+├── carte_167.md
+├── carte_168.md
+├── carte_169.md
+├── carte_17.md
+├── carte_170.md
+├── carte_171.md
+├── carte_172.md
+├── carte_18.md
+├── carte_19.md
+├── carte_2.md
+├── carte_20.md
+├── carte_21.md
+├── carte_22.md
+├── carte_23.md
+├── carte_24.md
+├── carte_25.md
+├── carte_26.md
+├── carte_27.md
+├── carte_28.md
+├── carte_29.md
+├── carte_3.md
+├── carte_30.md
+├── carte_31.md
+├── carte_32.md
+├── carte_33.md
+├── carte_34.md
+├── carte_35.md
+├── carte_36.md
+├── carte_37.md
+├── carte_38.md
+├── carte_39.md
+├── carte_4.md
+├── carte_40.md
+├── carte_41.md
+├── carte_42.md
+├── carte_43.md
+├── carte_44.md
+├── carte_45.md
+├── carte_46.md
+├── carte_47.md
+├── carte_48.md
+├── carte_49.md
+├── carte_5.md
+├── carte_50.md
+├── carte_51.md
+├── carte_52.md
+├── carte_53.md
+├── carte_54.md
+├── carte_55.md
+├── carte_56.md
+├── carte_57.md
+├── carte_58.md
+├── carte_59.md
+├── carte_6.md
+├── carte_60.md
+├── carte_61.md
+├── carte_62.md
+├── carte_63.md
+├── carte_64.md
+├── carte_65.md
+├── carte_66.md
+├── carte_67.md
+├── carte_68.md
+├── carte_69.md
+├── carte_7.md
+├── carte_70.md
+├── carte_71.md
+├── carte_72.md
+├── carte_73.md
+├── carte_74.md
+├── carte_75.md
+├── carte_76.md
+├── carte_77.md
+├── carte_78.md
+├── carte_79.md
+├── carte_8.md
+├── carte_80.md
+├── carte_81.md
+├── carte_82.md
+├── carte_83.md
+├── carte_84.md
+├── carte_85.md
+├── carte_86.md
+├── carte_87.md
+├── carte_88.md
+├── carte_89.md
+├── carte_9.md
+├── carte_90.md
+├── carte_91.md
+├── carte_92.md
+├── carte_93.md
+├── carte_94.md
+├── carte_95.md
+├── carte_96.md
+├── carte_97.md
+├── carte_98.md
+├── carte_99.md
+└── test.sh
+
+1 directory, 172 files
+myriambenhadj@MacBook-Air-de-Myriam Projet % tree cartes > toto.csv
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls
+a		b		boites		c		cartes		data		doc		log.txt		programmes	session		toto.csv
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls
+a		b		boites		c		cartes		data		doc		log.txt		programmes	session		toto.csv
+myriambenhadj@MacBook-Air-de-Myriam Projet % toto.csv
+zsh: command not found: toto.csv
+myriambenhadj@MacBook-Air-de-Myriam Projet % cat toto.csv
+cartes
+├── carte_10.md
+├── carte_100.md
+├── carte_101.md
+├── carte_102.md
+├── carte_103.md
+├── carte_104.md
+├── carte_105.md
+├── carte_106.md
+├── carte_107.md
+├── carte_108.md
+├── carte_109.md
+├── carte_11.md
+├── carte_110.md
+├── carte_111.md
+├── carte_112.md
+├── carte_113.md
+├── carte_114.md
+├── carte_115.md
+├── carte_116.md
+├── carte_117.md
+├── carte_118.md
+├── carte_119.md
+├── carte_12.md
+├── carte_120.md
+├── carte_121.md
+├── carte_122.md
+├── carte_123.md
+├── carte_124.md
+├── carte_125.md
+├── carte_126.md
+├── carte_127.md
+├── carte_128.md
+├── carte_129.md
+├── carte_13.md
+├── carte_130.md
+├── carte_131.md
+├── carte_132.md
+├── carte_133.md
+├── carte_134.md
+├── carte_135.md
+├── carte_136.md
+├── carte_137.md
+├── carte_138.md
+├── carte_139.md
+├── carte_14.md
+├── carte_140.md
+├── carte_141.md
+├── carte_142.md
+├── carte_143.md
+├── carte_144.md
+├── carte_145.md
+├── carte_146.md
+├── carte_147.md
+├── carte_148.md
+├── carte_149.md
+├── carte_15.md
+├── carte_150.md
+├── carte_151.md
+├── carte_152.md
+├── carte_153.md
+├── carte_154.md
+├── carte_155.md
+├── carte_156.md
+├── carte_157.md
+├── carte_158.md
+├── carte_159.md
+├── carte_16.md
+├── carte_160.md
+├── carte_161.md
+├── carte_162.md
+├── carte_163.md
+├── carte_164.md
+├── carte_165.md
+├── carte_166.md
+├── carte_167.md
+├── carte_168.md
+├── carte_169.md
+├── carte_17.md
+├── carte_170.md
+├── carte_171.md
+├── carte_172.md
+├── carte_18.md
+├── carte_19.md
+├── carte_2.md
+├── carte_20.md
+├── carte_21.md
+├── carte_22.md
+├── carte_23.md
+├── carte_24.md
+├── carte_25.md
+├── carte_26.md
+├── carte_27.md
+├── carte_28.md
+├── carte_29.md
+├── carte_3.md
+├── carte_30.md
+├── carte_31.md
+├── carte_32.md
+├── carte_33.md
+├── carte_34.md
+├── carte_35.md
+├── carte_36.md
+├── carte_37.md
+├── carte_38.md
+├── carte_39.md
+├── carte_4.md
+├── carte_40.md
+├── carte_41.md
+├── carte_42.md
+├── carte_43.md
+├── carte_44.md
+├── carte_45.md
+├── carte_46.md
+├── carte_47.md
+├── carte_48.md
+├── carte_49.md
+├── carte_5.md
+├── carte_50.md
+├── carte_51.md
+├── carte_52.md
+├── carte_53.md
+├── carte_54.md
+├── carte_55.md
+├── carte_56.md
+├── carte_57.md
+├── carte_58.md
+├── carte_59.md
+├── carte_6.md
+├── carte_60.md
+├── carte_61.md
+├── carte_62.md
+├── carte_63.md
+├── carte_64.md
+├── carte_65.md
+├── carte_66.md
+├── carte_67.md
+├── carte_68.md
+├── carte_69.md
+├── carte_7.md
+├── carte_70.md
+├── carte_71.md
+├── carte_72.md
+├── carte_73.md
+├── carte_74.md
+├── carte_75.md
+├── carte_76.md
+├── carte_77.md
+├── carte_78.md
+├── carte_79.md
+├── carte_8.md
+├── carte_80.md
+├── carte_81.md
+├── carte_82.md
+├── carte_83.md
+├── carte_84.md
+├── carte_85.md
+├── carte_86.md
+├── carte_87.md
+├── carte_88.md
+├── carte_89.md
+├── carte_9.md
+├── carte_90.md
+├── carte_91.md
+├── carte_92.md
+├── carte_93.md
+├── carte_94.md
+├── carte_95.md
+├── carte_96.md
+├── carte_97.md
+├── carte_98.md
+├── carte_99.md
+└── test.sh
+
+1 directory, 172 files
+myriambenhadj@MacBook-Air-de-Myriam Projet % tree carte
+carte  [error opening dir]
+
+0 directories, 0 files
+myriambenhadj@MacBook-Air-de-Myriam Projet % tree cartes
+cartes
+├── carte_10.md
+├── carte_100.md
+├── carte_101.md
+├── carte_102.md
+├── carte_103.md
+├── carte_104.md
+├── carte_105.md
+├── carte_106.md
+├── carte_107.md
+├── carte_108.md
+├── carte_109.md
+├── carte_11.md
+├── carte_110.md
+├── carte_111.md
+├── carte_112.md
+├── carte_113.md
+├── carte_114.md
+├── carte_115.md
+├── carte_116.md
+├── carte_117.md
+├── carte_118.md
+├── carte_119.md
+├── carte_12.md
+├── carte_120.md
+├── carte_121.md
+├── carte_122.md
+├── carte_123.md
+├── carte_124.md
+├── carte_125.md
+├── carte_126.md
+├── carte_127.md
+├── carte_128.md
+├── carte_129.md
+├── carte_13.md
+├── carte_130.md
+├── carte_131.md
+├── carte_132.md
+├── carte_133.md
+├── carte_134.md
+├── carte_135.md
+├── carte_136.md
+├── carte_137.md
+├── carte_138.md
+├── carte_139.md
+├── carte_14.md
+├── carte_140.md
+├── carte_141.md
+├── carte_142.md
+├── carte_143.md
+├── carte_144.md
+├── carte_145.md
+├── carte_146.md
+├── carte_147.md
+├── carte_148.md
+├── carte_149.md
+├── carte_15.md
+├── carte_150.md
+├── carte_151.md
+├── carte_152.md
+├── carte_153.md
+├── carte_154.md
+├── carte_155.md
+├── carte_156.md
+├── carte_157.md
+├── carte_158.md
+├── carte_159.md
+├── carte_16.md
+├── carte_160.md
+├── carte_161.md
+├── carte_162.md
+├── carte_163.md
+├── carte_164.md
+├── carte_165.md
+├── carte_166.md
+├── carte_167.md
+├── carte_168.md
+├── carte_169.md
+├── carte_17.md
+├── carte_170.md
+├── carte_171.md
+├── carte_172.md
+├── carte_18.md
+├── carte_19.md
+├── carte_2.md
+├── carte_20.md
+├── carte_21.md
+├── carte_22.md
+├── carte_23.md
+├── carte_24.md
+├── carte_25.md
+├── carte_26.md
+├── carte_27.md
+├── carte_28.md
+├── carte_29.md
+├── carte_3.md
+├── carte_30.md
+├── carte_31.md
+├── carte_32.md
+├── carte_33.md
+├── carte_34.md
+├── carte_35.md
+├── carte_36.md
+├── carte_37.md
+├── carte_38.md
+├── carte_39.md
+├── carte_4.md
+├── carte_40.md
+├── carte_41.md
+├── carte_42.md
+├── carte_43.md
+├── carte_44.md
+├── carte_45.md
+├── carte_46.md
+├── carte_47.md
+├── carte_48.md
+├── carte_49.md
+├── carte_5.md
+├── carte_50.md
+├── carte_51.md
+├── carte_52.md
+├── carte_53.md
+├── carte_54.md
+├── carte_55.md
+├── carte_56.md
+├── carte_57.md
+├── carte_58.md
+├── carte_59.md
+├── carte_6.md
+├── carte_60.md
+├── carte_61.md
+├── carte_62.md
+├── carte_63.md
+├── carte_64.md
+├── carte_65.md
+├── carte_66.md
+├── carte_67.md
+├── carte_68.md
+├── carte_69.md
+├── carte_7.md
+├── carte_70.md
+├── carte_71.md
+├── carte_72.md
+├── carte_73.md
+├── carte_74.md
+├── carte_75.md
+├── carte_76.md
+├── carte_77.md
+├── carte_78.md
+├── carte_79.md
+├── carte_8.md
+├── carte_80.md
+├── carte_81.md
+├── carte_82.md
+├── carte_83.md
+├── carte_84.md
+├── carte_85.md
+├── carte_86.md
+├── carte_87.md
+├── carte_88.md
+├── carte_89.md
+├── carte_9.md
+├── carte_90.md
+├── carte_91.md
+├── carte_92.md
+├── carte_93.md
+├── carte_94.md
+├── carte_95.md
+├── carte_96.md
+├── carte_97.md
+├── carte_98.md
+├── carte_99.md
+└── test.sh
+
+1 directory, 172 files
+myriambenhadj@MacBook-Air-de-Myriam Projet % cat toto.csv
+cartes
+├── carte_10.md
+├── carte_100.md
+├── carte_101.md
+├── carte_102.md
+├── carte_103.md
+├── carte_104.md
+├── carte_105.md
+├── carte_106.md
+├── carte_107.md
+├── carte_108.md
+├── carte_109.md
+├── carte_11.md
+├── carte_110.md
+├── carte_111.md
+├── carte_112.md
+├── carte_113.md
+├── carte_114.md
+├── carte_115.md
+├── carte_116.md
+├── carte_117.md
+├── carte_118.md
+├── carte_119.md
+├── carte_12.md
+├── carte_120.md
+├── carte_121.md
+├── carte_122.md
+├── carte_123.md
+├── carte_124.md
+├── carte_125.md
+├── carte_126.md
+├── carte_127.md
+├── carte_128.md
+├── carte_129.md
+├── carte_13.md
+├── carte_130.md
+├── carte_131.md
+├── carte_132.md
+├── carte_133.md
+├── carte_134.md
+├── carte_135.md
+├── carte_136.md
+├── carte_137.md
+├── carte_138.md
+├── carte_139.md
+├── carte_14.md
+├── carte_140.md
+├── carte_141.md
+├── carte_142.md
+├── carte_143.md
+├── carte_144.md
+├── carte_145.md
+├── carte_146.md
+├── carte_147.md
+├── carte_148.md
+├── carte_149.md
+├── carte_15.md
+├── carte_150.md
+├── carte_151.md
+├── carte_152.md
+├── carte_153.md
+├── carte_154.md
+├── carte_155.md
+├── carte_156.md
+├── carte_157.md
+├── carte_158.md
+├── carte_159.md
+├── carte_16.md
+├── carte_160.md
+├── carte_161.md
+├── carte_162.md
+├── carte_163.md
+├── carte_164.md
+├── carte_165.md
+├── carte_166.md
+├── carte_167.md
+├── carte_168.md
+├── carte_169.md
+├── carte_17.md
+├── carte_170.md
+├── carte_171.md
+├── carte_172.md
+├── carte_18.md
+├── carte_19.md
+├── carte_2.md
+├── carte_20.md
+├── carte_21.md
+├── carte_22.md
+├── carte_23.md
+├── carte_24.md
+├── carte_25.md
+├── carte_26.md
+├── carte_27.md
+├── carte_28.md
+├── carte_29.md
+├── carte_3.md
+├── carte_30.md
+├── carte_31.md
+├── carte_32.md
+├── carte_33.md
+├── carte_34.md
+├── carte_35.md
+├── carte_36.md
+├── carte_37.md
+├── carte_38.md
+├── carte_39.md
+├── carte_4.md
+├── carte_40.md
+├── carte_41.md
+├── carte_42.md
+├── carte_43.md
+├── carte_44.md
+├── carte_45.md
+├── carte_46.md
+├── carte_47.md
+├── carte_48.md
+├── carte_49.md
+├── carte_5.md
+├── carte_50.md
+├── carte_51.md
+├── carte_52.md
+├── carte_53.md
+├── carte_54.md
+├── carte_55.md
+├── carte_56.md
+├── carte_57.md
+├── carte_58.md
+├── carte_59.md
+├── carte_6.md
+├── carte_60.md
+├── carte_61.md
+├── carte_62.md
+├── carte_63.md
+├── carte_64.md
+├── carte_65.md
+├── carte_66.md
+├── carte_67.md
+├── carte_68.md
+├── carte_69.md
+├── carte_7.md
+├── carte_70.md
+├── carte_71.md
+├── carte_72.md
+├── carte_73.md
+├── carte_74.md
+├── carte_75.md
+├── carte_76.md
+├── carte_77.md
+├── carte_78.md
+├── carte_79.md
+├── carte_8.md
+├── carte_80.md
+├── carte_81.md
+├── carte_82.md
+├── carte_83.md
+├── carte_84.md
+├── carte_85.md
+├── carte_86.md
+├── carte_87.md
+├── carte_88.md
+├── carte_89.md
+├── carte_9.md
+├── carte_90.md
+├── carte_91.md
+├── carte_92.md
+├── carte_93.md
+├── carte_94.md
+├── carte_95.md
+├── carte_96.md
+├── carte_97.md
+├── carte_98.md
+├── carte_99.md
+└── test.sh
+
+1 directory, 172 files
+myriambenhadj@MacBook-Air-de-Myriam Projet % clear
+
+myriambenhadj@MacBook-Air-de-Myriam Projet % cat toto.csv
+cartes
+├── carte_10.md
+├── carte_100.md
+├── carte_101.md
+├── carte_102.md
+├── carte_103.md
+├── carte_104.md
+├── carte_105.md
+├── carte_106.md
+├── carte_107.md
+├── carte_108.md
+├── carte_109.md
+├── carte_11.md
+├── carte_110.md
+├── carte_111.md
+├── carte_112.md
+├── carte_113.md
+├── carte_114.md
+├── carte_115.md
+├── carte_116.md
+├── carte_117.md
+├── carte_118.md
+├── carte_119.md
+├── carte_12.md
+├── carte_120.md
+├── carte_121.md
+├── carte_122.md
+├── carte_123.md
+├── carte_124.md
+├── carte_125.md
+├── carte_126.md
+├── carte_127.md
+├── carte_128.md
+├── carte_129.md
+├── carte_13.md
+├── carte_130.md
+├── carte_131.md
+├── carte_132.md
+├── carte_133.md
+├── carte_134.md
+├── carte_135.md
+├── carte_136.md
+├── carte_137.md
+├── carte_138.md
+├── carte_139.md
+├── carte_14.md
+├── carte_140.md
+├── carte_141.md
+├── carte_142.md
+├── carte_143.md
+├── carte_144.md
+├── carte_145.md
+├── carte_146.md
+├── carte_147.md
+├── carte_148.md
+├── carte_149.md
+├── carte_15.md
+├── carte_150.md
+├── carte_151.md
+├── carte_152.md
+├── carte_153.md
+├── carte_154.md
+├── carte_155.md
+├── carte_156.md
+├── carte_157.md
+├── carte_158.md
+├── carte_159.md
+├── carte_16.md
+├── carte_160.md
+├── carte_161.md
+├── carte_162.md
+├── carte_163.md
+├── carte_164.md
+├── carte_165.md
+├── carte_166.md
+├── carte_167.md
+├── carte_168.md
+├── carte_169.md
+├── carte_17.md
+├── carte_170.md
+├── carte_171.md
+├── carte_172.md
+├── carte_18.md
+├── carte_19.md
+├── carte_2.md
+├── carte_20.md
+├── carte_21.md
+├── carte_22.md
+├── carte_23.md
+├── carte_24.md
+├── carte_25.md
+├── carte_26.md
+├── carte_27.md
+├── carte_28.md
+├── carte_29.md
+├── carte_3.md
+├── carte_30.md
+├── carte_31.md
+├── carte_32.md
+├── carte_33.md
+├── carte_34.md
+├── carte_35.md
+├── carte_36.md
+├── carte_37.md
+├── carte_38.md
+├── carte_39.md
+├── carte_4.md
+├── carte_40.md
+├── carte_41.md
+├── carte_42.md
+├── carte_43.md
+├── carte_44.md
+├── carte_45.md
+├── carte_46.md
+├── carte_47.md
+├── carte_48.md
+├── carte_49.md
+├── carte_5.md
+├── carte_50.md
+├── carte_51.md
+├── carte_52.md
+├── carte_53.md
+├── carte_54.md
+├── carte_55.md
+├── carte_56.md
+├── carte_57.md
+├── carte_58.md
+├── carte_59.md
+├── carte_6.md
+├── carte_60.md
+├── carte_61.md
+├── carte_62.md
+├── carte_63.md
+├── carte_64.md
+├── carte_65.md
+├── carte_66.md
+├── carte_67.md
+├── carte_68.md
+├── carte_69.md
+├── carte_7.md
+├── carte_70.md
+├── carte_71.md
+├── carte_72.md
+├── carte_73.md
+├── carte_74.md
+├── carte_75.md
+├── carte_76.md
+├── carte_77.md
+├── carte_78.md
+├── carte_79.md
+├── carte_8.md
+├── carte_80.md
+├── carte_81.md
+├── carte_82.md
+├── carte_83.md
+├── carte_84.md
+├── carte_85.md
+├── carte_86.md
+├── carte_87.md
+├── carte_88.md
+├── carte_89.md
+├── carte_9.md
+├── carte_90.md
+├── carte_91.md
+├── carte_92.md
+├── carte_93.md
+├── carte_94.md
+├── carte_95.md
+├── carte_96.md
+├── carte_97.md
+├── carte_98.md
+├── carte_99.md
+└── test.sh
+
+1 directory, 172 files
+myriambenhadj@MacBook-Air-de-Myriam Projet % echo toto.csv 
+toto.csv
+myriambenhadj@MacBook-Air-de-Myriam Projet % echo < toto.csv 
+
+myriambenhadj@MacBook-Air-de-Myriam Projet % cp cartes/boites/ 
+usage: cp [-R [-H | -L | -P]] [-fi | -n] [-apvXc] source_file target_file
+       cp [-R [-H | -L | -P]] [-fi | -n] [-apvXc] source_file ... target_directory
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls             
+a		b		boites		c		cartes		data		doc		log.txt		programmes	session		toto.csv
+myriambenhadj@MacBook-Air-de-Myriam Projet % cd cartes
+myriambenhadj@MacBook-Air-de-Myriam cartes % cp carte_*.md ../boites/1 
+myriambenhadj@MacBook-Air-de-Myriam cartes % ls
+carte_10.md	carte_114.md	carte_129.md	carte_143.md	carte_158.md	carte_172.md	carte_31.md	carte_46.md	carte_60.md	carte_75.md	carte_9.md
+carte_100.md	carte_115.md	carte_13.md	carte_144.md	carte_159.md	carte_18.md	carte_32.md	carte_47.md	carte_61.md	carte_76.md	carte_90.md
+carte_101.md	carte_116.md	carte_130.md	carte_145.md	carte_16.md	carte_19.md	carte_33.md	carte_48.md	carte_62.md	carte_77.md	carte_91.md
+carte_102.md	carte_117.md	carte_131.md	carte_146.md	carte_160.md	carte_2.md	carte_34.md	carte_49.md	carte_63.md	carte_78.md	carte_92.md
+carte_103.md	carte_118.md	carte_132.md	carte_147.md	carte_161.md	carte_20.md	carte_35.md	carte_5.md	carte_64.md	carte_79.md	carte_93.md
+carte_104.md	carte_119.md	carte_133.md	carte_148.md	carte_162.md	carte_21.md	carte_36.md	carte_50.md	carte_65.md	carte_8.md	carte_94.md
+carte_105.md	carte_12.md	carte_134.md	carte_149.md	carte_163.md	carte_22.md	carte_37.md	carte_51.md	carte_66.md	carte_80.md	carte_95.md
+carte_106.md	carte_120.md	carte_135.md	carte_15.md	carte_164.md	carte_23.md	carte_38.md	carte_52.md	carte_67.md	carte_81.md	carte_96.md
+carte_107.md	carte_121.md	carte_136.md	carte_150.md	carte_165.md	carte_24.md	carte_39.md	carte_53.md	carte_68.md	carte_82.md	carte_97.md
+carte_108.md	carte_122.md	carte_137.md	carte_151.md	carte_166.md	carte_25.md	carte_4.md	carte_54.md	carte_69.md	carte_83.md	carte_98.md
+carte_109.md	carte_123.md	carte_138.md	carte_152.md	carte_167.md	carte_26.md	carte_40.md	carte_55.md	carte_7.md	carte_84.md	carte_99.md
+carte_11.md	carte_124.md	carte_139.md	carte_153.md	carte_168.md	carte_27.md	carte_41.md	carte_56.md	carte_70.md	carte_85.md	test.sh
+carte_110.md	carte_125.md	carte_14.md	carte_154.md	carte_169.md	carte_28.md	carte_42.md	carte_57.md	carte_71.md	carte_86.md
+carte_111.md	carte_126.md	carte_140.md	carte_155.md	carte_17.md	carte_29.md	carte_43.md	carte_58.md	carte_72.md	carte_87.md
+carte_112.md	carte_127.md	carte_141.md	carte_156.md	carte_170.md	carte_3.md	carte_44.md	carte_59.md	carte_73.md	carte_88.md
+carte_113.md	carte_128.md	carte_142.md	carte_157.md	carte_171.md	carte_30.md	carte_45.md	carte_6.md	carte_74.md	carte_89.md
+myriambenhadj@MacBook-Air-de-Myriam cartes % cd ..
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls
+a		b		boites		c		cartes		data		doc		log.txt		programmes	session		toto.csv
+myriambenhadj@MacBook-Air-de-Myriam Projet % cd boites
+myriambenhadj@MacBook-Air-de-Myriam boites % tree
+.
+├── 1
+│   ├── carte_10.md
+│   ├── carte_100.md
+│   ├── carte_101.md
+│   ├── carte_102.md
+│   ├── carte_103.md
+│   ├── carte_104.md
+│   ├── carte_105.md
+│   ├── carte_106.md
+│   ├── carte_107.md
+│   ├── carte_108.md
+│   ├── carte_109.md
+│   ├── carte_11.md
+│   ├── carte_110.md
+│   ├── carte_111.md
+│   ├── carte_112.md
+│   ├── carte_113.md
+│   ├── carte_114.md
+│   ├── carte_115.md
+│   ├── carte_116.md
+│   ├── carte_117.md
+│   ├── carte_118.md
+│   ├── carte_119.md
+│   ├── carte_12.md
+│   ├── carte_120.md
+│   ├── carte_121.md
+│   ├── carte_122.md
+│   ├── carte_123.md
+│   ├── carte_124.md
+│   ├── carte_125.md
+│   ├── carte_126.md
+│   ├── carte_127.md
+│   ├── carte_128.md
+│   ├── carte_129.md
+│   ├── carte_13.md
+│   ├── carte_130.md
+│   ├── carte_131.md
+│   ├── carte_132.md
+│   ├── carte_133.md
+│   ├── carte_134.md
+│   ├── carte_135.md
+│   ├── carte_136.md
+│   ├── carte_137.md
+│   ├── carte_138.md
+│   ├── carte_139.md
+│   ├── carte_14.md
+│   ├── carte_140.md
+│   ├── carte_141.md
+│   ├── carte_142.md
+│   ├── carte_143.md
+│   ├── carte_144.md
+│   ├── carte_145.md
+│   ├── carte_146.md
+│   ├── carte_147.md
+│   ├── carte_148.md
+│   ├── carte_149.md
+│   ├── carte_15.md
+│   ├── carte_150.md
+│   ├── carte_151.md
+│   ├── carte_152.md
+│   ├── carte_153.md
+│   ├── carte_154.md
+│   ├── carte_155.md
+│   ├── carte_156.md
+│   ├── carte_157.md
+│   ├── carte_158.md
+│   ├── carte_159.md
+│   ├── carte_16.md
+│   ├── carte_160.md
+│   ├── carte_161.md
+│   ├── carte_162.md
+│   ├── carte_163.md
+│   ├── carte_164.md
+│   ├── carte_165.md
+│   ├── carte_166.md
+│   ├── carte_167.md
+│   ├── carte_168.md
+│   ├── carte_169.md
+│   ├── carte_17.md
+│   ├── carte_170.md
+│   ├── carte_171.md
+│   ├── carte_172.md
+│   ├── carte_18.md
+│   ├── carte_19.md
+│   ├── carte_2.md
+│   ├── carte_20.md
+│   ├── carte_21.md
+│   ├── carte_22.md
+│   ├── carte_23.md
+│   ├── carte_24.md
+│   ├── carte_25.md
+│   ├── carte_26.md
+│   ├── carte_27.md
+│   ├── carte_28.md
+│   ├── carte_29.md
+│   ├── carte_3.md
+│   ├── carte_30.md
+│   ├── carte_31.md
+│   ├── carte_32.md
+│   ├── carte_33.md
+│   ├── carte_34.md
+│   ├── carte_35.md
+│   ├── carte_36.md
+│   ├── carte_37.md
+│   ├── carte_38.md
+│   ├── carte_39.md
+│   ├── carte_4.md
+│   ├── carte_40.md
+│   ├── carte_41.md
+│   ├── carte_42.md
+│   ├── carte_43.md
+│   ├── carte_44.md
+│   ├── carte_45.md
+│   ├── carte_46.md
+│   ├── carte_47.md
+│   ├── carte_48.md
+│   ├── carte_49.md
+│   ├── carte_5.md
+│   ├── carte_50.md
+│   ├── carte_51.md
+│   ├── carte_52.md
+│   ├── carte_53.md
+│   ├── carte_54.md
+│   ├── carte_55.md
+│   ├── carte_56.md
+│   ├── carte_57.md
+│   ├── carte_58.md
+│   ├── carte_59.md
+│   ├── carte_6.md
+│   ├── carte_60.md
+│   ├── carte_61.md
+│   ├── carte_62.md
+│   ├── carte_63.md
+│   ├── carte_64.md
+│   ├── carte_65.md
+│   ├── carte_66.md
+│   ├── carte_67.md
+│   ├── carte_68.md
+│   ├── carte_69.md
+│   ├── carte_7.md
+│   ├── carte_70.md
+│   ├── carte_71.md
+│   ├── carte_72.md
+│   ├── carte_73.md
+│   ├── carte_74.md
+│   ├── carte_75.md
+│   ├── carte_76.md
+│   ├── carte_77.md
+│   ├── carte_78.md
+│   ├── carte_79.md
+│   ├── carte_8.md
+│   ├── carte_80.md
+│   ├── carte_81.md
+│   ├── carte_82.md
+│   ├── carte_83.md
+│   ├── carte_84.md
+│   ├── carte_85.md
+│   ├── carte_86.md
+│   ├── carte_87.md
+│   ├── carte_88.md
+│   ├── carte_89.md
+│   ├── carte_9.md
+│   ├── carte_90.md
+│   ├── carte_91.md
+│   ├── carte_92.md
+│   ├── carte_93.md
+│   ├── carte_94.md
+│   ├── carte_95.md
+│   ├── carte_96.md
+│   ├── carte_97.md
+│   ├── carte_98.md
+│   └── carte_99.md
+├── 2
+├── 3
+└── 4
+
+5 directories, 171 files
+myriambenhadj@MacBook-Air-de-Myriam boites % cd ..
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls
+a		b		boites		c		cartes		data		doc		log.txt		programmes	session		toto.csv
+myriambenhadj@MacBook-Air-de-Myriam Projet % cp carte_.md ../boites/1
+cp: carte_.md: No such file or directory
+myriambenhadj@MacBook-Air-de-Myriam Projet % cp carte_*.md ../1     
+zsh: no matches found: carte_*.md
+myriambenhadj@MacBook-Air-de-Myriam Projet % 
+myriambenhadj@MacBook-Air-de-Myriam Projet % cp carte_*.md Projet/boites/1
+zsh: no matches found: carte_*.md
+myriambenhadj@MacBook-Air-de-Myriam Projet % cp carte_*.md boites/1 
+zsh: no matches found: carte_*.md
+myriambenhadj@MacBook-Air-de-Myriam Projet % cp cartes/carte_*.md boites/1
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls
+a		b		boites		c		cartes		data		doc		log.txt		programmes	session		toto.csv
+myriambenhadj@MacBook-Air-de-Myriam Projet % cd boites/c
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls boites/1 
+carte_10.md	carte_114.md	carte_129.md	carte_143.md	carte_158.md	carte_172.md	carte_31.md	carte_46.md	carte_60.md	carte_75.md	carte_9.md
+carte_100.md	carte_115.md	carte_13.md	carte_144.md	carte_159.md	carte_18.md	carte_32.md	carte_47.md	carte_61.md	carte_76.md	carte_90.md
+carte_101.md	carte_116.md	carte_130.md	carte_145.md	carte_16.md	carte_19.md	carte_33.md	carte_48.md	carte_62.md	carte_77.md	carte_91.md
+carte_102.md	carte_117.md	carte_131.md	carte_146.md	carte_160.md	carte_2.md	carte_34.md	carte_49.md	carte_63.md	carte_78.md	carte_92.md
+carte_103.md	carte_118.md	carte_132.md	carte_147.md	carte_161.md	carte_20.md	carte_35.md	carte_5.md	carte_64.md	carte_79.md	carte_93.md
+carte_104.md	carte_119.md	carte_133.md	carte_148.md	carte_162.md	carte_21.md	carte_36.md	carte_50.md	carte_65.md	carte_8.md	carte_94.md
+carte_105.md	carte_12.md	carte_134.md	carte_149.md	carte_163.md	carte_22.md	carte_37.md	carte_51.md	carte_66.md	carte_80.md	carte_95.md
+carte_106.md	carte_120.md	carte_135.md	carte_15.md	carte_164.md	carte_23.md	carte_38.md	carte_52.md	carte_67.md	carte_81.md	carte_96.md
+carte_107.md	carte_121.md	carte_136.md	carte_150.md	carte_165.md	carte_24.md	carte_39.md	carte_53.md	carte_68.md	carte_82.md	carte_97.md
+carte_108.md	carte_122.md	carte_137.md	carte_151.md	carte_166.md	carte_25.md	carte_4.md	carte_54.md	carte_69.md	carte_83.md	carte_98.md
+carte_109.md	carte_123.md	carte_138.md	carte_152.md	carte_167.md	carte_26.md	carte_40.md	carte_55.md	carte_7.md	carte_84.md	carte_99.md
+carte_11.md	carte_124.md	carte_139.md	carte_153.md	carte_168.md	carte_27.md	carte_41.md	carte_56.md	carte_70.md	carte_85.md
+carte_110.md	carte_125.md	carte_14.md	carte_154.md	carte_169.md	carte_28.md	carte_42.md	carte_57.md	carte_71.md	carte_86.md
+carte_111.md	carte_126.md	carte_140.md	carte_155.md	carte_17.md	carte_29.md	carte_43.md	carte_58.md	carte_72.md	carte_87.md
+carte_112.md	carte_127.md	carte_141.md	carte_156.md	carte_170.md	carte_3.md	carte_44.md	carte_59.md	carte_73.md	carte_88.md
+carte_113.md	carte_128.md	carte_142.md	carte_157.md	carte_171.md	carte_30.md	carte_45.md	carte_6.md	carte_74.md	carte_89.md
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls | wc -l
+      11
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls -l
+total 16
+-rw-r--r--    1 myriambenhadj  staff     0 29 déc 23:11 a
+-rw-r--r--    1 myriambenhadj  staff     0 29 déc 23:11 b
+drwxr-xr-x    7 myriambenhadj  staff   224 29 déc 22:56 boites
+-rw-r--r--    1 myriambenhadj  staff     0 29 déc 23:11 c
+drwxr-xr-x  175 myriambenhadj  staff  5600 29 déc 22:32 cartes
+drwxr-xr-x    4 myriambenhadj  staff   128 27 déc 22:35 data
+drwxr-xr-x    2 myriambenhadj  staff    64 20 déc 12:27 doc
+-rw-r--r--    1 myriambenhadj  staff  3876 29 déc 23:16 log.txt
+drwxr-xr-x    4 myriambenhadj  staff   128 26 déc 16:26 programmes
+drwxr-xr-x    7 myriambenhadj  staff   224 20 déc 12:28 session
+-rw-r--r--    1 myriambenhadj  staff  3876 29 déc 23:18 toto.csv
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls boites/1 | wc -l
+     171
+myriambenhadj@MacBook-Air-de-Myriam Projet % 171 % 4
+zsh: command not found: 171
+myriambenhadj@MacBook-Air-de-Myriam Projet % expr 171 % 4
+3
+myriambenhadj@MacBook-Air-de-Myriam Projet % expr 171 / 4
+42
+myriambenhadj@MacBook-Air-de-Myriam Projet % history > trace_30dec.txt
+myriambenhadj@MacBook-Air-de-Myriam Projet % ls
+a		boites		cartes		doc		programmes	toto.csv
+b		c		data		log.txt		session		trace_30dec.txt
+myriambenhadj@MacBook-Air-de-Myriam Projet % 

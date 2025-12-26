@@ -1,0 +1,1395 @@
+Last login: Wed Jan  3 23:17:12 on console
+/Users/myriambenhadj/.zprofile:6: no such file or directory: /opt/homebrew/bin/brew
+myriambenhadj@MacBook-Air-de-Myriam ~ % cd Desktop 
+myriambenhadj@MacBook-Air-de-Myriam Desktop % ls
+2209-html-css
+???.rtf
+Apprentissage arabe
+Assila
+Atelier description linguistique - cours 3 - 04:10:2023.pages
+COURS LICENCE INALCO
+CULTURE ENSEIGNEMENT.png
+CULTURE.png
+Capture d’écran 2023-12-19 à 00.04.34.png
+Capture d’écran 2023-12-27 à 18.23.21.png
+Capture d’écran 2023-12-27 à 18.23.41.png
+Capture d’écran 2023-12-27 à 18.23.46.png
+Capture d’écran 2023-12-27 à 18.23.52.png
+Capture d’écran 2023-12-27 à 18.24.01.png
+Capture d’écran 2023-12-27 à 18.24.32.png
+Capture d’écran 2023-12-27 à 18.33.48.png
+Capture d’écran 2024-01-01 à 18.05.27.png
+Capture d’écran 2024-01-01 à 18.08.15.png
+Capture d’écran 2024-01-01 à 21.55.29.png
+Capture d’écran 2024-01-01 à 21.55.50.png
+Capture d’écran 2024-01-01 à 21.56.18.png
+Capture d’écran 2024-01-01 à 21.56.50.png
+Capture d’écran 2024-01-01 à 21.57.11.png
+Capture d’écran 2024-01-01 à 22.02.54.png
+Capture d’écran 2024-01-01 à 22.03.41.png
+Capture d’écran 2024-01-01 à 22.36.59.png
+Capture d’écran 2024-01-03 à 04.36.37.png
+Capture d’écran 2024-01-03 à 18.37.42.png
+Capture d’écran 2024-01-03 à 18.38.33.png
+Capture d’écran 2024-01-03 à 20.52.25.png
+Capture d’écran 2024-01-03 à 23.36.16.png
+Capture d’écran 2024-01-03 à 23.36.26.png
+Capture d’écran 2024-01-03 à 23.36.39.png
+Capture d’écran 2024-01-03 à 23.36.50.png
+Devoir_ling_corpus.pages
+Didactique des languesL2-L3
+Fiche - Les formes dérivées.pdf
+GOLDEN HOUR.MP4
+Introduction au TAL (cours étudiante).pages
+Introduction au TAL - Reconnaissance d'écriture de la parole.pages
+Introduction au TAL.docx
+La Flamme
+Lettre de motivation TAL.pdf
+Objectifs_généraux.pages
+Projet_final
+Relevés de notes licence arabe
+Syntaxe - cours 4 - 09:10:2023.pages
+Syntaxe - cours 6.pages
+TAL_informatique
+TXM POLITIQUE.png
+Terminal_30dec.txt
+contre.txt
+flashcard.rtf
+metada.csv
+metadata 2.csv
+metadata2.csv
+pour.txt
+projet_myriam_fiinal_TSV.tsv
+t0.py
+text.txt.rtf
+myriambenhadj@MacBook-Air-de-Myriam Desktop % cd /Users/myriambenhadj/Desktop
+myriambenhadj@MacBook-Air-de-Myriam Desktop % ls
+2209-html-css
+???.rtf
+Apprentissage arabe
+Assila
+Atelier description linguistique - cours 3 - 04:10:2023.pages
+COURS LICENCE INALCO
+CULTURE ENSEIGNEMENT.png
+CULTURE.png
+Capture d’écran 2023-12-19 à 00.04.34.png
+Capture d’écran 2023-12-27 à 18.23.21.png
+Capture d’écran 2023-12-27 à 18.23.41.png
+Capture d’écran 2023-12-27 à 18.23.46.png
+Capture d’écran 2023-12-27 à 18.23.52.png
+Capture d’écran 2023-12-27 à 18.24.01.png
+Capture d’écran 2023-12-27 à 18.24.32.png
+Capture d’écran 2023-12-27 à 18.33.48.png
+Capture d’écran 2024-01-01 à 18.05.27.png
+Capture d’écran 2024-01-01 à 18.08.15.png
+Capture d’écran 2024-01-01 à 21.55.29.png
+Capture d’écran 2024-01-01 à 21.55.50.png
+Capture d’écran 2024-01-01 à 21.56.18.png
+Capture d’écran 2024-01-01 à 21.56.50.png
+Capture d’écran 2024-01-01 à 21.57.11.png
+Capture d’écran 2024-01-01 à 22.02.54.png
+Capture d’écran 2024-01-01 à 22.03.41.png
+Capture d’écran 2024-01-01 à 22.36.59.png
+Capture d’écran 2024-01-03 à 04.36.37.png
+Capture d’écran 2024-01-03 à 18.37.42.png
+Capture d’écran 2024-01-03 à 18.38.33.png
+Capture d’écran 2024-01-03 à 20.52.25.png
+Capture d’écran 2024-01-03 à 23.36.16.png
+Capture d’écran 2024-01-03 à 23.36.26.png
+Capture d’écran 2024-01-03 à 23.36.39.png
+Capture d’écran 2024-01-03 à 23.36.50.png
+Devoir_ling_corpus.pages
+Didactique des languesL2-L3
+Fiche - Les formes dérivées.pdf
+GOLDEN HOUR.MP4
+Introduction au TAL (cours étudiante).pages
+Introduction au TAL - Reconnaissance d'écriture de la parole.pages
+Introduction au TAL.docx
+La Flamme
+Lettre de motivation TAL.pdf
+Objectifs_généraux.pages
+Projet_final
+Relevés de notes licence arabe
+Syntaxe - cours 4 - 09:10:2023.pages
+Syntaxe - cours 6.pages
+TAL_informatique
+TXM POLITIQUE.png
+Terminal_30dec.txt
+contre.txt
+flashcard.rtf
+metada.csv
+metadata 2.csv
+metadata2.csv
+pour.txt
+projet_myriam_fiinal_TSV.tsv
+t0.py
+text.txt.rtf
+myriambenhadj@MacBook-Air-de-Myriam Desktop % cd TAL_informatique 
+myriambenhadj@MacBook-Air-de-Myriam TAL_informatique % ls
+Atelier de description linguistique	Python
+Corpus_TXM				Résultat de Terminal
+Examens TAL L2-L3			TRAITEMENT DE CORPUS TAL
+Projet 2				Terminal_devoir_programmmation.txt
+Projet.zip				Traitement de corpus Python
+Projet_final				donner_abu.txt
+Projet_final 2				log.txt
+Projet_final.zip			test1.py
+myriambenhadj@MacBook-Air-de-Myriam TAL_informatique % cd Projet_final/   
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls
+boites		data		programmes	trace_30dec.txt
+cartes		doc		session
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % cd ..
+myriambenhadj@MacBook-Air-de-Myriam TAL_informatique % ls
+Atelier de description linguistique	Python
+Corpus_TXM				Résultat de Terminal
+Examens TAL L2-L3			TRAITEMENT DE CORPUS TAL
+Projet 2				Terminal_devoir_programmmation.txt
+Projet.zip				Traitement de corpus Python
+Projet_final				donner_abu.txt
+Projet_final 2				log.txt
+Projet_final.zip			test1.py
+myriambenhadj@MacBook-Air-de-Myriam TAL_informatique % cd ..    
+myriambenhadj@MacBook-Air-de-Myriam Desktop % ls
+2209-html-css
+???.rtf
+Apprentissage arabe
+Assila
+Atelier description linguistique - cours 3 - 04:10:2023.pages
+COURS LICENCE INALCO
+CULTURE ENSEIGNEMENT.png
+CULTURE.png
+Capture d’écran 2023-12-19 à 00.04.34.png
+Capture d’écran 2023-12-27 à 18.23.21.png
+Capture d’écran 2023-12-27 à 18.23.41.png
+Capture d’écran 2023-12-27 à 18.23.46.png
+Capture d’écran 2023-12-27 à 18.23.52.png
+Capture d’écran 2023-12-27 à 18.24.01.png
+Capture d’écran 2023-12-27 à 18.24.32.png
+Capture d’écran 2023-12-27 à 18.33.48.png
+Capture d’écran 2024-01-01 à 18.05.27.png
+Capture d’écran 2024-01-01 à 18.08.15.png
+Capture d’écran 2024-01-01 à 21.55.29.png
+Capture d’écran 2024-01-01 à 21.55.50.png
+Capture d’écran 2024-01-01 à 21.56.18.png
+Capture d’écran 2024-01-01 à 21.56.50.png
+Capture d’écran 2024-01-01 à 21.57.11.png
+Capture d’écran 2024-01-01 à 22.02.54.png
+Capture d’écran 2024-01-01 à 22.03.41.png
+Capture d’écran 2024-01-01 à 22.36.59.png
+Capture d’écran 2024-01-03 à 04.36.37.png
+Capture d’écran 2024-01-03 à 18.37.42.png
+Capture d’écran 2024-01-03 à 18.38.33.png
+Capture d’écran 2024-01-03 à 20.52.25.png
+Capture d’écran 2024-01-03 à 23.36.16.png
+Capture d’écran 2024-01-03 à 23.36.26.png
+Capture d’écran 2024-01-03 à 23.36.39.png
+Capture d’écran 2024-01-03 à 23.36.50.png
+Devoir_ling_corpus.pages
+Didactique des languesL2-L3
+Fiche - Les formes dérivées.pdf
+GOLDEN HOUR.MP4
+Introduction au TAL (cours étudiante).pages
+Introduction au TAL - Reconnaissance d'écriture de la parole.pages
+Introduction au TAL.docx
+La Flamme
+Lettre de motivation TAL.pdf
+Objectifs_généraux.pages
+Projet_final
+Relevés de notes licence arabe
+Syntaxe - cours 4 - 09:10:2023.pages
+Syntaxe - cours 6.pages
+TAL_informatique
+TXM POLITIQUE.png
+Terminal_30dec.txt
+contre.txt
+flashcard.rtf
+metada.csv
+metadata 2.csv
+metadata2.csv
+pour.txt
+projet_myriam_fiinal_TSV.tsv
+t0.py
+text.txt.rtf
+myriambenhadj@MacBook-Air-de-Myriam Desktop % cd ..
+myriambenhadj@MacBook-Air-de-Myriam ~ % ls
+Applications			Public
+Cours Sémantique 5.pages	Sémantique cours 4.pages
+Desktop				TXM-0.8.3
+Documents			TXMPostInstallErrorLogs.txt
+Downloads			TXMPostInstallOutputLogs.txt
+Library				myriam@192.162.68.252
+Movies				python.py
+Music				test1.py
+Pictures
+myriambenhadj@MacBook-Air-de-Myriam ~ % cd Desktop 
+myriambenhadj@MacBook-Air-de-Myriam Desktop % cd Projet_final 
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls
+boites		data		programmes
+cartes		doc		session
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls boites/*
+boites/1:
+
+boites/2:
+
+boites/3:
+
+boites/4:
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls session/*
+session/1:
+
+session/2:
+
+session/3:
+
+session/4:
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls cartes/*
+cartes/carte_10.md	cartes/carte_151.md	cartes/carte_48.md
+cartes/carte_100.md	cartes/carte_152.md	cartes/carte_49.md
+cartes/carte_101.md	cartes/carte_153.md	cartes/carte_5.md
+cartes/carte_102.md	cartes/carte_154.md	cartes/carte_50.md
+cartes/carte_103.md	cartes/carte_155.md	cartes/carte_51.md
+cartes/carte_104.md	cartes/carte_156.md	cartes/carte_52.md
+cartes/carte_105.md	cartes/carte_157.md	cartes/carte_53.md
+cartes/carte_106.md	cartes/carte_158.md	cartes/carte_54.md
+cartes/carte_107.md	cartes/carte_159.md	cartes/carte_55.md
+cartes/carte_108.md	cartes/carte_16.md	cartes/carte_56.md
+cartes/carte_109.md	cartes/carte_160.md	cartes/carte_57.md
+cartes/carte_11.md	cartes/carte_161.md	cartes/carte_58.md
+cartes/carte_110.md	cartes/carte_162.md	cartes/carte_59.md
+cartes/carte_111.md	cartes/carte_163.md	cartes/carte_6.md
+cartes/carte_112.md	cartes/carte_164.md	cartes/carte_60.md
+cartes/carte_113.md	cartes/carte_165.md	cartes/carte_61.md
+cartes/carte_114.md	cartes/carte_166.md	cartes/carte_62.md
+cartes/carte_115.md	cartes/carte_167.md	cartes/carte_63.md
+cartes/carte_116.md	cartes/carte_168.md	cartes/carte_64.md
+cartes/carte_117.md	cartes/carte_169.md	cartes/carte_65.md
+cartes/carte_118.md	cartes/carte_17.md	cartes/carte_66.md
+cartes/carte_119.md	cartes/carte_170.md	cartes/carte_67.md
+cartes/carte_12.md	cartes/carte_171.md	cartes/carte_68.md
+cartes/carte_120.md	cartes/carte_172.md	cartes/carte_69.md
+cartes/carte_121.md	cartes/carte_18.md	cartes/carte_7.md
+cartes/carte_122.md	cartes/carte_19.md	cartes/carte_70.md
+cartes/carte_123.md	cartes/carte_2.md	cartes/carte_71.md
+cartes/carte_124.md	cartes/carte_20.md	cartes/carte_72.md
+cartes/carte_125.md	cartes/carte_21.md	cartes/carte_73.md
+cartes/carte_126.md	cartes/carte_22.md	cartes/carte_74.md
+cartes/carte_127.md	cartes/carte_23.md	cartes/carte_75.md
+cartes/carte_128.md	cartes/carte_24.md	cartes/carte_76.md
+cartes/carte_129.md	cartes/carte_25.md	cartes/carte_77.md
+cartes/carte_13.md	cartes/carte_26.md	cartes/carte_78.md
+cartes/carte_130.md	cartes/carte_27.md	cartes/carte_79.md
+cartes/carte_131.md	cartes/carte_28.md	cartes/carte_8.md
+cartes/carte_132.md	cartes/carte_29.md	cartes/carte_80.md
+cartes/carte_133.md	cartes/carte_3.md	cartes/carte_81.md
+cartes/carte_134.md	cartes/carte_30.md	cartes/carte_82.md
+cartes/carte_135.md	cartes/carte_31.md	cartes/carte_83.md
+cartes/carte_136.md	cartes/carte_32.md	cartes/carte_84.md
+cartes/carte_137.md	cartes/carte_33.md	cartes/carte_85.md
+cartes/carte_138.md	cartes/carte_34.md	cartes/carte_86.md
+cartes/carte_139.md	cartes/carte_35.md	cartes/carte_87.md
+cartes/carte_14.md	cartes/carte_36.md	cartes/carte_88.md
+cartes/carte_140.md	cartes/carte_37.md	cartes/carte_89.md
+cartes/carte_141.md	cartes/carte_38.md	cartes/carte_9.md
+cartes/carte_142.md	cartes/carte_39.md	cartes/carte_90.md
+cartes/carte_143.md	cartes/carte_4.md	cartes/carte_91.md
+cartes/carte_144.md	cartes/carte_40.md	cartes/carte_92.md
+cartes/carte_145.md	cartes/carte_41.md	cartes/carte_93.md
+cartes/carte_146.md	cartes/carte_42.md	cartes/carte_94.md
+cartes/carte_147.md	cartes/carte_43.md	cartes/carte_95.md
+cartes/carte_148.md	cartes/carte_44.md	cartes/carte_96.md
+cartes/carte_149.md	cartes/carte_45.md	cartes/carte_97.md
+cartes/carte_15.md	cartes/carte_46.md	cartes/carte_98.md
+cartes/carte_150.md	cartes/carte_47.md	cartes/carte_99.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv 
+cartes/carte_10.md	cartes/carte_24.md	cartes/carte_38.md
+cartes/carte_11.md	cartes/carte_25.md	cartes/carte_39.md
+cartes/carte_12.md	cartes/carte_26.md	cartes/carte_4.md
+cartes/carte_13.md	cartes/carte_27.md	cartes/carte_40.md
+cartes/carte_14.md	cartes/carte_28.md	cartes/carte_41.md
+cartes/carte_15.md	cartes/carte_29.md	cartes/carte_42.md
+cartes/carte_16.md	cartes/carte_3.md	cartes/carte_43.md
+cartes/carte_17.md	cartes/carte_30.md	cartes/carte_44.md
+cartes/carte_18.md	cartes/carte_31.md	cartes/carte_45.md
+cartes/carte_19.md	cartes/carte_32.md	cartes/carte_46.md
+cartes/carte_2.md	cartes/carte_33.md	cartes/carte_5.md
+cartes/carte_20.md	cartes/carte_34.md	cartes/carte_6.md
+cartes/carte_21.md	cartes/carte_35.md	cartes/carte_7.md
+cartes/carte_22.md	cartes/carte_36.md	cartes/carte_8.md
+cartes/carte_23.md	cartes/carte_37.md	cartes/carte_9.md
+cartes/carte_47.md	cartes/carte_62.md	cartes/carte_77.md
+cartes/carte_48.md	cartes/carte_63.md	cartes/carte_78.md
+cartes/carte_49.md	cartes/carte_64.md	cartes/carte_79.md
+cartes/carte_50.md	cartes/carte_65.md	cartes/carte_80.md
+cartes/carte_51.md	cartes/carte_66.md	cartes/carte_81.md
+cartes/carte_52.md	cartes/carte_67.md	cartes/carte_82.md
+cartes/carte_53.md	cartes/carte_68.md	cartes/carte_83.md
+cartes/carte_54.md	cartes/carte_69.md	cartes/carte_84.md
+cartes/carte_55.md	cartes/carte_70.md	cartes/carte_85.md
+cartes/carte_56.md	cartes/carte_71.md	cartes/carte_86.md
+cartes/carte_57.md	cartes/carte_72.md	cartes/carte_87.md
+cartes/carte_58.md	cartes/carte_73.md	cartes/carte_88.md
+cartes/carte_59.md	cartes/carte_74.md	cartes/carte_89.md
+cartes/carte_60.md	cartes/carte_75.md	cartes/carte_90.md
+cartes/carte_61.md	cartes/carte_76.md	cartes/carte_91.md
+cartes/carte_100.md	cartes/carte_115.md	cartes/carte_130.md
+cartes/carte_101.md	cartes/carte_116.md	cartes/carte_131.md
+cartes/carte_102.md	cartes/carte_117.md	cartes/carte_132.md
+cartes/carte_103.md	cartes/carte_118.md	cartes/carte_133.md
+cartes/carte_104.md	cartes/carte_119.md	cartes/carte_134.md
+cartes/carte_105.md	cartes/carte_120.md	cartes/carte_135.md
+cartes/carte_106.md	cartes/carte_121.md	cartes/carte_136.md
+cartes/carte_107.md	cartes/carte_122.md	cartes/carte_92.md
+cartes/carte_108.md	cartes/carte_123.md	cartes/carte_93.md
+cartes/carte_109.md	cartes/carte_124.md	cartes/carte_94.md
+cartes/carte_110.md	cartes/carte_125.md	cartes/carte_95.md
+cartes/carte_111.md	cartes/carte_126.md	cartes/carte_96.md
+cartes/carte_112.md	cartes/carte_127.md	cartes/carte_97.md
+cartes/carte_113.md	cartes/carte_128.md	cartes/carte_98.md
+cartes/carte_114.md	cartes/carte_129.md	cartes/carte_99.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls boites/*
+boites/1:
+carte_10.md	carte_20.md	carte_3.md	carte_38.md	carte_5.md
+carte_11.md	carte_21.md	carte_30.md	carte_39.md	carte_6.md
+carte_12.md	carte_22.md	carte_31.md	carte_4.md	carte_7.md
+carte_13.md	carte_24.md	carte_32.md	carte_40.md	carte_8.md
+carte_14.md	carte_25.md	carte_33.md	carte_42.md	carte_9.md
+carte_16.md	carte_26.md	carte_34.md	carte_43.md
+carte_17.md	carte_27.md	carte_35.md	carte_44.md
+carte_18.md	carte_28.md	carte_36.md	carte_45.md
+carte_19.md	carte_29.md	carte_37.md	carte_46.md
+
+boites/2:
+carte_47.md	carte_57.md	carte_66.md	carte_76.md	carte_86.md
+carte_48.md	carte_58.md	carte_67.md	carte_77.md	carte_87.md
+carte_49.md	carte_59.md	carte_68.md	carte_78.md	carte_88.md
+carte_50.md	carte_60.md	carte_69.md	carte_79.md	carte_89.md
+carte_51.md	carte_61.md	carte_70.md	carte_80.md	carte_90.md
+carte_52.md	carte_62.md	carte_72.md	carte_81.md	carte_91.md
+carte_54.md	carte_63.md	carte_73.md	carte_82.md
+carte_55.md	carte_64.md	carte_74.md	carte_83.md
+carte_56.md	carte_65.md	carte_75.md	carte_84.md
+
+boites/3:
+carte_100.md	carte_110.md	carte_119.md	carte_128.md	carte_92.md
+carte_101.md	carte_111.md	carte_120.md	carte_129.md	carte_93.md
+carte_102.md	carte_112.md	carte_121.md	carte_130.md	carte_94.md
+carte_103.md	carte_113.md	carte_122.md	carte_131.md	carte_95.md
+carte_104.md	carte_114.md	carte_123.md	carte_132.md	carte_96.md
+carte_105.md	carte_115.md	carte_124.md	carte_133.md	carte_97.md
+carte_107.md	carte_116.md	carte_125.md	carte_134.md	carte_98.md
+carte_108.md	carte_117.md	carte_126.md	carte_135.md
+carte_109.md	carte_118.md	carte_127.md	carte_136.md
+
+boites/4:
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv
+cartes/carte_10.md	cartes/carte_24.md	cartes/carte_38.md
+cartes/carte_11.md	cartes/carte_25.md	cartes/carte_39.md
+cartes/carte_12.md	cartes/carte_26.md	cartes/carte_4.md
+cartes/carte_13.md	cartes/carte_27.md	cartes/carte_40.md
+cartes/carte_14.md	cartes/carte_28.md	cartes/carte_41.md
+cartes/carte_15.md	cartes/carte_29.md	cartes/carte_42.md
+cartes/carte_16.md	cartes/carte_3.md	cartes/carte_43.md
+cartes/carte_17.md	cartes/carte_30.md	cartes/carte_44.md
+cartes/carte_18.md	cartes/carte_31.md	cartes/carte_45.md
+cartes/carte_19.md	cartes/carte_32.md	cartes/carte_46.md
+cartes/carte_2.md	cartes/carte_33.md	cartes/carte_5.md
+cartes/carte_20.md	cartes/carte_34.md	cartes/carte_6.md
+cartes/carte_21.md	cartes/carte_35.md	cartes/carte_7.md
+cartes/carte_22.md	cartes/carte_36.md	cartes/carte_8.md
+cartes/carte_23.md	cartes/carte_37.md	cartes/carte_9.md
+cartes/carte_47.md	cartes/carte_62.md	cartes/carte_77.md
+cartes/carte_48.md	cartes/carte_63.md	cartes/carte_78.md
+cartes/carte_49.md	cartes/carte_64.md	cartes/carte_79.md
+cartes/carte_50.md	cartes/carte_65.md	cartes/carte_80.md
+cartes/carte_51.md	cartes/carte_66.md	cartes/carte_81.md
+cartes/carte_52.md	cartes/carte_67.md	cartes/carte_82.md
+cartes/carte_53.md	cartes/carte_68.md	cartes/carte_83.md
+cartes/carte_54.md	cartes/carte_69.md	cartes/carte_84.md
+cartes/carte_55.md	cartes/carte_70.md	cartes/carte_85.md
+cartes/carte_56.md	cartes/carte_71.md	cartes/carte_86.md
+cartes/carte_57.md	cartes/carte_72.md	cartes/carte_87.md
+cartes/carte_58.md	cartes/carte_73.md	cartes/carte_88.md
+cartes/carte_59.md	cartes/carte_74.md	cartes/carte_89.md
+cartes/carte_60.md	cartes/carte_75.md	cartes/carte_90.md
+cartes/carte_61.md	cartes/carte_76.md	cartes/carte_91.md
+cartes/carte_100.md	cartes/carte_115.md	cartes/carte_130.md
+cartes/carte_101.md	cartes/carte_116.md	cartes/carte_131.md
+cartes/carte_102.md	cartes/carte_117.md	cartes/carte_132.md
+cartes/carte_103.md	cartes/carte_118.md	cartes/carte_133.md
+cartes/carte_104.md	cartes/carte_119.md	cartes/carte_134.md
+cartes/carte_105.md	cartes/carte_120.md	cartes/carte_135.md
+cartes/carte_106.md	cartes/carte_121.md	cartes/carte_136.md
+cartes/carte_107.md	cartes/carte_122.md	cartes/carte_92.md
+cartes/carte_108.md	cartes/carte_123.md	cartes/carte_93.md
+cartes/carte_109.md	cartes/carte_124.md	cartes/carte_94.md
+cartes/carte_110.md	cartes/carte_125.md	cartes/carte_95.md
+cartes/carte_111.md	cartes/carte_126.md	cartes/carte_96.md
+cartes/carte_112.md	cartes/carte_127.md	cartes/carte_97.md
+cartes/carte_113.md	cartes/carte_128.md	cartes/carte_98.md
+cartes/carte_114.md	cartes/carte_129.md	cartes/carte_99.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls session/*
+session/1:
+carte_15.md	carte_2.md	carte_24.md	carte_27.md
+carte_19.md	carte_23.md	carte_26.md	carte_41.md
+
+session/2:
+carte_47.md	carte_53.md	carte_66.md	carte_71.md	carte_85.md
+
+session/3:
+carte_106.md	carte_115.md	carte_120.md	carte_99.md
+
+session/4:
+carte_137.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls boites/*
+boites/1:
+carte_10.md	carte_2.md	carte_30.md	carte_39.md	carte_5.md
+carte_11.md	carte_20.md	carte_31.md	carte_4.md	carte_6.md
+carte_12.md	carte_21.md	carte_32.md	carte_40.md	carte_7.md
+carte_13.md	carte_22.md	carte_33.md	carte_41.md	carte_8.md
+carte_14.md	carte_23.md	carte_34.md	carte_42.md	carte_9.md
+carte_15.md	carte_25.md	carte_35.md	carte_43.md
+carte_16.md	carte_28.md	carte_36.md	carte_44.md
+carte_17.md	carte_29.md	carte_37.md	carte_45.md
+carte_18.md	carte_3.md	carte_38.md	carte_46.md
+
+boites/2:
+carte_48.md	carte_58.md	carte_68.md	carte_77.md	carte_86.md
+carte_49.md	carte_59.md	carte_69.md	carte_78.md	carte_87.md
+carte_50.md	carte_60.md	carte_70.md	carte_79.md	carte_88.md
+carte_51.md	carte_61.md	carte_71.md	carte_80.md	carte_89.md
+carte_52.md	carte_62.md	carte_72.md	carte_81.md	carte_90.md
+carte_54.md	carte_63.md	carte_73.md	carte_82.md	carte_91.md
+carte_55.md	carte_64.md	carte_74.md	carte_83.md
+carte_56.md	carte_65.md	carte_75.md	carte_84.md
+carte_57.md	carte_67.md	carte_76.md	carte_85.md
+
+boites/3:
+carte_100.md	carte_109.md	carte_119.md	carte_129.md	carte_93.md
+carte_101.md	carte_110.md	carte_121.md	carte_130.md	carte_94.md
+carte_102.md	carte_111.md	carte_122.md	carte_131.md	carte_95.md
+carte_103.md	carte_112.md	carte_123.md	carte_132.md	carte_96.md
+carte_104.md	carte_113.md	carte_124.md	carte_133.md	carte_97.md
+carte_105.md	carte_114.md	carte_125.md	carte_134.md	carte_98.md
+carte_106.md	carte_116.md	carte_126.md	carte_135.md	carte_99.md
+carte_107.md	carte_117.md	carte_127.md	carte_136.md
+carte_108.md	carte_118.md	carte_128.md	carte_92.md
+
+boites/4:
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv
+cartes/carte_10.md	cartes/carte_24.md	cartes/carte_38.md
+cartes/carte_11.md	cartes/carte_25.md	cartes/carte_39.md
+cartes/carte_12.md	cartes/carte_26.md	cartes/carte_4.md
+cartes/carte_13.md	cartes/carte_27.md	cartes/carte_40.md
+cartes/carte_14.md	cartes/carte_28.md	cartes/carte_41.md
+cartes/carte_15.md	cartes/carte_29.md	cartes/carte_42.md
+cartes/carte_16.md	cartes/carte_3.md	cartes/carte_43.md
+cartes/carte_17.md	cartes/carte_30.md	cartes/carte_44.md
+cartes/carte_18.md	cartes/carte_31.md	cartes/carte_45.md
+cartes/carte_19.md	cartes/carte_32.md	cartes/carte_46.md
+cartes/carte_2.md	cartes/carte_33.md	cartes/carte_5.md
+cartes/carte_20.md	cartes/carte_34.md	cartes/carte_6.md
+cartes/carte_21.md	cartes/carte_35.md	cartes/carte_7.md
+cartes/carte_22.md	cartes/carte_36.md	cartes/carte_8.md
+cartes/carte_23.md	cartes/carte_37.md	cartes/carte_9.md
+cartes/carte_47.md	cartes/carte_62.md	cartes/carte_77.md
+cartes/carte_48.md	cartes/carte_63.md	cartes/carte_78.md
+cartes/carte_49.md	cartes/carte_64.md	cartes/carte_79.md
+cartes/carte_50.md	cartes/carte_65.md	cartes/carte_80.md
+cartes/carte_51.md	cartes/carte_66.md	cartes/carte_81.md
+cartes/carte_52.md	cartes/carte_67.md	cartes/carte_82.md
+cartes/carte_53.md	cartes/carte_68.md	cartes/carte_83.md
+cartes/carte_54.md	cartes/carte_69.md	cartes/carte_84.md
+cartes/carte_55.md	cartes/carte_70.md	cartes/carte_85.md
+cartes/carte_56.md	cartes/carte_71.md	cartes/carte_86.md
+cartes/carte_57.md	cartes/carte_72.md	cartes/carte_87.md
+cartes/carte_58.md	cartes/carte_73.md	cartes/carte_88.md
+cartes/carte_59.md	cartes/carte_74.md	cartes/carte_89.md
+cartes/carte_60.md	cartes/carte_75.md	cartes/carte_90.md
+cartes/carte_61.md	cartes/carte_76.md	cartes/carte_91.md
+cartes/carte_100.md	cartes/carte_115.md	cartes/carte_130.md
+cartes/carte_101.md	cartes/carte_116.md	cartes/carte_131.md
+cartes/carte_102.md	cartes/carte_117.md	cartes/carte_132.md
+cartes/carte_103.md	cartes/carte_118.md	cartes/carte_133.md
+cartes/carte_104.md	cartes/carte_119.md	cartes/carte_134.md
+cartes/carte_105.md	cartes/carte_120.md	cartes/carte_135.md
+cartes/carte_106.md	cartes/carte_121.md	cartes/carte_136.md
+cartes/carte_107.md	cartes/carte_122.md	cartes/carte_92.md
+cartes/carte_108.md	cartes/carte_123.md	cartes/carte_93.md
+cartes/carte_109.md	cartes/carte_124.md	cartes/carte_94.md
+cartes/carte_110.md	cartes/carte_125.md	cartes/carte_95.md
+cartes/carte_111.md	cartes/carte_126.md	cartes/carte_96.md
+cartes/carte_112.md	cartes/carte_127.md	cartes/carte_97.md
+cartes/carte_113.md	cartes/carte_128.md	cartes/carte_98.md
+cartes/carte_114.md	cartes/carte_129.md	cartes/carte_99.md
+eval  cp cartes/carte_{137..137}.md boites/4/ 
+./programmes/init_session.sh: line 37: syntax error: unexpected end of file
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv
+cartes/carte_10.md	cartes/carte_24.md	cartes/carte_38.md
+cartes/carte_11.md	cartes/carte_25.md	cartes/carte_39.md
+cartes/carte_12.md	cartes/carte_26.md	cartes/carte_4.md
+cartes/carte_13.md	cartes/carte_27.md	cartes/carte_40.md
+cartes/carte_14.md	cartes/carte_28.md	cartes/carte_41.md
+cartes/carte_15.md	cartes/carte_29.md	cartes/carte_42.md
+cartes/carte_16.md	cartes/carte_3.md	cartes/carte_43.md
+cartes/carte_17.md	cartes/carte_30.md	cartes/carte_44.md
+cartes/carte_18.md	cartes/carte_31.md	cartes/carte_45.md
+cartes/carte_19.md	cartes/carte_32.md	cartes/carte_46.md
+cartes/carte_2.md	cartes/carte_33.md	cartes/carte_5.md
+cartes/carte_20.md	cartes/carte_34.md	cartes/carte_6.md
+cartes/carte_21.md	cartes/carte_35.md	cartes/carte_7.md
+cartes/carte_22.md	cartes/carte_36.md	cartes/carte_8.md
+cartes/carte_23.md	cartes/carte_37.md	cartes/carte_9.md
+cartes/carte_47.md	cartes/carte_62.md	cartes/carte_77.md
+cartes/carte_48.md	cartes/carte_63.md	cartes/carte_78.md
+cartes/carte_49.md	cartes/carte_64.md	cartes/carte_79.md
+cartes/carte_50.md	cartes/carte_65.md	cartes/carte_80.md
+cartes/carte_51.md	cartes/carte_66.md	cartes/carte_81.md
+cartes/carte_52.md	cartes/carte_67.md	cartes/carte_82.md
+cartes/carte_53.md	cartes/carte_68.md	cartes/carte_83.md
+cartes/carte_54.md	cartes/carte_69.md	cartes/carte_84.md
+cartes/carte_55.md	cartes/carte_70.md	cartes/carte_85.md
+cartes/carte_56.md	cartes/carte_71.md	cartes/carte_86.md
+cartes/carte_57.md	cartes/carte_72.md	cartes/carte_87.md
+cartes/carte_58.md	cartes/carte_73.md	cartes/carte_88.md
+cartes/carte_59.md	cartes/carte_74.md	cartes/carte_89.md
+cartes/carte_60.md	cartes/carte_75.md	cartes/carte_90.md
+cartes/carte_61.md	cartes/carte_76.md	cartes/carte_91.md
+cartes/carte_100.md	cartes/carte_115.md	cartes/carte_130.md
+cartes/carte_101.md	cartes/carte_116.md	cartes/carte_131.md
+cartes/carte_102.md	cartes/carte_117.md	cartes/carte_132.md
+cartes/carte_103.md	cartes/carte_118.md	cartes/carte_133.md
+cartes/carte_104.md	cartes/carte_119.md	cartes/carte_134.md
+cartes/carte_105.md	cartes/carte_120.md	cartes/carte_135.md
+cartes/carte_106.md	cartes/carte_121.md	cartes/carte_136.md
+cartes/carte_107.md	cartes/carte_122.md	cartes/carte_92.md
+cartes/carte_108.md	cartes/carte_123.md	cartes/carte_93.md
+cartes/carte_109.md	cartes/carte_124.md	cartes/carte_94.md
+cartes/carte_110.md	cartes/carte_125.md	cartes/carte_95.md
+cartes/carte_111.md	cartes/carte_126.md	cartes/carte_96.md
+cartes/carte_112.md	cartes/carte_127.md	cartes/carte_97.md
+cartes/carte_113.md	cartes/carte_128.md	cartes/carte_98.md
+cartes/carte_114.md	cartes/carte_129.md	cartes/carte_99.md
+eval  cp cartes/carte_{137..180}.md boites/4/ 
+./programmes/init_session.sh: line 37: syntax error: unexpected end of file
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls cartes 
+carte_10.md	carte_113.md	carte_127.md	carte_140.md	carte_154.md	carte_168.md	carte_26.md	carte_4.md	carte_53.md	carte_67.md	carte_80.md	carte_94.md
+carte_100.md	carte_114.md	carte_128.md	carte_141.md	carte_155.md	carte_169.md	carte_27.md	carte_40.md	carte_54.md	carte_68.md	carte_81.md	carte_95.md
+carte_101.md	carte_115.md	carte_129.md	carte_142.md	carte_156.md	carte_17.md	carte_28.md	carte_41.md	carte_55.md	carte_69.md	carte_82.md	carte_96.md
+carte_102.md	carte_116.md	carte_13.md	carte_143.md	carte_157.md	carte_170.md	carte_29.md	carte_42.md	carte_56.md	carte_7.md	carte_83.md	carte_97.md
+carte_103.md	carte_117.md	carte_130.md	carte_144.md	carte_158.md	carte_171.md	carte_3.md	carte_43.md	carte_57.md	carte_70.md	carte_84.md	carte_98.md
+carte_104.md	carte_118.md	carte_131.md	carte_145.md	carte_159.md	carte_172.md	carte_30.md	carte_44.md	carte_58.md	carte_71.md	carte_85.md	carte_99.md
+carte_105.md	carte_119.md	carte_132.md	carte_146.md	carte_16.md	carte_18.md	carte_31.md	carte_45.md	carte_59.md	carte_72.md	carte_86.md
+carte_106.md	carte_12.md	carte_133.md	carte_147.md	carte_160.md	carte_19.md	carte_32.md	carte_46.md	carte_6.md	carte_73.md	carte_87.md
+carte_107.md	carte_120.md	carte_134.md	carte_148.md	carte_161.md	carte_2.md	carte_33.md	carte_47.md	carte_60.md	carte_74.md	carte_88.md
+carte_108.md	carte_121.md	carte_135.md	carte_149.md	carte_162.md	carte_20.md	carte_34.md	carte_48.md	carte_61.md	carte_75.md	carte_89.md
+carte_109.md	carte_122.md	carte_136.md	carte_15.md	carte_163.md	carte_21.md	carte_35.md	carte_49.md	carte_62.md	carte_76.md	carte_9.md
+carte_11.md	carte_123.md	carte_137.md	carte_150.md	carte_164.md	carte_22.md	carte_36.md	carte_5.md	carte_63.md	carte_77.md	carte_90.md
+carte_110.md	carte_124.md	carte_138.md	carte_151.md	carte_165.md	carte_23.md	carte_37.md	carte_50.md	carte_64.md	carte_78.md	carte_91.md
+carte_111.md	carte_125.md	carte_139.md	carte_152.md	carte_166.md	carte_24.md	carte_38.md	carte_51.md	carte_65.md	carte_79.md	carte_92.md
+carte_112.md	carte_126.md	carte_14.md	carte_153.md	carte_167.md	carte_25.md	carte_39.md	carte_52.md	carte_66.md	carte_8.md	carte_93.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv
+cartes/carte_10.md	cartes/carte_24.md	cartes/carte_38.md
+cartes/carte_11.md	cartes/carte_25.md	cartes/carte_39.md
+cartes/carte_12.md	cartes/carte_26.md	cartes/carte_4.md
+cartes/carte_13.md	cartes/carte_27.md	cartes/carte_40.md
+cartes/carte_14.md	cartes/carte_28.md	cartes/carte_41.md
+cartes/carte_15.md	cartes/carte_29.md	cartes/carte_42.md
+cartes/carte_16.md	cartes/carte_3.md	cartes/carte_43.md
+cartes/carte_17.md	cartes/carte_30.md	cartes/carte_44.md
+cartes/carte_18.md	cartes/carte_31.md	cartes/carte_45.md
+cartes/carte_19.md	cartes/carte_32.md	cartes/carte_46.md
+cartes/carte_2.md	cartes/carte_33.md	cartes/carte_5.md
+cartes/carte_20.md	cartes/carte_34.md	cartes/carte_6.md
+cartes/carte_21.md	cartes/carte_35.md	cartes/carte_7.md
+cartes/carte_22.md	cartes/carte_36.md	cartes/carte_8.md
+cartes/carte_23.md	cartes/carte_37.md	cartes/carte_9.md
+cartes/carte_47.md	cartes/carte_62.md	cartes/carte_77.md
+cartes/carte_48.md	cartes/carte_63.md	cartes/carte_78.md
+cartes/carte_49.md	cartes/carte_64.md	cartes/carte_79.md
+cartes/carte_50.md	cartes/carte_65.md	cartes/carte_80.md
+cartes/carte_51.md	cartes/carte_66.md	cartes/carte_81.md
+cartes/carte_52.md	cartes/carte_67.md	cartes/carte_82.md
+cartes/carte_53.md	cartes/carte_68.md	cartes/carte_83.md
+cartes/carte_54.md	cartes/carte_69.md	cartes/carte_84.md
+cartes/carte_55.md	cartes/carte_70.md	cartes/carte_85.md
+cartes/carte_56.md	cartes/carte_71.md	cartes/carte_86.md
+cartes/carte_57.md	cartes/carte_72.md	cartes/carte_87.md
+cartes/carte_58.md	cartes/carte_73.md	cartes/carte_88.md
+cartes/carte_59.md	cartes/carte_74.md	cartes/carte_89.md
+cartes/carte_60.md	cartes/carte_75.md	cartes/carte_90.md
+cartes/carte_61.md	cartes/carte_76.md	cartes/carte_91.md
+cartes/carte_100.md	cartes/carte_115.md	cartes/carte_130.md
+cartes/carte_101.md	cartes/carte_116.md	cartes/carte_131.md
+cartes/carte_102.md	cartes/carte_117.md	cartes/carte_132.md
+cartes/carte_103.md	cartes/carte_118.md	cartes/carte_133.md
+cartes/carte_104.md	cartes/carte_119.md	cartes/carte_134.md
+cartes/carte_105.md	cartes/carte_120.md	cartes/carte_135.md
+cartes/carte_106.md	cartes/carte_121.md	cartes/carte_136.md
+cartes/carte_107.md	cartes/carte_122.md	cartes/carte_92.md
+cartes/carte_108.md	cartes/carte_123.md	cartes/carte_93.md
+cartes/carte_109.md	cartes/carte_124.md	cartes/carte_94.md
+cartes/carte_110.md	cartes/carte_125.md	cartes/carte_95.md
+cartes/carte_111.md	cartes/carte_126.md	cartes/carte_96.md
+cartes/carte_112.md	cartes/carte_127.md	cartes/carte_97.md
+cartes/carte_113.md	cartes/carte_128.md	cartes/carte_98.md
+cartes/carte_114.md	cartes/carte_129.md	cartes/carte_99.md
+DIV_CARTES 43 RESTE_CARTES 0
+eval  cp cartes/carte_{137..180}.md boites/4/ 
+./programmes/init_session.sh: line 38: syntax error: unexpected end of file
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv
+cartes/carte_10.md	cartes/carte_24.md	cartes/carte_38.md
+cartes/carte_11.md	cartes/carte_25.md	cartes/carte_39.md
+cartes/carte_12.md	cartes/carte_26.md	cartes/carte_4.md
+cartes/carte_13.md	cartes/carte_27.md	cartes/carte_40.md
+cartes/carte_14.md	cartes/carte_28.md	cartes/carte_41.md
+cartes/carte_15.md	cartes/carte_29.md	cartes/carte_42.md
+cartes/carte_16.md	cartes/carte_3.md	cartes/carte_43.md
+cartes/carte_17.md	cartes/carte_30.md	cartes/carte_44.md
+cartes/carte_18.md	cartes/carte_31.md	cartes/carte_45.md
+cartes/carte_19.md	cartes/carte_32.md	cartes/carte_5.md
+cartes/carte_2.md	cartes/carte_33.md	cartes/carte_6.md
+cartes/carte_20.md	cartes/carte_34.md	cartes/carte_7.md
+cartes/carte_21.md	cartes/carte_35.md	cartes/carte_8.md
+cartes/carte_22.md	cartes/carte_36.md	cartes/carte_9.md
+cartes/carte_23.md	cartes/carte_37.md
+cartes/carte_46.md	cartes/carte_61.md	cartes/carte_76.md
+cartes/carte_47.md	cartes/carte_62.md	cartes/carte_77.md
+cartes/carte_48.md	cartes/carte_63.md	cartes/carte_78.md
+cartes/carte_49.md	cartes/carte_64.md	cartes/carte_79.md
+cartes/carte_50.md	cartes/carte_65.md	cartes/carte_80.md
+cartes/carte_51.md	cartes/carte_66.md	cartes/carte_81.md
+cartes/carte_52.md	cartes/carte_67.md	cartes/carte_82.md
+cartes/carte_53.md	cartes/carte_68.md	cartes/carte_83.md
+cartes/carte_54.md	cartes/carte_69.md	cartes/carte_84.md
+cartes/carte_55.md	cartes/carte_70.md	cartes/carte_85.md
+cartes/carte_56.md	cartes/carte_71.md	cartes/carte_86.md
+cartes/carte_57.md	cartes/carte_72.md	cartes/carte_87.md
+cartes/carte_58.md	cartes/carte_73.md	cartes/carte_88.md
+cartes/carte_59.md	cartes/carte_74.md	cartes/carte_89.md
+cartes/carte_60.md	cartes/carte_75.md
+cartes/carte_100.md	cartes/carte_115.md	cartes/carte_130.md
+cartes/carte_101.md	cartes/carte_116.md	cartes/carte_131.md
+cartes/carte_102.md	cartes/carte_117.md	cartes/carte_132.md
+cartes/carte_103.md	cartes/carte_118.md	cartes/carte_133.md
+cartes/carte_104.md	cartes/carte_119.md	cartes/carte_90.md
+cartes/carte_105.md	cartes/carte_120.md	cartes/carte_91.md
+cartes/carte_106.md	cartes/carte_121.md	cartes/carte_92.md
+cartes/carte_107.md	cartes/carte_122.md	cartes/carte_93.md
+cartes/carte_108.md	cartes/carte_123.md	cartes/carte_94.md
+cartes/carte_109.md	cartes/carte_124.md	cartes/carte_95.md
+cartes/carte_110.md	cartes/carte_125.md	cartes/carte_96.md
+cartes/carte_111.md	cartes/carte_126.md	cartes/carte_97.md
+cartes/carte_112.md	cartes/carte_127.md	cartes/carte_98.md
+cartes/carte_113.md	cartes/carte_128.md	cartes/carte_99.md
+cartes/carte_114.md	cartes/carte_129.md
+DIV_CARTES 42 RESTE_CARTES 3
+eval  cp cartes/carte_{134..179}.md boites/4/ 
+./programmes/init_session.sh: line 39: syntax error: unexpected end of file
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv
+cartes/carte_10.md	cartes/carte_24.md	cartes/carte_38.md
+cartes/carte_11.md	cartes/carte_25.md	cartes/carte_39.md
+cartes/carte_12.md	cartes/carte_26.md	cartes/carte_4.md
+cartes/carte_13.md	cartes/carte_27.md	cartes/carte_40.md
+cartes/carte_14.md	cartes/carte_28.md	cartes/carte_41.md
+cartes/carte_15.md	cartes/carte_29.md	cartes/carte_42.md
+cartes/carte_16.md	cartes/carte_3.md	cartes/carte_43.md
+cartes/carte_17.md	cartes/carte_30.md	cartes/carte_44.md
+cartes/carte_18.md	cartes/carte_31.md	cartes/carte_45.md
+cartes/carte_19.md	cartes/carte_32.md	cartes/carte_5.md
+cartes/carte_2.md	cartes/carte_33.md	cartes/carte_6.md
+cartes/carte_20.md	cartes/carte_34.md	cartes/carte_7.md
+cartes/carte_21.md	cartes/carte_35.md	cartes/carte_8.md
+cartes/carte_22.md	cartes/carte_36.md	cartes/carte_9.md
+cartes/carte_23.md	cartes/carte_37.md
+cartes/carte_46.md	cartes/carte_61.md	cartes/carte_76.md
+cartes/carte_47.md	cartes/carte_62.md	cartes/carte_77.md
+cartes/carte_48.md	cartes/carte_63.md	cartes/carte_78.md
+cartes/carte_49.md	cartes/carte_64.md	cartes/carte_79.md
+cartes/carte_50.md	cartes/carte_65.md	cartes/carte_80.md
+cartes/carte_51.md	cartes/carte_66.md	cartes/carte_81.md
+cartes/carte_52.md	cartes/carte_67.md	cartes/carte_82.md
+cartes/carte_53.md	cartes/carte_68.md	cartes/carte_83.md
+cartes/carte_54.md	cartes/carte_69.md	cartes/carte_84.md
+cartes/carte_55.md	cartes/carte_70.md	cartes/carte_85.md
+cartes/carte_56.md	cartes/carte_71.md	cartes/carte_86.md
+cartes/carte_57.md	cartes/carte_72.md	cartes/carte_87.md
+cartes/carte_58.md	cartes/carte_73.md	cartes/carte_88.md
+cartes/carte_59.md	cartes/carte_74.md	cartes/carte_89.md
+cartes/carte_60.md	cartes/carte_75.md
+cartes/carte_100.md	cartes/carte_115.md	cartes/carte_130.md
+cartes/carte_101.md	cartes/carte_116.md	cartes/carte_131.md
+cartes/carte_102.md	cartes/carte_117.md	cartes/carte_132.md
+cartes/carte_103.md	cartes/carte_118.md	cartes/carte_133.md
+cartes/carte_104.md	cartes/carte_119.md	cartes/carte_90.md
+cartes/carte_105.md	cartes/carte_120.md	cartes/carte_91.md
+cartes/carte_106.md	cartes/carte_121.md	cartes/carte_92.md
+cartes/carte_107.md	cartes/carte_122.md	cartes/carte_93.md
+cartes/carte_108.md	cartes/carte_123.md	cartes/carte_94.md
+cartes/carte_109.md	cartes/carte_124.md	cartes/carte_95.md
+cartes/carte_110.md	cartes/carte_125.md	cartes/carte_96.md
+cartes/carte_111.md	cartes/carte_126.md	cartes/carte_97.md
+cartes/carte_112.md	cartes/carte_127.md	cartes/carte_98.md
+cartes/carte_113.md	cartes/carte_128.md	cartes/carte_99.md
+cartes/carte_114.md	cartes/carte_129.md
+DIV_CARTES 42 RESTE_CARTES 3
+eval  cp cartes/carte_{134..173}.md boites/4/ 
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls boites/*
+boites/1:
+carte_10.md	carte_14.md	carte_19.md	carte_23.md	carte_27.md	carte_32.md	carte_36.md	carte_4.md	carte_43.md	carte_5.md	carte_9.md
+carte_11.md	carte_16.md	carte_2.md	carte_24.md	carte_28.md	carte_33.md	carte_37.md	carte_40.md	carte_44.md	carte_6.md
+carte_12.md	carte_17.md	carte_21.md	carte_25.md	carte_29.md	carte_34.md	carte_38.md	carte_41.md	carte_45.md	carte_7.md
+carte_13.md	carte_18.md	carte_22.md	carte_26.md	carte_3.md	carte_35.md	carte_39.md	carte_42.md	carte_46.md	carte_8.md
+
+boites/2:
+carte_46.md	carte_50.md	carte_54.md	carte_58.md	carte_62.md	carte_66.md	carte_71.md	carte_76.md	carte_80.md	carte_84.md	carte_89.md
+carte_47.md	carte_51.md	carte_55.md	carte_59.md	carte_63.md	carte_67.md	carte_72.md	carte_77.md	carte_81.md	carte_85.md	carte_90.md
+carte_48.md	carte_52.md	carte_56.md	carte_60.md	carte_64.md	carte_68.md	carte_73.md	carte_78.md	carte_82.md	carte_87.md	carte_91.md
+carte_49.md	carte_53.md	carte_57.md	carte_61.md	carte_65.md	carte_70.md	carte_75.md	carte_79.md	carte_83.md	carte_88.md
+
+boites/3:
+carte_100.md	carte_104.md	carte_108.md	carte_112.md	carte_116.md	carte_120.md	carte_124.md	carte_128.md	carte_132.md	carte_136.md	carte_93.md	carte_99.md
+carte_101.md	carte_105.md	carte_109.md	carte_113.md	carte_117.md	carte_121.md	carte_125.md	carte_129.md	carte_133.md	carte_90.md	carte_95.md
+carte_102.md	carte_106.md	carte_110.md	carte_114.md	carte_118.md	carte_122.md	carte_126.md	carte_130.md	carte_134.md	carte_91.md	carte_97.md
+carte_103.md	carte_107.md	carte_111.md	carte_115.md	carte_119.md	carte_123.md	carte_127.md	carte_131.md	carte_135.md	carte_92.md	carte_98.md
+
+boites/4:
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv
+cartes/carte_10.md	cartes/carte_24.md	cartes/carte_38.md
+cartes/carte_11.md	cartes/carte_25.md	cartes/carte_39.md
+cartes/carte_12.md	cartes/carte_26.md	cartes/carte_4.md
+cartes/carte_13.md	cartes/carte_27.md	cartes/carte_40.md
+cartes/carte_14.md	cartes/carte_28.md	cartes/carte_41.md
+cartes/carte_15.md	cartes/carte_29.md	cartes/carte_42.md
+cartes/carte_16.md	cartes/carte_3.md	cartes/carte_43.md
+cartes/carte_17.md	cartes/carte_30.md	cartes/carte_44.md
+cartes/carte_18.md	cartes/carte_31.md	cartes/carte_5.md
+cartes/carte_19.md	cartes/carte_32.md	cartes/carte_6.md
+cartes/carte_2.md	cartes/carte_33.md	cartes/carte_7.md
+cartes/carte_20.md	cartes/carte_34.md	cartes/carte_8.md
+cartes/carte_21.md	cartes/carte_35.md	cartes/carte_9.md
+cartes/carte_22.md	cartes/carte_36.md
+cartes/carte_23.md	cartes/carte_37.md
+cartes/carte_45.md	cartes/carte_60.md	cartes/carte_75.md
+cartes/carte_46.md	cartes/carte_61.md	cartes/carte_76.md
+cartes/carte_47.md	cartes/carte_62.md	cartes/carte_77.md
+cartes/carte_48.md	cartes/carte_63.md	cartes/carte_78.md
+cartes/carte_49.md	cartes/carte_64.md	cartes/carte_79.md
+cartes/carte_50.md	cartes/carte_65.md	cartes/carte_80.md
+cartes/carte_51.md	cartes/carte_66.md	cartes/carte_81.md
+cartes/carte_52.md	cartes/carte_67.md	cartes/carte_82.md
+cartes/carte_53.md	cartes/carte_68.md	cartes/carte_83.md
+cartes/carte_54.md	cartes/carte_69.md	cartes/carte_84.md
+cartes/carte_55.md	cartes/carte_70.md	cartes/carte_85.md
+cartes/carte_56.md	cartes/carte_71.md	cartes/carte_86.md
+cartes/carte_57.md	cartes/carte_72.md	cartes/carte_87.md
+cartes/carte_58.md	cartes/carte_73.md
+cartes/carte_59.md	cartes/carte_74.md
+cartes/carte_100.md	cartes/carte_115.md	cartes/carte_130.md
+cartes/carte_101.md	cartes/carte_116.md	cartes/carte_88.md
+cartes/carte_102.md	cartes/carte_117.md	cartes/carte_89.md
+cartes/carte_103.md	cartes/carte_118.md	cartes/carte_90.md
+cartes/carte_104.md	cartes/carte_119.md	cartes/carte_91.md
+cartes/carte_105.md	cartes/carte_120.md	cartes/carte_92.md
+cartes/carte_106.md	cartes/carte_121.md	cartes/carte_93.md
+cartes/carte_107.md	cartes/carte_122.md	cartes/carte_94.md
+cartes/carte_108.md	cartes/carte_123.md	cartes/carte_95.md
+cartes/carte_109.md	cartes/carte_124.md	cartes/carte_96.md
+cartes/carte_110.md	cartes/carte_125.md	cartes/carte_97.md
+cartes/carte_111.md	cartes/carte_126.md	cartes/carte_98.md
+cartes/carte_112.md	cartes/carte_127.md	cartes/carte_99.md
+cartes/carte_113.md	cartes/carte_128.md
+cartes/carte_114.md	cartes/carte_129.md
+DIV_CARTES 42 RESTE_CARTES 3
+eval  cp cartes/carte_{131..170}.md boites/4/ 
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv
+cartes/carte_10.md	cartes/carte_24.md	cartes/carte_38.md
+cartes/carte_11.md	cartes/carte_25.md	cartes/carte_39.md
+cartes/carte_12.md	cartes/carte_26.md	cartes/carte_4.md
+cartes/carte_13.md	cartes/carte_27.md	cartes/carte_40.md
+cartes/carte_14.md	cartes/carte_28.md	cartes/carte_41.md
+cartes/carte_15.md	cartes/carte_29.md	cartes/carte_42.md
+cartes/carte_16.md	cartes/carte_3.md	cartes/carte_43.md
+cartes/carte_17.md	cartes/carte_30.md	cartes/carte_44.md
+cartes/carte_18.md	cartes/carte_31.md	cartes/carte_45.md
+cartes/carte_19.md	cartes/carte_32.md	cartes/carte_5.md
+cartes/carte_2.md	cartes/carte_33.md	cartes/carte_6.md
+cartes/carte_20.md	cartes/carte_34.md	cartes/carte_7.md
+cartes/carte_21.md	cartes/carte_35.md	cartes/carte_8.md
+cartes/carte_22.md	cartes/carte_36.md	cartes/carte_9.md
+cartes/carte_23.md	cartes/carte_37.md
+cartes/carte_45.md	cartes/carte_60.md	cartes/carte_75.md
+cartes/carte_46.md	cartes/carte_61.md	cartes/carte_76.md
+cartes/carte_47.md	cartes/carte_62.md	cartes/carte_77.md
+cartes/carte_48.md	cartes/carte_63.md	cartes/carte_78.md
+cartes/carte_49.md	cartes/carte_64.md	cartes/carte_79.md
+cartes/carte_50.md	cartes/carte_65.md	cartes/carte_80.md
+cartes/carte_51.md	cartes/carte_66.md	cartes/carte_81.md
+cartes/carte_52.md	cartes/carte_67.md	cartes/carte_82.md
+cartes/carte_53.md	cartes/carte_68.md	cartes/carte_83.md
+cartes/carte_54.md	cartes/carte_69.md	cartes/carte_84.md
+cartes/carte_55.md	cartes/carte_70.md	cartes/carte_85.md
+cartes/carte_56.md	cartes/carte_71.md	cartes/carte_86.md
+cartes/carte_57.md	cartes/carte_72.md	cartes/carte_87.md
+cartes/carte_58.md	cartes/carte_73.md	cartes/carte_88.md
+cartes/carte_59.md	cartes/carte_74.md
+cartes/carte_100.md	cartes/carte_115.md	cartes/carte_130.md
+cartes/carte_101.md	cartes/carte_116.md	cartes/carte_131.md
+cartes/carte_102.md	cartes/carte_117.md	cartes/carte_88.md
+cartes/carte_103.md	cartes/carte_118.md	cartes/carte_89.md
+cartes/carte_104.md	cartes/carte_119.md	cartes/carte_90.md
+cartes/carte_105.md	cartes/carte_120.md	cartes/carte_91.md
+cartes/carte_106.md	cartes/carte_121.md	cartes/carte_92.md
+cartes/carte_107.md	cartes/carte_122.md	cartes/carte_93.md
+cartes/carte_108.md	cartes/carte_123.md	cartes/carte_94.md
+cartes/carte_109.md	cartes/carte_124.md	cartes/carte_95.md
+cartes/carte_110.md	cartes/carte_125.md	cartes/carte_96.md
+cartes/carte_111.md	cartes/carte_126.md	cartes/carte_97.md
+cartes/carte_112.md	cartes/carte_127.md	cartes/carte_98.md
+cartes/carte_113.md	cartes/carte_128.md	cartes/carte_99.md
+cartes/carte_114.md	cartes/carte_129.md
+DIV_CARTES 42 RESTE_CARTES 3
+eval  cp cartes/carte_{131..170}.md boites/4/ 
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv
+cartes/carte_10.md	cartes/carte_24.md	cartes/carte_38.md
+cartes/carte_11.md	cartes/carte_25.md	cartes/carte_39.md
+cartes/carte_12.md	cartes/carte_26.md	cartes/carte_4.md
+cartes/carte_13.md	cartes/carte_27.md	cartes/carte_40.md
+cartes/carte_14.md	cartes/carte_28.md	cartes/carte_41.md
+cartes/carte_15.md	cartes/carte_29.md	cartes/carte_42.md
+cartes/carte_16.md	cartes/carte_3.md	cartes/carte_43.md
+cartes/carte_17.md	cartes/carte_30.md	cartes/carte_44.md
+cartes/carte_18.md	cartes/carte_31.md	cartes/carte_5.md
+cartes/carte_19.md	cartes/carte_32.md	cartes/carte_6.md
+cartes/carte_2.md	cartes/carte_33.md	cartes/carte_7.md
+cartes/carte_20.md	cartes/carte_34.md	cartes/carte_8.md
+cartes/carte_21.md	cartes/carte_35.md	cartes/carte_9.md
+cartes/carte_22.md	cartes/carte_36.md
+cartes/carte_23.md	cartes/carte_37.md
+cartes/carte_46.md	cartes/carte_61.md	cartes/carte_76.md
+cartes/carte_47.md	cartes/carte_62.md	cartes/carte_77.md
+cartes/carte_48.md	cartes/carte_63.md	cartes/carte_78.md
+cartes/carte_49.md	cartes/carte_64.md	cartes/carte_79.md
+cartes/carte_50.md	cartes/carte_65.md	cartes/carte_80.md
+cartes/carte_51.md	cartes/carte_66.md	cartes/carte_81.md
+cartes/carte_52.md	cartes/carte_67.md	cartes/carte_82.md
+cartes/carte_53.md	cartes/carte_68.md	cartes/carte_83.md
+cartes/carte_54.md	cartes/carte_69.md	cartes/carte_84.md
+cartes/carte_55.md	cartes/carte_70.md	cartes/carte_85.md
+cartes/carte_56.md	cartes/carte_71.md	cartes/carte_86.md
+cartes/carte_57.md	cartes/carte_72.md	cartes/carte_87.md
+cartes/carte_58.md	cartes/carte_73.md	cartes/carte_88.md
+cartes/carte_59.md	cartes/carte_74.md
+cartes/carte_60.md	cartes/carte_75.md
+cartes/carte_100.md	cartes/carte_115.md	cartes/carte_130.md
+cartes/carte_101.md	cartes/carte_116.md	cartes/carte_131.md
+cartes/carte_102.md	cartes/carte_117.md	cartes/carte_132.md
+cartes/carte_103.md	cartes/carte_118.md	cartes/carte_90.md
+cartes/carte_104.md	cartes/carte_119.md	cartes/carte_91.md
+cartes/carte_105.md	cartes/carte_120.md	cartes/carte_92.md
+cartes/carte_106.md	cartes/carte_121.md	cartes/carte_93.md
+cartes/carte_107.md	cartes/carte_122.md	cartes/carte_94.md
+cartes/carte_108.md	cartes/carte_123.md	cartes/carte_95.md
+cartes/carte_109.md	cartes/carte_124.md	cartes/carte_96.md
+cartes/carte_110.md	cartes/carte_125.md	cartes/carte_97.md
+cartes/carte_111.md	cartes/carte_126.md	cartes/carte_98.md
+cartes/carte_112.md	cartes/carte_127.md	cartes/carte_99.md
+cartes/carte_113.md	cartes/carte_128.md
+cartes/carte_114.md	cartes/carte_129.md
+DIV_CARTES 42 RESTE_CARTES 3
+eval  cp cartes/carte_{134..173}.md boites/4/ 
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv
+cartes/carte_10.md	cartes/carte_24.md	cartes/carte_38.md
+cartes/carte_11.md	cartes/carte_25.md	cartes/carte_39.md
+cartes/carte_12.md	cartes/carte_26.md	cartes/carte_4.md
+cartes/carte_13.md	cartes/carte_27.md	cartes/carte_40.md
+cartes/carte_14.md	cartes/carte_28.md	cartes/carte_41.md
+cartes/carte_15.md	cartes/carte_29.md	cartes/carte_42.md
+cartes/carte_16.md	cartes/carte_3.md	cartes/carte_43.md
+cartes/carte_17.md	cartes/carte_30.md	cartes/carte_44.md
+cartes/carte_18.md	cartes/carte_31.md	cartes/carte_5.md
+cartes/carte_19.md	cartes/carte_32.md	cartes/carte_6.md
+cartes/carte_2.md	cartes/carte_33.md	cartes/carte_7.md
+cartes/carte_20.md	cartes/carte_34.md	cartes/carte_8.md
+cartes/carte_21.md	cartes/carte_35.md	cartes/carte_9.md
+cartes/carte_22.md	cartes/carte_36.md
+cartes/carte_23.md	cartes/carte_37.md
+cartes/carte_46.md	cartes/carte_61.md	cartes/carte_76.md
+cartes/carte_47.md	cartes/carte_62.md	cartes/carte_77.md
+cartes/carte_48.md	cartes/carte_63.md	cartes/carte_78.md
+cartes/carte_49.md	cartes/carte_64.md	cartes/carte_79.md
+cartes/carte_50.md	cartes/carte_65.md	cartes/carte_80.md
+cartes/carte_51.md	cartes/carte_66.md	cartes/carte_81.md
+cartes/carte_52.md	cartes/carte_67.md	cartes/carte_82.md
+cartes/carte_53.md	cartes/carte_68.md	cartes/carte_83.md
+cartes/carte_54.md	cartes/carte_69.md	cartes/carte_84.md
+cartes/carte_55.md	cartes/carte_70.md	cartes/carte_85.md
+cartes/carte_56.md	cartes/carte_71.md	cartes/carte_86.md
+cartes/carte_57.md	cartes/carte_72.md	cartes/carte_87.md
+cartes/carte_58.md	cartes/carte_73.md	cartes/carte_88.md
+cartes/carte_59.md	cartes/carte_74.md
+cartes/carte_60.md	cartes/carte_75.md
+cartes/carte_100.md	cartes/carte_115.md	cartes/carte_130.md
+cartes/carte_101.md	cartes/carte_116.md	cartes/carte_131.md
+cartes/carte_102.md	cartes/carte_117.md	cartes/carte_132.md
+cartes/carte_103.md	cartes/carte_118.md	cartes/carte_90.md
+cartes/carte_104.md	cartes/carte_119.md	cartes/carte_91.md
+cartes/carte_105.md	cartes/carte_120.md	cartes/carte_92.md
+cartes/carte_106.md	cartes/carte_121.md	cartes/carte_93.md
+cartes/carte_107.md	cartes/carte_122.md	cartes/carte_94.md
+cartes/carte_108.md	cartes/carte_123.md	cartes/carte_95.md
+cartes/carte_109.md	cartes/carte_124.md	cartes/carte_96.md
+cartes/carte_110.md	cartes/carte_125.md	cartes/carte_97.md
+cartes/carte_111.md	cartes/carte_126.md	cartes/carte_98.md
+cartes/carte_112.md	cartes/carte_127.md	cartes/carte_99.md
+cartes/carte_113.md	cartes/carte_128.md
+cartes/carte_114.md	cartes/carte_129.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls boites/*
+boites/1:
+carte_10.md	carte_19.md	carte_29.md	carte_37.md	carte_5.md
+carte_11.md	carte_2.md	carte_3.md	carte_39.md	carte_6.md
+carte_12.md	carte_20.md	carte_30.md	carte_40.md	carte_7.md
+carte_13.md	carte_21.md	carte_31.md	carte_41.md	carte_8.md
+carte_14.md	carte_22.md	carte_32.md	carte_42.md	carte_9.md
+carte_15.md	carte_23.md	carte_33.md	carte_43.md
+carte_16.md	carte_24.md	carte_34.md	carte_44.md
+carte_17.md	carte_25.md	carte_35.md	carte_45.md
+carte_18.md	carte_26.md	carte_36.md	carte_46.md
+
+boites/2:
+carte_45.md	carte_54.md	carte_64.md	carte_73.md	carte_84.md
+carte_46.md	carte_55.md	carte_65.md	carte_75.md	carte_85.md
+carte_47.md	carte_56.md	carte_66.md	carte_77.md	carte_86.md
+carte_48.md	carte_57.md	carte_67.md	carte_78.md	carte_87.md
+carte_49.md	carte_58.md	carte_68.md	carte_79.md	carte_88.md
+carte_50.md	carte_59.md	carte_69.md	carte_80.md	carte_90.md
+carte_51.md	carte_60.md	carte_70.md	carte_81.md	carte_91.md
+carte_52.md	carte_61.md	carte_71.md	carte_82.md
+carte_53.md	carte_63.md	carte_72.md	carte_83.md
+
+boites/3:
+carte_100.md	carte_112.md	carte_122.md	carte_132.md	carte_94.md
+carte_101.md	carte_113.md	carte_123.md	carte_133.md	carte_95.md
+carte_102.md	carte_114.md	carte_124.md	carte_134.md	carte_96.md
+carte_103.md	carte_115.md	carte_125.md	carte_135.md	carte_97.md
+carte_104.md	carte_116.md	carte_126.md	carte_136.md	carte_98.md
+carte_105.md	carte_117.md	carte_127.md	carte_89.md	carte_99.md
+carte_106.md	carte_118.md	carte_128.md	carte_90.md
+carte_108.md	carte_119.md	carte_129.md	carte_91.md
+carte_109.md	carte_120.md	carte_130.md	carte_92.md
+carte_110.md	carte_121.md	carte_131.md	carte_93.md
+
+boites/4:
+carte_134.md	carte_142.md	carte_150.md	carte_159.md	carte_167.md
+carte_135.md	carte_143.md	carte_151.md	carte_160.md	carte_168.md
+carte_136.md	carte_144.md	carte_152.md	carte_161.md	carte_169.md
+carte_137.md	carte_145.md	carte_153.md	carte_162.md	carte_170.md
+carte_138.md	carte_146.md	carte_154.md	carte_163.md	carte_171.md
+carte_139.md	carte_147.md	carte_155.md	carte_164.md	carte_172.md
+carte_140.md	carte_148.md	carte_156.md	carte_165.md
+carte_141.md	carte_149.md	carte_158.md	carte_166.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls session/*
+session/1:
+carte_14.md	carte_20.md	carte_26.md	carte_31.md	carte_41.md
+carte_15.md	carte_21.md	carte_27.md	carte_33.md	carte_7.md
+carte_17.md	carte_22.md	carte_28.md	carte_38.md	carte_9.md
+carte_19.md	carte_23.md	carte_29.md	carte_4.md
+carte_2.md	carte_24.md	carte_30.md	carte_40.md
+
+session/2:
+carte_47.md	carte_57.md	carte_66.md	carte_76.md	carte_86.md
+carte_48.md	carte_59.md	carte_69.md	carte_80.md	carte_88.md
+carte_53.md	carte_62.md	carte_71.md	carte_82.md	carte_89.md
+carte_54.md	carte_63.md	carte_74.md	carte_85.md
+
+session/3:
+carte_106.md	carte_111.md	carte_117.md	carte_94.md	carte_99.md
+carte_107.md	carte_113.md	carte_120.md	carte_96.md
+carte_110.md	carte_115.md	carte_88.md	carte_98.md
+
+session/4:
+carte_137.md	carte_157.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/clean_session.sh
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls session/*
+session/1:
+
+session/2:
+
+session/3:
+
+session/4:
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/clean_session.sh
+rm: session/1/carte_*.md: No such file or directory
+rm: session/2/carte_*.md: No such file or directory
+rm: session/3/carte_*.md: No such file or directory
+rm: session/4/carte_*.md: No such file or directory
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv
+cartes/carte_10.md	cartes/carte_24.md	cartes/carte_38.md
+cartes/carte_11.md	cartes/carte_25.md	cartes/carte_39.md
+cartes/carte_12.md	cartes/carte_26.md	cartes/carte_4.md
+cartes/carte_13.md	cartes/carte_27.md	cartes/carte_40.md
+cartes/carte_14.md	cartes/carte_28.md	cartes/carte_41.md
+cartes/carte_15.md	cartes/carte_29.md	cartes/carte_42.md
+cartes/carte_16.md	cartes/carte_3.md	cartes/carte_43.md
+cartes/carte_17.md	cartes/carte_30.md	cartes/carte_44.md
+cartes/carte_18.md	cartes/carte_31.md	cartes/carte_5.md
+cartes/carte_19.md	cartes/carte_32.md	cartes/carte_6.md
+cartes/carte_2.md	cartes/carte_33.md	cartes/carte_7.md
+cartes/carte_20.md	cartes/carte_34.md	cartes/carte_8.md
+cartes/carte_21.md	cartes/carte_35.md	cartes/carte_9.md
+cartes/carte_22.md	cartes/carte_36.md
+cartes/carte_23.md	cartes/carte_37.md
+cartes/carte_46.md	cartes/carte_61.md	cartes/carte_76.md
+cartes/carte_47.md	cartes/carte_62.md	cartes/carte_77.md
+cartes/carte_48.md	cartes/carte_63.md	cartes/carte_78.md
+cartes/carte_49.md	cartes/carte_64.md	cartes/carte_79.md
+cartes/carte_50.md	cartes/carte_65.md	cartes/carte_80.md
+cartes/carte_51.md	cartes/carte_66.md	cartes/carte_81.md
+cartes/carte_52.md	cartes/carte_67.md	cartes/carte_82.md
+cartes/carte_53.md	cartes/carte_68.md	cartes/carte_83.md
+cartes/carte_54.md	cartes/carte_69.md	cartes/carte_84.md
+cartes/carte_55.md	cartes/carte_70.md	cartes/carte_85.md
+cartes/carte_56.md	cartes/carte_71.md	cartes/carte_86.md
+cartes/carte_57.md	cartes/carte_72.md	cartes/carte_87.md
+cartes/carte_58.md	cartes/carte_73.md	cartes/carte_88.md
+cartes/carte_59.md	cartes/carte_74.md
+cartes/carte_60.md	cartes/carte_75.md
+cartes/carte_100.md	cartes/carte_115.md	cartes/carte_130.md
+cartes/carte_101.md	cartes/carte_116.md	cartes/carte_131.md
+cartes/carte_102.md	cartes/carte_117.md	cartes/carte_132.md
+cartes/carte_103.md	cartes/carte_118.md	cartes/carte_90.md
+cartes/carte_104.md	cartes/carte_119.md	cartes/carte_91.md
+cartes/carte_105.md	cartes/carte_120.md	cartes/carte_92.md
+cartes/carte_106.md	cartes/carte_121.md	cartes/carte_93.md
+cartes/carte_107.md	cartes/carte_122.md	cartes/carte_94.md
+cartes/carte_108.md	cartes/carte_123.md	cartes/carte_95.md
+cartes/carte_109.md	cartes/carte_124.md	cartes/carte_96.md
+cartes/carte_110.md	cartes/carte_125.md	cartes/carte_97.md
+cartes/carte_111.md	cartes/carte_126.md	cartes/carte_98.md
+cartes/carte_112.md	cartes/carte_127.md	cartes/carte_99.md
+cartes/carte_113.md	cartes/carte_128.md
+cartes/carte_114.md	cartes/carte_129.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls session/*
+session/1:
+carte_32.md	carte_38.md	carte_4.md	carte_5.md
+
+session/2:
+carte_62.md	carte_67.md	carte_71.md
+
+session/3:
+carte_130.md	carte_91.md
+
+session/4:
+carte_159.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/clean_session.sh 
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls session/*
+session/1:
+
+session/2:
+
+session/3:
+
+session/4:
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % read test
+toto
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % echo $test
+toto
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % read test 
+toto
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % echo $?
+0
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % bsbqx  
+zsh: command not found: bsbqx
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % echo $?
+127
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % true
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % echo $?
+0
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % false
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % echo $?
+1
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % rm boites/1/*
+zsh: sure you want to delete all 41 files in /Users/myriambenhadj/Desktop/Projet_final/boites/1 [yn]? y
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls boites/*
+boites/1:
+
+boites/2:
+carte_45.md	carte_54.md	carte_64.md	carte_75.md	carte_84.md
+carte_46.md	carte_55.md	carte_65.md	carte_76.md	carte_85.md
+carte_47.md	carte_56.md	carte_66.md	carte_77.md	carte_86.md
+carte_48.md	carte_57.md	carte_68.md	carte_78.md	carte_87.md
+carte_49.md	carte_58.md	carte_69.md	carte_79.md	carte_88.md
+carte_50.md	carte_59.md	carte_70.md	carte_80.md	carte_90.md
+carte_51.md	carte_60.md	carte_72.md	carte_81.md	carte_91.md
+carte_52.md	carte_61.md	carte_73.md	carte_82.md
+carte_53.md	carte_63.md	carte_74.md	carte_83.md
+
+boites/3:
+carte_100.md	carte_110.md	carte_120.md	carte_131.md	carte_94.md
+carte_101.md	carte_111.md	carte_121.md	carte_132.md	carte_95.md
+carte_102.md	carte_112.md	carte_122.md	carte_133.md	carte_96.md
+carte_103.md	carte_113.md	carte_123.md	carte_134.md	carte_97.md
+carte_104.md	carte_114.md	carte_124.md	carte_135.md	carte_98.md
+carte_105.md	carte_115.md	carte_125.md	carte_136.md	carte_99.md
+carte_106.md	carte_116.md	carte_126.md	carte_89.md
+carte_107.md	carte_117.md	carte_127.md	carte_90.md
+carte_108.md	carte_118.md	carte_128.md	carte_92.md
+carte_109.md	carte_119.md	carte_129.md	carte_93.md
+
+boites/4:
+carte_134.md	carte_142.md	carte_150.md	carte_158.md	carte_167.md
+carte_135.md	carte_143.md	carte_151.md	carte_160.md	carte_168.md
+carte_136.md	carte_144.md	carte_152.md	carte_161.md	carte_169.md
+carte_137.md	carte_145.md	carte_153.md	carte_162.md	carte_170.md
+carte_138.md	carte_146.md	carte_154.md	carte_163.md	carte_171.md
+carte_139.md	carte_147.md	carte_155.md	carte_164.md	carte_172.md
+carte_140.md	carte_148.md	carte_156.md	carte_165.md
+carte_141.md	carte_149.md	carte_157.md	carte_166.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls boites/1 
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/init_session.sh data/projet_final_CSV.csv
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls boites/1 
+carte_11.md	carte_2.md	carte_28.md	carte_36.md	carte_43.md
+carte_12.md	carte_20.md	carte_29.md	carte_37.md	carte_5.md
+carte_13.md	carte_21.md	carte_30.md	carte_38.md	carte_6.md
+carte_14.md	carte_22.md	carte_31.md	carte_39.md	carte_7.md
+carte_15.md	carte_23.md	carte_32.md	carte_4.md	carte_8.md
+carte_16.md	carte_24.md	carte_33.md	carte_40.md	carte_9.md
+carte_17.md	carte_26.md	carte_34.md	carte_41.md
+carte_19.md	carte_27.md	carte_35.md	carte_42.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/run_session.sh data/projet_final_CSV.csv 
+session/1:
+carte_10.md	carte_18.md	carte_25.md	carte_3.md
+
+session/2:
+carte_62.md	carte_74.md	carte_81.md
+
+session/3:
+carte_114.md	carte_95.md
+
+session/4:
+carte_157.md
+mdp: carte_25.md: No such file or directory
+Connaissez-vous ce mot ? (o/n) ?
+^C
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls session/*
+session/1:
+carte_10.md	carte_18.md	carte_25.md	carte_3.md
+
+session/2:
+carte_62.md	carte_74.md	carte_81.md
+
+session/3:
+carte_114.md	carte_95.md
+
+session/4:
+carte_157.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/run_session.sh data/projet_final_CSV.csv
+session/1:
+carte_10.md	carte_18.md	carte_25.md	carte_3.md
+
+session/2:
+carte_62.md	carte_74.md	carte_81.md
+
+session/3:
+carte_114.md	carte_95.md
+
+session/4:
+carte_157.md
+mdp: carte_3.md: No such file or directory
+Connaissez-vous ce mot ? (o/n) ?
+^C
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % mdp
+^C
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % mdp session/1/carte_3.md 
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/run_session.sh data/projet_final_CSV.csv
+session/1:
+carte_10.md	carte_18.md	carte_25.md	carte_3.md
+
+session/2:
+carte_62.md	carte_74.md	carte_81.md
+
+session/3:
+carte_114.md	carte_95.md
+
+session/4:
+carte_157.md
+mdp: carte_3.md: No such file or directory
+Connaissez-vous ce mot ? (o/n) ?
+^C
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % cat programmes/run_session.sh 
+#!/bin/bash
+
+# ./run_session.sh <fichier>
+#		$0				$1
+
+FICHIER=$1
+BOITES=4
+
+# afficher toutes les cartes de la session
+ls -R session/*
+
+# parcourir les boîtes et démarrer la session
+for ((i=1;i<=BOITES;i++))
+do
+	
+	if [ $i -gt 2 ]; then
+		echo 'Voulez-vous arrêter la session ? (o/n) ?'
+		read answer
+		if [ "$answer" == "o" ]; then 
+			for ((j=1;j<=BOITES;j++))
+			do
+				eval rm session/$j/carte_*.md 2> /dev/null
+			done
+		        ./programmes/init_session.sh "$FICHIER"
+			exit 0
+		fi
+	fi
+	RESULTAT_SHUF=$(ls session/$i/ | shuf)
+	for carte in "$RESULTAT_SHUF"
+	do
+		mdp session/$i/$carte
+		
+		echo 'Connaissez-vous ce mot ? (o/n) ?'
+		read answer
+		if [ "$answer" == "o" ]; then 
+			if [ $i -lt 4 ]; then
+				eval mv session/$i/$carte session/$(expr $i + 1)/$carte
+			fi
+		else
+			if [ $i -gt 1 ]; then
+				eval mv session/$i/$carte session/$(expr $i - 1)/$carte
+			fi
+		fi
+	done
+done
+
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % cat programmes/run_session.sh
+#!/bin/bash
+
+# ./run_session.sh <fichier>
+#		$0				$1
+
+FICHIER=$1
+BOITES=4
+
+# afficher toutes les cartes de la session
+ls -R session/*
+
+# parcourir les boîtes et démarrer la session
+for ((i=1;i<=BOITES;i++))
+do
+	
+	if [ $i -gt 2 ]; then
+		echo 'Voulez-vous arrêter la session ? (o/n) ?'
+		read answer
+		if [ "$answer" == "o" ]; then 
+			for ((j=1;j<=BOITES;j++))
+			do
+				eval rm session/$j/carte_*.md 2> /dev/null
+			done
+		        ./programmes/init_session.sh "$FICHIER"
+			exit 0
+		fi
+	fi
+	RESULTAT_SHUF=$(ls session/$i/ | shuf)
+	for carte in $RESULTAT_SHUF
+	do
+		mdp $carte
+		
+		echo 'Connaissez-vous ce mot ? (o/n) ?'
+		read answer
+		if [ "$answer" == "o" ]; then 
+			if [ $i -lt 4 ]; then
+				eval mv session/$i/$carte session/$(expr $i + 1)/$carte
+			fi
+		else
+			if [ $i -gt 1 ]; then
+				eval mv session/$i/$carte session/$(expr $i - 1)/$carte
+			fi
+		fi
+	done
+done
+
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/run_session.sh data/projet_final_CSV.csv
+session/1:
+carte_10.md	carte_18.md	carte_25.md	carte_3.md
+
+session/2:
+carte_62.md	carte_74.md	carte_81.md
+
+session/3:
+carte_114.md	carte_95.md
+
+session/4:
+carte_157.md
+mdp: carte_10.md: No such file or directory
+Connaissez-vous ce mot ? (o/n) ?
+^C
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/run_session.sh data/projet_final_CSV.csv
+session/1:
+carte_10.md	carte_18.md	carte_25.md	carte_3.md
+
+session/2:
+carte_62.md	carte_74.md	carte_81.md
+
+session/3:
+carte_114.md	carte_95.md
+
+session/4:
+carte_157.md
+Connaissez-vous ce mot ? (o/n) ?
+^C
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ./programmes/run_session.sh data/projet_final_CSV.csv
+session/1:
+carte_10.md	carte_18.md	carte_25.md	carte_3.md
+
+session/2:
+carte_62.md	carte_74.md	carte_81.md
+
+session/3:
+carte_114.md	carte_95.md
+
+session/4:
+carte_157.md
+Connaissez-vous ce mot ? (o/n) ?
+o
+Connaissez-vous ce mot ? (o/n) ?
+n
+Connaissez-vous ce mot ? (o/n) ?
+o
+Connaissez-vous ce mot ? (o/n) ?
+n
+Connaissez-vous ce mot ? (o/n) ?
+o
+Connaissez-vous ce mot ? (o/n) ?
+o
+Connaissez-vous ce mot ? (o/n) ?
+n
+Connaissez-vous ce mot ? (o/n) ?
+o
+Connaissez-vous ce mot ? (o/n) ?
+o
+Voulez-vous arrêter la session ? (o/n) ?
+n
+Connaissez-vous ce mot ? (o/n) ?
+^C
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % ls session/*
+session/1:
+carte_18.md	carte_3.md	carte_74.md
+
+session/2:
+
+session/3:
+carte_10.md	carte_25.md	carte_81.md
+carte_114.md	carte_62.md	carte_95.md
+
+session/4:
+carte_157.md
+myriambenhadj@MacBook-Air-de-Myriam Projet_final % 
