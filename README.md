@@ -115,5 +115,3 @@ done
 
 **Usage :** `./init_session.sh <fichier>`
 
-**Ligne 1 :** Il s'agit du shebang qui précise qu'il s'agit d'un script Bash.
-
