@@ -13,9 +13,7 @@ N'oublions pas qu'un mot peut être polysémique et peut changer de sens en fonc
 
 ## Les programmes 
 
-Le programme se décompose en 3 partie : clean_session, generer_cartes et init_session. 
-
-## clean_session : 
+Le programme se décompose en 3 partie : `clean_session`, `generer_cartes` et `init_session`. 
 
 ## Programme `clean_session.sh` 
 
