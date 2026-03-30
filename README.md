@@ -113,3 +113,4 @@ done
 
 **Usage :** `./init_session.sh <fichier>`
 
+*Projet réalisé dans le cadre du cours Initiation aux ordinateurs et à la programmation (Cursus : L2 TAL, Établissement : INALCO, Enseignant : P.Magistry)*
